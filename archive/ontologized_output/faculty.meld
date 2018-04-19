@@ -1,0 +1,605 @@
+(in-microtheory EnglishMt)
+(fullName BrennaArgall "Brenna Argall")
+(in-microtheory CyclistDefinitionalMt)
+(isa BrennaArgall HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa BrennaArgall AcademicProfessional)
+(titleOfPerson BrennaArgall Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName KorayAydin "Koray Aydin")
+(in-microtheory CyclistDefinitionalMt)
+(isa KorayAydin HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa KorayAydin AcademicProfessional)
+(titleOfPerson KorayAydin Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName RandallBerry "Randall Berry")
+(in-microtheory CyclistDefinitionalMt)
+(isa RandallBerry HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa RandallBerry AcademicProfessional)
+(titleOfPerson RandallBerry Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName LarryBirnbaum "Larry Birnbaum")
+(in-microtheory CyclistDefinitionalMt)
+(isa LarryBirnbaum HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa LarryBirnbaum AcademicProfessional)
+(titleOfPerson LarryBirnbaum Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName FabianE.Bustamante "Fabian E. Bustamante")
+(in-microtheory CyclistDefinitionalMt)
+(isa FabianE.Bustamante HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa FabianE.Bustamante AcademicProfessional)
+(titleOfPerson FabianE.Bustamante Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName ArthurButz "Arthur Butz")
+(in-microtheory CyclistDefinitionalMt)
+(isa ArthurButz HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa ArthurButz AcademicProfessional)
+(titleOfPerson ArthurButz Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName SimoneCampanoni "Simone Campanoni")
+(in-microtheory CyclistDefinitionalMt)
+(isa SimoneCampanoni HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa SimoneCampanoni AcademicProfessional)
+(titleOfPerson SimoneCampanoni Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName YanChen "Yan Chen")
+(in-microtheory CyclistDefinitionalMt)
+(isa YanChen HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa YanChen AcademicProfessional)
+(titleOfPerson YanChen Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName AlokChoudhary "Alok Choudhary")
+(in-microtheory CyclistDefinitionalMt)
+(isa AlokChoudhary HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AlokChoudhary AcademicProfessional)
+(titleOfPerson AlokChoudhary Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName OliverS.Cossairt "Oliver S. Cossairt")
+(in-microtheory CyclistDefinitionalMt)
+(isa OliverS.Cossairt HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa OliverS.Cossairt AcademicProfessional)
+(titleOfPerson OliverS.Cossairt Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName AnindyaDe "Anindya De")
+(in-microtheory CyclistDefinitionalMt)
+(isa AnindyaDe HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+(in-microtheory EnglishMt)
+(fullName ChristosDimoulas "Christos Dimoulas")
+(in-microtheory CyclistDefinitionalMt)
+(isa ChristosDimoulas HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa ChristosDimoulas AcademicProfessional)
+(titleOfPerson ChristosDimoulas Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName PeterDinda "Peter Dinda")
+(in-microtheory CyclistDefinitionalMt)
+(isa PeterDinda HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa PeterDinda AcademicProfessional)
+(titleOfPerson PeterDinda Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName DouglasDowney "Douglas Downey")
+(in-microtheory CyclistDefinitionalMt)
+(isa DouglasDowney HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa DouglasDowney AcademicProfessional)
+(titleOfPerson DouglasDowney Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName RobbyFindler "Robby Findler")
+(in-microtheory CyclistDefinitionalMt)
+(isa RobbyFindler HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa RobbyFindler AcademicProfessional)
+(titleOfPerson RobbyFindler Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName KenForbus "Ken Forbus")
+(in-microtheory CyclistDefinitionalMt)
+(isa KenForbus HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa KenForbus AcademicProfessional)
+(titleOfPerson KenForbus Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName RandyFreeman "Randy Freeman")
+(in-microtheory CyclistDefinitionalMt)
+(isa RandyFreeman HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa RandyFreeman AcademicProfessional)
+(titleOfPerson RandyFreeman Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName MatthewGrayson "Matthew Grayson")
+(in-microtheory CyclistDefinitionalMt)
+(isa MatthewGrayson HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa MatthewGrayson AcademicProfessional)
+(titleOfPerson MatthewGrayson Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName JieGu "Jie Gu")
+(in-microtheory CyclistDefinitionalMt)
+(isa JieGu HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa JieGu AcademicProfessional)
+(titleOfPerson JieGu Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName DongningGuo "Dongning Guo")
+(in-microtheory CyclistDefinitionalMt)
+(isa DongningGuo HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa DongningGuo AcademicProfessional)
+(titleOfPerson DongningGuo Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName KristianJ.Hammond "Kristian J. Hammond")
+(in-microtheory CyclistDefinitionalMt)
+(isa KristianJ.Hammond HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa KristianJ.Hammond AcademicProfessional)
+(titleOfPerson KristianJ.Hammond Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName NikosHardavellas "Nikos Hardavellas")
+(in-microtheory CyclistDefinitionalMt)
+(isa NikosHardavellas HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa NikosHardavellas AcademicProfessional)
+(titleOfPerson NikosHardavellas Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName JasonD.Hartline "Jason D. Hartline")
+(in-microtheory CyclistDefinitionalMt)
+(isa JasonD.Hartline HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa JasonD.Hartline AcademicProfessional)
+(titleOfPerson JasonD.Hartline Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName LarryHenschen "Larry Henschen")
+(in-microtheory CyclistDefinitionalMt)
+(isa LarryHenschen HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa LarryHenschen AcademicProfessional)
+(titleOfPerson LarryHenschen Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName JosiahHester "Josiah Hester")
+(in-microtheory CyclistDefinitionalMt)
+(isa JosiahHester HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa JosiahHester AcademicProfessional)
+(titleOfPerson JosiahHester Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName MichaelHonig "Michael Honig")
+(in-microtheory CyclistDefinitionalMt)
+(isa MichaelHonig HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa MichaelHonig AcademicProfessional)
+(titleOfPerson MichaelHonig Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName MichaelHorn "Michael Horn")
+(in-microtheory CyclistDefinitionalMt)
+(isa MichaelHorn HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa MichaelHorn AcademicProfessional)
+(titleOfPerson MichaelHorn Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName IanHorswill "Ian Horswill")
+(in-microtheory CyclistDefinitionalMt)
+(isa IanHorswill HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa IanHorswill AcademicProfessional)
+(titleOfPerson IanHorswill Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName Seng-TiongHo "Seng-Tiong Ho")
+(in-microtheory CyclistDefinitionalMt)
+(isa Seng-TiongHo HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa Seng-TiongHo AcademicProfessional)
+(titleOfPerson Seng-TiongHo Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName RussellJoseph "Russell Joseph")
+(in-microtheory CyclistDefinitionalMt)
+(isa RussellJoseph HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa RussellJoseph AcademicProfessional)
+(titleOfPerson RussellJoseph Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName Ming-YangKao "Ming-Yang Kao")
+(in-microtheory CyclistDefinitionalMt)
+(isa Ming-YangKao HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa Ming-YangKao AcademicProfessional)
+(titleOfPerson Ming-YangKao Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName AggelosK.Katsaggelos "Aggelos K. Katsaggelos")
+(in-microtheory CyclistDefinitionalMt)
+(isa AggelosK.Katsaggelos HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AggelosK.Katsaggelos AcademicProfessional)
+(titleOfPerson AggelosK.Katsaggelos Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName PedramKhalili "Pedram Khalili")
+(in-microtheory CyclistDefinitionalMt)
+(isa PedramKhalili HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa PedramKhalili AcademicProfessional)
+(titleOfPerson PedramKhalili Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName PremKumar "Prem Kumar")
+(in-microtheory CyclistDefinitionalMt)
+(isa PremKumar HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa PremKumar AcademicProfessional)
+(titleOfPerson PremKumar Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName AleksandarKuzmanovic "Aleksandar Kuzmanovic")
+(in-microtheory CyclistDefinitionalMt)
+(isa AleksandarKuzmanovic HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AleksandarKuzmanovic AcademicProfessional)
+(titleOfPerson AleksandarKuzmanovic Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName Chung-ChiehLee "Chung-Chieh Lee")
+(in-microtheory CyclistDefinitionalMt)
+(isa Chung-ChiehLee HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa Chung-ChiehLee AcademicProfessional)
+(titleOfPerson Chung-ChiehLee Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName HanLiu "Han Liu")
+(in-microtheory CyclistDefinitionalMt)
+(isa HanLiu HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa HanLiu AcademicProfessional)
+(titleOfPerson HanLiu Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName KonstantinMakarychev "Konstantin Makarychev")
+(in-microtheory CyclistDefinitionalMt)
+(isa KonstantinMakarychev HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa KonstantinMakarychev AcademicProfessional)
+(titleOfPerson KonstantinMakarychev Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName GokhanMemik "Gokhan Memik")
+(in-microtheory CyclistDefinitionalMt)
+(isa GokhanMemik HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa GokhanMemik AcademicProfessional)
+(titleOfPerson GokhanMemik Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName SedaO.Memik "Seda O. Memik")
+(in-microtheory CyclistDefinitionalMt)
+(isa SedaO.Memik HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa SedaO.Memik AcademicProfessional)
+(titleOfPerson SedaO.Memik Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName IlyaMikhelson "Ilya Mikhelson")
+(in-microtheory CyclistDefinitionalMt)
+(isa IlyaMikhelson HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+(in-microtheory EnglishMt)
+(fullName HoomanMohseni "Hooman Mohseni")
+(in-microtheory CyclistDefinitionalMt)
+(isa HoomanMohseni HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa HoomanMohseni AcademicProfessional)
+(titleOfPerson HoomanMohseni Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName DonNorman "Don Norman")
+(in-microtheory CyclistDefinitionalMt)
+(isa DonNorman HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+(in-microtheory EnglishMt)
+(fullName EleanorO'Rourke "Eleanor O'Rourke")
+(in-microtheory CyclistDefinitionalMt)
+(isa EleanorO'Rourke HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa EleanorO'Rourke AcademicProfessional)
+(titleOfPerson EleanorO'Rourke Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName Thrasyvoulos(Thrasos)N.Pappas "Thrasyvoulos (Thrasos) N. Pappas")
+(in-microtheory CyclistDefinitionalMt)
+(isa Thrasyvoulos(Thrasos)N.Pappas HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa Thrasyvoulos(Thrasos)N.Pappas AcademicProfessional)
+(titleOfPerson Thrasyvoulos(Thrasos)N.Pappas Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName BryanPardo "Bryan Pardo")
+(in-microtheory CyclistDefinitionalMt)
+(isa BryanPardo HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa BryanPardo AcademicProfessional)
+(titleOfPerson BryanPardo Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName MartinPlonus "Martin Plonus")
+(in-microtheory CyclistDefinitionalMt)
+(isa MartinPlonus HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa MartinPlonus AcademicProfessional)
+(titleOfPerson MartinPlonus Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName MortezaAmirRahimi "Morteza Amir Rahimi")
+(in-microtheory CyclistDefinitionalMt)
+(isa MortezaAmirRahimi HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa MortezaAmirRahimi AcademicProfessional)
+(titleOfPerson MortezaAmirRahimi Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName ManijehRazeghi "Manijeh Razeghi")
+(in-microtheory CyclistDefinitionalMt)
+(isa ManijehRazeghi HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+(in-microtheory EnglishMt)
+(fullName ChrisRiesbeck "Chris Riesbeck")
+(in-microtheory CyclistDefinitionalMt)
+(isa ChrisRiesbeck HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa ChrisRiesbeck AcademicProfessional)
+(titleOfPerson ChrisRiesbeck Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName JennieM.Rogers "Jennie M. Rogers")
+(in-microtheory CyclistDefinitionalMt)
+(isa JennieM.Rogers HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa JennieM.Rogers AcademicProfessional)
+(titleOfPerson JennieM.Rogers Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName MichaelRubenstein "Michael Rubenstein")
+(in-microtheory CyclistDefinitionalMt)
+(isa MichaelRubenstein HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa MichaelRubenstein AcademicProfessional)
+(titleOfPerson MichaelRubenstein Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName AlanV.Sahakian "Alan V. Sahakian")
+(in-microtheory CyclistDefinitionalMt)
+(isa AlanV.Sahakian HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AlanV.Sahakian AcademicProfessional)
+(titleOfPerson AlanV.Sahakian Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName PeterScheuermann "Peter Scheuermann")
+(in-microtheory CyclistDefinitionalMt)
+(isa PeterScheuermann HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa PeterScheuermann AcademicProfessional)
+(titleOfPerson PeterScheuermann Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName SelimShahriar "Selim Shahriar")
+(in-microtheory CyclistDefinitionalMt)
+(isa SelimShahriar HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa SelimShahriar AcademicProfessional)
+(titleOfPerson SelimShahriar Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName SaraOwsleySood "Sara Owsley Sood ")
+(in-microtheory CyclistDefinitionalMt)
+(isa SaraOwsleySood HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+(in-microtheory EnglishMt)
+(fullName AllenTaflove "Allen Taflove")
+(in-microtheory CyclistDefinitionalMt)
+(isa AllenTaflove HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AllenTaflove AcademicProfessional)
+(titleOfPerson AllenTaflove Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName JesseTov "Jesse Tov")
+(in-microtheory CyclistDefinitionalMt)
+(isa JesseTov HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+(in-microtheory EnglishMt)
+(fullName JackE.Tumblin "Jack E. Tumblin")
+(in-microtheory CyclistDefinitionalMt)
+(isa JackE.Tumblin HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa JackE.Tumblin AcademicProfessional)
+(titleOfPerson JackE.Tumblin Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName AravindanVijayaraghavan "Aravindan Vijayaraghavan")
+(in-microtheory CyclistDefinitionalMt)
+(isa AravindanVijayaraghavan HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AravindanVijayaraghavan AcademicProfessional)
+(titleOfPerson AravindanVijayaraghavan Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName ErminWei "Ermin Wei")
+(in-microtheory CyclistDefinitionalMt)
+(isa ErminWei HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+(in-microtheory EnglishMt)
+(fullName UriWilensky "Uri Wilensky")
+(in-microtheory CyclistDefinitionalMt)
+(isa UriWilensky HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa UriWilensky AcademicProfessional)
+(titleOfPerson UriWilensky Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName MarceloWorsley "Marcelo Worsley")
+(in-microtheory CyclistDefinitionalMt)
+(isa MarceloWorsley HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+(in-microtheory EnglishMt)
+(fullName Chi-HaurWu "Chi-Haur Wu")
+(in-microtheory CyclistDefinitionalMt)
+(isa Chi-HaurWu HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa Chi-HaurWu AcademicProfessional)
+(titleOfPerson Chi-HaurWu Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName YingWu "Ying Wu")
+(in-microtheory CyclistDefinitionalMt)
+(isa YingWu HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa YingWu AcademicProfessional)
+(titleOfPerson YingWu Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName HoraceYuen "Horace Yuen")
+(in-microtheory CyclistDefinitionalMt)
+(isa HoraceYuen HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa HoraceYuen AcademicProfessional)
+(titleOfPerson HoraceYuen Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName HaoqiZhang "Haoqi Zhang")
+(in-microtheory CyclistDefinitionalMt)
+(isa HaoqiZhang HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa HaoqiZhang AcademicProfessional)
+(titleOfPerson HaoqiZhang Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName HaiZhou "Hai Zhou")
+(in-microtheory CyclistDefinitionalMt)
+(isa HaiZhou HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa HaiZhou AcademicProfessional)
+(titleOfPerson HaiZhou Dr)
+
+
+(in-microtheory EnglishMt)
+(fullName QiZhu "Qi Zhu")
+(in-microtheory CyclistDefinitionalMt)
+(isa QiZhu HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa QiZhu AcademicProfessional)
+(titleOfPerson QiZhu Dr)
+
+

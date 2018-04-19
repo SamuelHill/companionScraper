@@ -1,0 +1,1291 @@
+Brenna Argall
+(in-microtheory EnglishMt)
+(fullName BrennaArgall "Brenna Argall")
+(in-microtheory CyclistDefinitionalMt)
+(isa BrennaArgall HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M194', 'Evanston, IL 60208-3109']
+	847-467-0862
+	brenna.argall@northwestern.edu
+	[("Brenna Argall's Homepage", 'http://eecs.northwestern.edu/~argall/'), ('Assistive & Rehabilitation Robotics Laboratory (argallab)', 'https://www.sralab.org/research/labs/assistive-rehabilitation-robotics-lab')]
+	http://eecs.northwestern.edu/~argall/
+	['Electrical Engineering and Computer Science', 'Mechanical Engineering']
+	['Master of Science in Robotics Program']
+	http://mccormick.northwestern.edu/docs/public_cv/Argall-Brenna-CV.pdf
+	['Ph.D. in Robotics, Carnegie Mellon University, Pittsburgh, PA', 'M.S. in Robotics, Carnegie Mellon University, Pittsburgh, PA', 'B.S. in Mathematical Sciences, Carnegie Mellon University, Pittsburgh, PA']
+(isa BrennaArgall AcademicProfessional)
+(titleOfPerson BrennaArgall Dr)
+	["It is an irony that often the more severe a person's motor impairment, the more challenging it is for them to operate the very assistive machines which might enhance their quality of life. A primary aim of my lab is to address this confound by incorporating robotics autonomy and intelligence into assistive machines---turning the machine into a kind of robot, and offloading some of the control burden from the user to the machine. Robots already synthetically sense, act in and reason about the world, and these technologies can be leveraged to help bridge the gap left by sensory, motor or cognitive impairments in the users of assistive machines.", "My research lies at the intersection of artificial intelligence, rehabilitation robotics and machine learning. A distinguishing theme present within many of my lab's projects is that the machine automation is customizable---to a user's physical abilities, personal preferences or even financial means. A fundamental question that arises time and again throughout many of our projects is how exactly to share control between the robot and the human user, and how to adapt these control formulations over time as the human changes. We are working with a range of hardware platforms, from a smart wheelchair to assistive robotic arms."]
+
+
+Koray Aydin
+(in-microtheory EnglishMt)
+(fullName KorayAydin "Koray Aydin")
+(in-microtheory CyclistDefinitionalMt)
+(isa KorayAydin HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road, L359', 'Tech Room L391', 'Evanston, IL 60208-3109']
+	847-491-3055
+	aydin@northwestern.edu
+	[("Koray Aydin's Homepage", 'http://users.eecs.northwestern.edu/~aydin/MNDL/People.html'), ('Metamaterials and Nanophotonic Devices Lab', 'http://users.eecs.northwestern.edu/~aydin/MNDL/Home.html')]
+	http://users.eecs.northwestern.edu/~aydin/MNDL/People.html
+	[]
+	[]
+	['Ph.D. in Physics, Bilkent University, Ankara, Turkey', 'M.S. in Physics, Bilkent University, Ankara, Turkey', 'B.S. in Physics, Bilkent University, Ankara, Turkey']
+(isa KorayAydin AcademicProfessional)
+(titleOfPerson KorayAydin Dr)
+	[]
+
+
+Randall Berry
+(in-microtheory EnglishMt)
+(fullName RandallBerry "Randall Berry")
+(in-microtheory CyclistDefinitionalMt)
+(isa RandallBerry HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M318', 'Evanston, IL 60208-3109']
+	847-491-7074
+	rberry@eecs.northwestern.edu
+	[('Communications Networking Lab', 'http://commnet.ece.northwestern.edu/'), ("Randall Berry's Homepage", 'http://users.eecs.northwestern.edu/~rberry/')]
+	http://users.eecs.northwestern.edu/~rberry/
+	[]
+	[]
+	['Ph.D. Electrical Engineering and Computer Science, MIT, Cambridge, MA', 'S.M. Electrical Engineering and Computer Science, MIT, Cambridge, MA', 'B.S. Electrical Engineering, University of Missouri, Rolla, MO']
+(isa RandallBerry AcademicProfessional)
+(titleOfPerson RandallBerry Dr)
+	["Prof. Berry's research covers resource allocation problems that arise in networked systems ranging from communication networks to social networks. This work uses mathematical models to gain insights into such systems and draws on tools from stochastic modeling, optimization, economics and algorithms. Specific topics of current interest include developing distributed resource allocation technicques for wireless networks, dynamic spectrum sharing and wireless spectrum policy, understanding the role of incentives in network security and modeling learning and adoption in social networks."]
+
+
+Larry Birnbaum
+(in-microtheory EnglishMt)
+(fullName LarryBirnbaum "Larry Birnbaum")
+(in-microtheory CyclistDefinitionalMt)
+(isa LarryBirnbaum HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3.325', 'Evanston, IL 60208-3109']
+	847-491-3640
+	l-birnbaum@northwestern.edu
+	[("Larry Birnbaum's Homepage", 'http://infolab.northwestern.edu/team/larry-birnbaum.html'), ('Intelligent Information Lab', 'http://infolab.northwestern.edu/')]
+	http://infolab.northwestern.edu/team/larry-birnbaum.html
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence']
+	http://mccormick.northwestern.edu/docs/public_cv/Birnbaum-Lawrence-CV.pdf
+	['Ph.D. Computer Science, Yale University, New Haven, CT', 'M.S. Computer Science, Yale University, New Haven, CT', 'B.S. Computer Science, Yale University, New Haven, CT']
+(isa LarryBirnbaum AcademicProfessional)
+(titleOfPerson LarryBirnbaum Dr)
+	[u'Larry Birnbaum\'s research and teaching focus on applied Artificial Intelligence, natural language processing (NLP), social media analytics, and contextual search, with applications to media and journalism. \xa0A key focus is on methods for the automatic generation of content by machine, including specifically the automatic generation of narratives from data. \xa0Another important area of Larry\'s research is intelligent information systems, including models of automatic and contextual search and information diversity. \xa0A third focus is on preference predication and recommendation using social media data. \xa0More generally, projects in Larry\'s lab are aimed at automating and supporting all aspects of the "content pipeline," including research, content generation, content distribution, and user interaction with content.']
+
+
+Fabian E. Bustamante
+(in-microtheory EnglishMt)
+(fullName FabianE.Bustamante "Fabian E. Bustamante")
+(in-microtheory CyclistDefinitionalMt)
+(isa FabianE.Bustamante HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L477', 'Evanston, IL 60208-3109']
+	847-491-2745
+	fabianb@northwestern.edu
+	[(u"Fabi\xe1n Bustamante's Homepage", 'http://cs.northwestern.edu/~fabianb/'), ('AquaLab', 'http://www.aqualab.cs.northwestern.edu/')]
+	http://cs.northwestern.edu/~fabianb/
+	[]
+	[]
+	['Ph.D. Computer Science, Georgia Institute of Technology, Atlanta, Georgia', 'M.S. Computer Science, Georgia Institute of Technology, Atlanta, Georgia', 'Licenciado en Ciencias de la Computacion, Universidad Nacional de la Patagonia San Juan Bosco, Patagonia, Argentina', 'Analista Programador Universitario, Universidad Nacional de la Patagonia San Juan Bosco, Patagonia, Argentina']
+(isa FabianE.Bustamante AcademicProfessional)
+(titleOfPerson FabianE.Bustamante Dr)
+	['The goals of my research is to understand (computer) networks and the distributed systems we build on them from the perspective of users at the edge of the network, and improve and design systems based on the gained insight.']
+
+
+Arthur Butz
+(in-microtheory EnglishMt)
+(fullName ArthurButz "Arthur Butz")
+(in-microtheory CyclistDefinitionalMt)
+(isa ArthurButz HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room CG51', 'Evanston, IL 60208-3109']
+	847-491-3269
+	butz@eecs.northwestern.edu
+	[("Arthur Butz's Homepage", 'http://users.eecs.northwestern.edu/~butz/')]
+	http://users.eecs.northwestern.edu/~butz/
+	[]
+	[]
+	['Ph.D. Control Sciences, University of Minnesota, St. Paul, MN', 'E.E. Electrical Engineering, MIT, Cambridge, MA', 'M.S. Electrical Engineering, MIT, Cambridge, MA']
+(isa ArthurButz AcademicProfessional)
+(titleOfPerson ArthurButz Dr)
+	['Digital signal processing; median and related filtering. The present emphasis is on space-filling curves (diverse applications).']
+
+
+Simone Campanoni
+(in-microtheory EnglishMt)
+(fullName SimoneCampanoni "Simone Campanoni")
+(in-microtheory CyclistDefinitionalMt)
+(isa SimoneCampanoni HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford 2-217', 'Evanston, IL 60208-3109']
+	simone.campanoni@northwestern.edu
+	[("Simone Campanoni's Homepage", 'http://users.eecs.northwestern.edu/~simonec/Simone%20Campanoni.html')]
+	http://users.eecs.northwestern.edu/~simonec/Simone%20Campanoni.html
+	[]
+	[]
+	['Ph.D Information Technologies, Politecnico di Milano', 'M.S. Computer Engineering, Politecnico di Milano', 'B.S. Computer Engineering, Politecnico di Milano']
+(isa SimoneCampanoni AcademicProfessional)
+(titleOfPerson SimoneCampanoni Dr)
+	['Simone\'s main research areas are compilers and virtual machines, with special interest in computer architecture, runtime systems, operating systems, and programming languages. Simone started the HELIX research project at Harvard University in 2010 as a post-doc working with Profs. David Brooks and Gu-Yeon Wei. HELIX uses static and dynamic compilation, run-time optimization, and architecture specialization to extract coarse-grained parallelism for many-core architectures from complex "sequential" code.', 'Simone received his Ph.D. degree with highest honors from Politecnico di Milano University in 2009. His dissertation discusses theoretical and practical performance implications of thread level parallelism. To this end, Simone designed and built a bytecode virtual machine optimized for commodity multicore platforms. Simone is the author of ILDJIT, a parallel compilation framework that includes static and dynamic compilers as well as a bytecode virtual machine.']
+
+
+Yan Chen
+(in-microtheory EnglishMt)
+(fullName YanChen "Yan Chen")
+(in-microtheory CyclistDefinitionalMt)
+(isa YanChen HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L459', 'Evanston, IL 60208-3109']
+	847-491-4946
+	ychen@northwestern.edu
+	[('Northwestern Lab for Internet and Security Technology', 'http://list.cs.northwestern.edu/'), ('Center for Ultra-scale Computing and Information Security', 'http://cucis.ece.northwestern.edu/'), ("Yan Chen's Homepage", 'http://www.cs.northwestern.edu/~ychen/')]
+	http://www.cs.northwestern.edu/~ychen/
+	[]
+	[]
+	['Ph.D. Computer Science, University of California, Berkeley, CA', 'M.S. Computer Science, State University of New York, Stony Brook, NY', 'B.E. Computer Engineering, Zhejiang University, P.R. China']
+(isa YanChen AcademicProfessional)
+(titleOfPerson YanChen Dr)
+	['My research interests are in security, measurement, and diagnosis for networking and large-scale distributed systems. I lead the ', 'Northwestern LIST (Lab for Internet and Security Technology)', '. I won the DOE Early CAREER Award in 2005, the DOD (Air Force of Scientific Research) Young Investigator Award in 2007, and the Microsoft Trustworthy Computing Awards in 2004 and 2005 with my colleagues. Based on ', 'Google Scholar', ' (papers from different authors with the same names are removed), my papers have been cited about 10,000 times, and the ', 'h-index', u' of my publications is 48 as of\xa0Dec. 2016.\xa0 I am a Fellow of IEEE.']
+
+
+Alok Choudhary
+(in-microtheory EnglishMt)
+(fullName AlokChoudhary "Alok Choudhary")
+(in-microtheory CyclistDefinitionalMt)
+(isa AlokChoudhary HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L469', 'Evanston, IL 60208-3109']
+	847-467-4129
+	a-choudhary@northwestern.edu
+	[("Alok Choudhary's Homepage", 'http://www.eecs.northwestern.edu/~choudhar/'), ('Center for Ultra-scale Computing and Information Security (CUCIS)', 'http://cucis.ece.northwestern.edu/')]
+	http://www.eecs.northwestern.edu/~choudhar/
+	[]
+	[]
+	['Ph.D. Computer Engineering, University of Illinois, Urbana-Champaign, IL', 'M.S. Computer Engineering, University of Massachusetts, Amherst, MA', 'B.E. (Hons) Electrical and Electronics Engineering, Birla Institute of Technology and Science, Pilani, India']
+(isa AlokChoudhary AcademicProfessional)
+(titleOfPerson AlokChoudhary Dr)
+	['High-performance computing; data intensive computing; scalable data mining; computer architecture; high-performance I/O systems and software; Social Media, Materials and Medical Informatics']
+
+
+Oliver S. Cossairt
+(in-microtheory EnglishMt)
+(fullName OliverS.Cossairt "Oliver S. Cossairt")
+(in-microtheory CyclistDefinitionalMt)
+(isa OliverS.Cossairt HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3-337', 'Evanston, IL 60208-3109']
+	847-491-0895
+	oliver.cossairt@northwestern.edu
+	[('Oliver Cossairt Homepage', 'http://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/'), ('Computational Photography Lab', 'http://compphotolab.northwestern.edu/')]
+	http://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Robotics Program']
+	http://mccormick.northwestern.edu/docs/public_cv/Cossairt-Oliver-CV.pdf
+	['Ph.D. Computer Science, Columbia University, New York City, NY', 'M.S. Media Arts and Sciences, M.I.T., Cambridge, MA', 'B.S. Physics, Evergreen State College, Olympia, WA']
+(isa OliverS.Cossairt AcademicProfessional)
+(titleOfPerson OliverS.Cossairt Dr)
+	['My research is in the emerging field of computational imaging, which combines expertise in optics, image processing, computer vision, and computer graphics. I design, model and build systems that combine sensors, displays, and novel optical elements. These cameras have applications in medical, astronomical, and scientific imaging. I am building a new breed of cameras with increased functionality and performance. I believe that my research will impact the way cameras are built in coming decades, from low-end consumer cameras to high-end scientific instruments.', 'I am fascinated with the idea that cameras can be very finely tuned towards specific purposes, and that doing so can be an excellent way to capture specific visual information. We can place the camera at the center of a larger visual processing system whose purpose is to analyze and interpret visual information. As such, the camera cannot be designed without keeping the entire system in mind.', u'I am particularly interested in developing imaging and display systems that combine a creative use of optical devices and sensor technology to enable new functionality in cameras and displays. My research is focused in the following areas:\xa0']
+
+
+Anindya De
+(in-microtheory EnglishMt)
+(fullName AnindyaDe "Anindya De")
+(in-microtheory CyclistDefinitionalMt)
+(isa AnindyaDe HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford 3-215', 'Evanston, IL 60208-3109']
+	847-467-6945
+	anindya.de1@northwestern.edu
+	[("Anindya De's Homepage", 'http://users.eecs.northwestern.edu/~anindya/')]
+	http://users.eecs.northwestern.edu/~anindya/
+	[]
+	[]
+	[]
+	[]
+
+
+Christos Dimoulas
+(in-microtheory EnglishMt)
+(fullName ChristosDimoulas "Christos Dimoulas")
+(in-microtheory CyclistDefinitionalMt)
+(isa ChristosDimoulas HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford 2-211', 'Evanston, IL 60208-3109']
+	christos.dimoulas@northwestern.edu
+	[(" Christos Dimoulas' Homepage", 'http://users.eecs.northwestern.edu/~chrdimo/')]
+	http://users.eecs.northwestern.edu/~chrdimo/
+	[]
+	[]
+	['Ph.D. in ', ', ', 'Northeastern University, ']
+(isa ChristosDimoulas AcademicProfessional)
+(titleOfPerson ChristosDimoulas Dr)
+	['I am interested in the design and semantics of programming languages. More specifically, my goal is to develop programming languages technology that facilitates the construction of secure and robust component-based software systems.']
+
+
+Peter Dinda
+(in-microtheory EnglishMt)
+(fullName PeterDinda "Peter Dinda")
+(in-microtheory CyclistDefinitionalMt)
+(isa PeterDinda HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L463', 'Evanston, IL 60208-3109']
+	847-467-7859
+	pdinda@northwestern.edu
+	[("Peter Dinda's Homepage", 'http://pdinda.org/'), ('Prescience Lab', 'http://presciencelab.org/')]
+	http://pdinda.org/
+	[]
+	[]
+	['Ph.D. Computer Science, Carnegie Mellon University, Pittsburgh, PA', 'M.S. Computer Science, Carnegie Mellon University, Pittsburgh, PA', 'B.S. Electrical and Computer Engineering, University of Wisconsin, Madison, WI']
+(isa PeterDinda AcademicProfessional)
+(titleOfPerson PeterDinda Dr)
+	[u'Peter Dinda\xa0is a professor in the Department of Electrical Engineering and Computer Science at Northwestern University where he headed the Computer Engineering and Systems division for five years.\xa0 He holds a B.S. in electrical and computer engineering from the University of Wisconsin and a Ph.D. in computer science from Carnegie Mellon University. He works in experimental computer systems, particularly parallel and distributed systems, and has authored over 120 scientific papers, authored or is a major contributor to several large publicly available codebases, and holds five patents. His research currently involves virtualization and operating systems for distributed and parallel computing, programming languages for parallel computing, and empathic systems for bridging individual user satisfaction and systems-level decision-making. He is a Fellow of the IEEE.\xa0 You can find out more about him at pdinda.org.']
+
+
+Douglas Downey
+(in-microtheory EnglishMt)
+(fullName DouglasDowney "Douglas Downey")
+(in-microtheory CyclistDefinitionalMt)
+(isa DouglasDowney HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3-345', 'Evanston, IL 60208-3109']
+	847-491-3710
+	d-downey@northwestern.edu
+	[("Doug Downey's Homepage", 'http://www.cs.northwestern.edu/~ddowney/')]
+	http://www.cs.northwestern.edu/~ddowney/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence', 'Master of Science in Robotics Program']
+	http://mccormick.northwestern.edu/docs/public_cv/Downey-Douglas-CV.pdf
+	['Ph.D. Computer Science and Engineering, University of Washington, Seattle, WA', 'M.S. Computer Science and Engineering, University of Washington, Seattle, WA', 'B.S./M.S. Computer Science, Case Western Reserve University, Cleveland, OH']
+(isa DouglasDowney AcademicProfessional)
+(titleOfPerson DouglasDowney Dr)
+	["Downey's research is focused on natural language processing, machine learning, and artificial intelligence, with a particular interest in the automatic construction of useful knowledge bases from Web text. One goal is to develop techniques and prototypes that extend the state of the art in Web search. Another goal is to theoretically investigate and establish a formal basis for techniques that can learn from unstructured text alone, without hand-labeled data.", 'More generally, Downey works on ways to utilize human input more effectively in machine learning. Two directions in this effort involve selecting human input carefully (active learning) or utilizing it in concert with unlabeled data (semi-supervised learning).']
+
+
+Robby Findler
+(in-microtheory EnglishMt)
+(fullName RobbyFindler "Robby Findler")
+(in-microtheory CyclistDefinitionalMt)
+(isa RobbyFindler HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford 2-205', 'Evanston, IL 60208-3109']
+	847-467-0952
+	robby@eecs.northwestern.edu
+	[("Robby Findler's Homepage", 'http://www.eecs.northwestern.edu/~robby/')]
+	http://www.eecs.northwestern.edu/~robby/
+	[]
+	[]
+	['Ph.D. Behavioral Software Contracts, Rice University, Houston, TX', 'B.S. Computer Science and Mathematics, Carnegie Mellon University, Pittsburgh, PA']
+(isa RobbyFindler AcademicProfessional)
+(titleOfPerson RobbyFindler Dr)
+	['Programming languages; program development environments, contracts, and tools to help semantics engineers']
+
+
+Ken Forbus
+(in-microtheory EnglishMt)
+(fullName KenForbus "Ken Forbus")
+(in-microtheory CyclistDefinitionalMt)
+(isa KenForbus HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3-313', 'Evanston, IL 60208-3109']
+	847-491-7699
+	forbus@northwestern.edu
+	[('Qualitative Reasoning Group', 'http://www.qrg.northwestern.edu/'), ("Ken Forbus' Homepage", 'http://www.cs.northwestern.edu/~forbus/')]
+	http://www.cs.northwestern.edu/~forbus/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence']
+	['Ph.D. Artificial Intelligence, MIT, Cambridge, MA', 'S.M. Computer Science, MIT, Cambridge, MA', 'S.B. Computer Science, MIT, Cambridge, MA']
+(isa KenForbus AcademicProfessional)
+(titleOfPerson KenForbus Dr)
+	[u'Kenneth D. Forbus is the Walter P. Murphy Professor of Computer Science and Professor of Education at Northwestern University.\xa0 He received his degrees from MIT (Ph.D. in 1984). His research interests include qualitative reasoning, analogical reasoning and learning, spatial reasoning, sketch understanding, natural language understanding, cognitive architecture, reasoning system design, intelligent educational software, and the use of AI in interactive entertainment.\xa0 He is a Fellow of the Association for the Advancement of Artificial Intelligence, the Cognitive Science Society, and the Association for Computing Machinery.\xa0 He has received Humboldt Award and has served as Chair of the Cognitive Science Society.\xa0 ']
+
+
+Randy Freeman
+(in-microtheory EnglishMt)
+(fullName RandyFreeman "Randy Freeman")
+(in-microtheory CyclistDefinitionalMt)
+(isa RandyFreeman HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M396', 'Evanston, IL 60208-3109']
+	847-467-2606
+	freeman@eecs.northwestern.edu
+	[("Randy Freeman's Homepage", 'http://www.eecs.northwestern.edu/~freeman/')]
+	http://www.eecs.northwestern.edu/~freeman/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Robotics Program']
+	http://mccormick.northwestern.edu/docs/public_cv/Freeman-Randy-CV.pdf
+	['Ph.D. Electrical Engineering, University of California, Santa Barbara, CA', 'M.S. Electrical Engineering, University of Illinois at Urbana, Champaign, IL', 'B.S. Electrical Engineering, Cornell University, Ithaca, NY']
+(isa RandyFreeman AcademicProfessional)
+(titleOfPerson RandyFreeman Dr)
+	['Nonlinear control theory; robust control and optimal control; nonlinear system theory; control and estimation for multi-agent systems']
+
+
+Matthew Grayson
+(in-microtheory EnglishMt)
+(fullName MatthewGrayson "Matthew Grayson")
+(in-microtheory CyclistDefinitionalMt)
+(isa MatthewGrayson HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L387', 'Evanston, IL 60208-3109']
+	847-491-8137
+	mgrayson@eecs.northwestern.edu
+	[("Matthew Grayson's Homepage", 'http://eecs.northwestern.edu/mgrayson')]
+	http://eecs.northwestern.edu/mgrayson
+	[]
+	[]
+	['Research Associate, Max-Planck-Insititut for Solid State Research, Stuttgart, Germany', 'Research Associate, Technische Universitaet Muenchen, Muenchen, Germany', 'Research Associate, University of Maryland, College Park, Maryland', 'Ph.D. Princeton University, Princeton, NJ', 'B.S. Physcis, University of Notre Dame, Notre Dame, IN']
+(isa MatthewGrayson AcademicProfessional)
+(titleOfPerson MatthewGrayson Dr)
+	[u'Matthew Grayson is an expert in the design, fabrication, and electrical characterization of electronic devices and materials.\xa0 He has specialized in studies of the low energy excitations of such low-dimensional electron systems as quantum wells, one-dimensional wires, electron-beam patterned structures, and both integer and fractional quantum Hall edges.\xa0 Recently he has also developed new advances in thermoelectric materials with the concept of transverse thermoelectrics for integrated thermal management. He has developed new III-V semiconductor crystal growth techniques such as corner overgrowth and shadow overgrowth, and has advanced the technique of cleaved-edge overgrowth to create novel embedded heterostructures for tunneling spectroscopy. Laboratory measurement capabilities include electron transport over a continuous temperature range from 15 mK to r400 K, and high magnetic fields up to 17 T. Systems of interest are thermoelectrics, aisotropic conductors, Luttinger liquids, quantum Hall ferromagnets, Type II superlattices, and multivalley quantum systems.\xa0 Matthew completed his PhD studies at Princeton University with Prof. Daniel Tsui studying tunnel spectroscopy of fractional quantum Hall effect edges.\xa0 His post-doc work at the University of Maryland investigated the infrared Hall angle of cuprate superconducting films.\xa0 He then won a Humboldt Fellowship to research in Germany at the Walter Schottky Institut of the Technische Universitaet Muenchen, where he remained for 7 years leading a small research group.\xa0 He joined Northwestern in 2007 and has been an associate professor in the Electrical Engineering Department of Northwestern University since 2012.']
+
+
+Jie Gu
+(in-microtheory EnglishMt)
+(fullName JieGu "Jie Gu")
+(in-microtheory CyclistDefinitionalMt)
+(isa JieGu HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L473', 'Evanston, IL 60208-3109']
+	847-467-5854
+	jgu@northwestern.edu
+	[('VLSI Research Lab', 'http://users.eecs.northwestern.edu/~jgu/')]
+	http://users.eecs.northwestern.edu/~jgu/
+	[]
+	[]
+	['Ph.D Electrical and Computer Engineering, University of Minnesota, Minneapolis, MN', 'Master of Science, Texas A&M University, College Station, TX', 'Bachelor of Science, Tsinghua University, Beijing, China']
+(isa JieGu AcademicProfessional)
+(titleOfPerson JieGu Dr)
+	['Ultra-low power/voltage design for VLSI and mixed-signal ICs; Efficient power, clock management with hardware and software collaboration; Emerging device modeling, design and integration;']
+
+
+Dongning Guo
+(in-microtheory EnglishMt)
+(fullName DongningGuo "Dongning Guo")
+(in-microtheory CyclistDefinitionalMt)
+(isa DongningGuo HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L393', 'Evanston, IL 60208-3109']
+	847-491-3056
+	dguo@northwestern.edu
+	[("Dongning Guo's Homepage", 'http://users.eecs.northwestern.edu/~dguo/'), ('Communications and Networking Laboratory', 'http://commnet.eecs.northwestern.edu/')]
+	http://users.eecs.northwestern.edu/~dguo/
+	[]
+	[]
+	['Ph.D. Electrical Engineering, Princeton University, Princeton, NJ', 'M.A. Electrical Engineering, Princeton University, Princeton, NJ', 'M.Eng. Electrical Engineering, National University of Singapore, Singapore', 'B.Eng. Electrical Engineering & Information Science, University of Science & Technology of China, Hefei, China']
+(isa DongningGuo AcademicProfessional)
+(titleOfPerson DongningGuo Dr)
+	[u'My research interests lie in communications, networking, information theory, and signal processing. \xa0My current projects concern next generation cellular networks, the Internet of Things, information theory of many-user systems, millimeter wave and full-duplex communication, as well as experimentation using software-defined radios.']
+
+
+Kristian J. Hammond
+(in-microtheory EnglishMt)
+(fullName KristianJ.Hammond "Kristian J. Hammond")
+(in-microtheory CyclistDefinitionalMt)
+(isa KristianJ.Hammond HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3-331', 'Evanston, IL 60208-3109']
+	847-467-1012
+	hammond@cs.northwestern.edu
+	[("Kristian Hammond's Homepage", 'http://infolab.northwestern.edu/team/kristian-hammond.html'), ('Intelligent Information Lab', 'http://infolab.northwestern.edu/')]
+	http://infolab.northwestern.edu/team/kristian-hammond.html
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence']
+	['Ph.D. Computer Science, Yale University, New Haven, CT', 'M.S. Computer Science, Yale University, New Haven, CT', 'B.A. Philosophy, Yale University, New Haven, CT']
+(isa KristianJ.Hammond AcademicProfessional)
+(titleOfPerson KristianJ.Hammond Dr)
+	['Expert Areas', u'\xa0', 'Research']
+
+
+Nikos Hardavellas
+(in-microtheory EnglishMt)
+(fullName NikosHardavellas "Nikos Hardavellas")
+(in-microtheory CyclistDefinitionalMt)
+(isa NikosHardavellas HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L465', 'Evanston, IL 60208-3109']
+	847-467-2298
+	nikos@northwestern.edu
+	[("Nikos Hardavellas' Homepage", 'http://www.eecs.northwestern.edu/~hardav/'), (' Intel Parallel Computing Center at Northwestern', 'http://www.eecs.northwestern.edu/intel-parallel-computing-center')]
+	http://www.eecs.northwestern.edu/~hardav/
+	[]
+	[]
+	['Ph.D. Computer Science, Carnegie Mellon University, Pittsburgh, PA', 'M.S. Computer Science, Carnegie Mellon University, Pittsburgh, PA', 'M.S. Computer Science, University of Rochester, Rochester, NY', 'B.S. Computer Science, University of Crete, Heraklion, Crete, Greece']
+(isa NikosHardavellas AcademicProfessional)
+(titleOfPerson NikosHardavellas Dr)
+	[u'I work on Computer Architecture, primarily on techniques to enable extreme-scale multi-core processors. Such designs are elusive due to technological limitations on yield, power, and memory bandwidth. My research aims to pave the way to energy-efficient computing by investigating ideas to combat "dark silicon" (i.e., our inability to power up a chip in its entirety) and to speed up\xa0 the execution of programs by several factors through parallelism extraction and memoization at the software and hardware levels. Our work extends across multiple stacks: circuit design, processor architecture, memory systems, interconnects, compilers, runtime environments, and system software.', 'We develop technologies that allow the underlying hardware components to be unreliable, while maintaining program output quality, and in the process save energy. We develop technologies that eliminate the overheads of conventional computing, and turn the problem of dark silicon into an opportunity. We harness the unused chip area to build multiple heterogeneous pipelines within a core that deliver up to one order of magnitude higher power efficiency, and design novel energy-proportional nanophotonic interconnects to minimize the energy cost of data transfers at all levels, within a processor chip, across multiple chips, as well as across entire data centers. We believe that the confluence of parallel computer architeture techniques and nanophotonics will allow us to design "virtual macrochips" that can deliver supercomputing power at a fraction of the energy cost and area.']
+
+
+Jason D. Hartline
+(in-microtheory EnglishMt)
+(fullName JasonD.Hartline "Jason D. Hartline")
+(in-microtheory CyclistDefinitionalMt)
+(isa JasonD.Hartline HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3-329', 'Evanston, IL 60208-3109']
+	847-467-0280
+	hartline@northwestern.edu
+	[("Jason Hartline's Homepage", 'http://eecs.northwestern.edu/hartline'), ('Theory Group', 'http://theory.eecs.northwestern.edu/'), ('Economics Group', 'http://econ.ece.northwestern.edu/')]
+	http://eecs.northwestern.edu/hartline
+	[]
+	[]
+	['Ph.D. Computer Science, University of Washington, Seattle, WA', 'M.S. Computer Science, University of Washington, Seattle, WA', 'B.S. Computer Science, Cornell University, Ithaca, NY', 'B.S. Electrical Engineering, Cornell University, Ithaca, NY']
+(isa JasonD.Hartline AcademicProfessional)
+(titleOfPerson JasonD.Hartline Dr)
+	["Prof. Hartline's research introduces design and analysis methodologies", 'from computer science to understand and improve outcomes of economic', u'systems.\xa0 Optimal behavior and outcomes in complex environments are', 'complex and, therefore, should not be expected; instead, the theory of', 'approximation can show that simple and natural behaviors are', u'approximately optimal in complex environments.\xa0 This approach is', 'applied to auction theory and mechanism design in his graduate', 'textbook Mechanism Design and Approximation', '(http://www.jasonhartline.com/MDnA/) which is under preparation.']
+
+
+Larry Henschen
+(in-microtheory EnglishMt)
+(fullName LarryHenschen "Larry Henschen")
+(in-microtheory CyclistDefinitionalMt)
+(isa LarryHenschen HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M382', 'Evanston, IL 60208-3109']
+	847-491-3338
+	henschen@eecs.northwestern.edu
+	[("Lawrence Henschen's Homepage", 'http://www.ece.northwestern.edu/~henschen/')]
+	http://www.ece.northwestern.edu/~henschen/
+	[]
+	[]
+	['Ph.D. University of Illinois at Urbana, Champaign, IL', 'M.A. University of Illinois at Urbana, Champaign, IL', 'B.A. Bronze Scholar (Phi Beta Kappa), University of Illinois at Urbana, Champaign, IL']
+(isa LarryHenschen AcademicProfessional)
+(titleOfPerson LarryHenschen Dr)
+	['web-based programming for wireless sensor network nodes, visual interfaces for program development; energy harvesting; universal access in human-computer interaction; automated reasoning with applications to heterogeneous databases.']
+
+
+Josiah Hester
+(in-microtheory EnglishMt)
+(fullName JosiahHester "Josiah Hester")
+(in-microtheory CyclistDefinitionalMt)
+(isa JosiahHester HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech L389', 'Evanston, IL 60208-3109']
+	josiah.hester@northwestern.edu
+	[("Josiah Hester's Homepage", 'http://josiahhester.com/cv/')]
+	http://josiahhester.com/cv/
+	[]
+	[]
+	['Ph.D. Computer Science, Clemson University, ', u'B.S.\xa0Computer Science, Clemson University, ']
+(isa JosiahHester AcademicProfessional)
+(titleOfPerson JosiahHester Dr)
+	["I'm interested", u'\xa0in designing, building, and deploying trillions of tiny energy harvesting computers that run for decades, supporting global scale applications ranging from healthcare to space exploration, wildlife tracking to horticulture.', 'My research', u'\xa0investigates how we can make this possible. I explore and develop new hardware designs, software techniques, tools, and programming abstractions so that developers can easily design, debug, and deploy intricate energy harvesting, batteryless sensing applications that work in spite of\xa0', 'frequent', u'\xa0power failures,\xa0', u'constrained\xa0', u'resources, and\xa0', 'unpredictable', u'\xa0conditions.']
+
+
+Michael Honig
+(in-microtheory EnglishMt)
+(fullName MichaelHonig "Michael Honig")
+(in-microtheory CyclistDefinitionalMt)
+(isa MichaelHonig HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L314', 'Evanston, IL 60208-3109']
+	847-491-7803
+	mh@eecs.northwestern.edu
+	[("Michael Honig's Homepage", 'http://www.eecs.northwestern.edu/~mh/'), ('Communications and Networking Laboratory', 'http://commnet.eecs.northwestern.edu/')]
+	http://www.eecs.northwestern.edu/~mh/
+	[]
+	[]
+	['Ph.D. Electrical Engineering, University of California, Berkeley, CA', 'M.S. Electrical Engineering, University of California, Berkeley, CA', 'B.S. Electrical Engineeirng (with honors), Stanford University, Palo Alto, CA']
+(isa MichaelHonig AcademicProfessional)
+(titleOfPerson MichaelHonig Dr)
+	['My research interests are in the areas of communications, signal processing, and networks. My recent work has focused on wireless resource allocation, spectrum markets, and macroeconomic modeling.']
+
+
+Michael Horn
+(in-microtheory EnglishMt)
+(fullName MichaelHorn "Michael Horn")
+(in-microtheory CyclistDefinitionalMt)
+(isa MichaelHorn HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2120 Campus Drive', 'Annenberg Room 336', 'Evanston, IL 60208-3109']
+	617-803-5501
+	michael-horn@northwestern.edu
+	[("Michael Horn's Homepage", 'http://tidal.northwestern.edu/people/mikehorn/'), ('TIDAL Lab', 'http://eecs.northwestern.edu/~mhorn/')]
+	http://tidal.northwestern.edu/people/mikehorn/
+	[]
+	[]
+	['Ph.D. Computer Science, Tufts University, Medford/Somerville, MA', 'M.S. Computer Science, Tufts University, Medford/Somerville, MA', 'B.S. Computer Science, Brown University, Providence, Rhode Island']
+(isa MichaelHorn AcademicProfessional)
+(titleOfPerson MichaelHorn Dr)
+	[]
+
+
+Ian Horswill
+(in-microtheory EnglishMt)
+(fullName IanHorswill "Ian Horswill")
+(in-microtheory CyclistDefinitionalMt)
+(isa IanHorswill HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3-321', 'Evanston, IL 60208-3109']
+	847-467-1256
+	ian@northwestern.edu
+	[("Ian Horswill's Homepage", 'http://www.cs.northwestern.edu/~ian/')]
+	http://www.cs.northwestern.edu/~ian/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Robotics Program']
+	http://mccormick.northwestern.edu/docs/public_cv/Horswill-Ian-CV.pdf
+	['Ph.D. Computer Science, MIT, Cambridge, MA', 'S.M. Computer Science, MIT, Cambridge, MA', 'B.CSci., University of Minnesota, St. Paul, Minnesota']
+(isa IanHorswill AcademicProfessional)
+(titleOfPerson IanHorswill Dr)
+	[u'My work lies roughly within the areas of artificial intelligence and interactive art and entertainment.\xa0 My AI research focuses on control systems for autonomous agents: how does an agent decide from moment to moment what to do, based on an ongoing stream of sensor data and a continually varying set of goals and entanglements with the world.\xa0 My past work focused on robotics and computer vision, but my more recent work centers around the the modeling and simulation of emotion, personality, and social behavior for virtual characters for games and interactive narrative.\xa0 Interactive narrative is particularly interesting for AI because it provides a natural domain in which to examine aspects of human personality and behavior that one would not want to duplicate in service robots, such as aggression and depresssion.', u"Within interactive art and entertainment, I'm interested in exploring alternative genres and interaction modes that can expand the medium.\xa0 Interactive narrative is particularly interesting because it offers the promise of an aesthetics that emphasizes experiences of identification, empathy, and affiliation, over mastery, frustration, and control.\xa0 However, making a piece that provides those experiences in practice is a difficult task that involves a number of interesting research problems in computer science and cognitive science."]
+
+
+Seng-Tiong Ho
+(in-microtheory EnglishMt)
+(fullName Seng-TiongHo "Seng-Tiong Ho")
+(in-microtheory CyclistDefinitionalMt)
+(isa Seng-TiongHo HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M377', 'Evanston, IL 60208-3109']
+	847-491-7103
+	sth@northwestern.edu
+	[("Seng-Tiong Ho's Homepage", 'http://www.eecs.northwestern.edu/~sth/Professor.htm')]
+	http://www.eecs.northwestern.edu/~sth/Professor.htm
+	[]
+	[]
+	['Ph.D. Electrical Engineering, MIT, Cambridge, MA', 'E.E. Solid State, MIT, Cambridge, MA', 'M.S. Electrical Engineering, MIT, Cambridge, MA', 'B.S. Electrical Engineering, MIT, Cambridge, MA', 'B.S. Physics, MIT, Cambridge, MA']
+(isa Seng-TiongHo AcademicProfessional)
+(titleOfPerson Seng-TiongHo Dr)
+	['Nano-photonics; optical communications; photonics integration; organic photonics; photonic materials research; heterogeneous photonics; ultrafast nonlinear photonics; micro-optics; device simulation; quantum optics']
+
+
+Russell Joseph
+(in-microtheory EnglishMt)
+(fullName RussellJoseph "Russell Joseph")
+(in-microtheory CyclistDefinitionalMt)
+(isa RussellJoseph HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L467', 'Evanston, IL 60208-3109']
+	847-491-3061
+	rjoseph@eecs.northwestern.edu
+	[('Current Projects', 'http://www.eecs.northwestern.edu/~rjoseph/projects/index.html'), ("Russ Joseph's Homepage", 'http://www.eecs.northwestern.edu/~rjoseph/')]
+	http://www.eecs.northwestern.edu/~rjoseph/projects/index.html
+	[]
+	[]
+	['Ph.D. Electrical Engineering, Princeton University, Princeton, NJ', 'M.A. Electrical Engineering, Princeton University, Princeton, NJ', 'B.S. Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA']
+(isa RussellJoseph AcademicProfessional)
+(titleOfPerson RussellJoseph Dr)
+	['Computer architecture, microprocessor design for reliability and variability tolerance, power-aware computing']
+
+
+Ming-Yang Kao
+(in-microtheory EnglishMt)
+(fullName Ming-YangKao "Ming-Yang Kao")
+(in-microtheory CyclistDefinitionalMt)
+(isa Ming-YangKao HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M324', 'Evanston, IL 60208-3109']
+	847-491-2272
+	kao@northwestern.edu
+	[("Ming-Yang Kao's Homepage", 'http://www.cs.northwestern.edu/~kao/'), ('Theory Group', 'http://eecs.northwestern.edu/theory-group')]
+	http://www.cs.northwestern.edu/~kao/
+	[]
+	[]
+	['Ph.D. Computer Science, Yale University, New Haven, CT', 'Ph.D. Program Computer Science, Princeton University, Princeton, MA', 'Ph.D. Program Mathetmatics, University of California, Berkeley, CA', 'B.S. Mathematics, National Taiwan University, Taipei, Taiwan']
+(isa Ming-YangKao AcademicProfessional)
+(titleOfPerson Ming-YangKao Dr)
+	['His primary research interests are in computer algorithms and their applications. He has published more than 150 publications in a broad range of research areas, including algorithms for computational finance and economics, nano technology (self-assembly), computational biology, data security, graph theory, parallel computing, and combinatorial optimization. He is a dedicated teacher. In addition to teaching a variety of courses in algorithms, he enjoys teaching numerical analysis and mathematics.', u'Among his many community involvements, he is Editor-in-Chief of Algorithmica as well as Editor-in-Chief of Encyclopedia of Algorithms.\xa0 He has served as a judge in science fairs at local schools in the Chicago area.\xa0 He was originally from Taiwan and has strong active professional ties with Asia among other regions. For administrative services, he believes that an essential mission in leading an academic community is to proactively support the careers of fellow community members; he excels at efficiently and effectively mobilizing resources to provide such support.']
+
+
+Aggelos K. Katsaggelos
+(in-microtheory EnglishMt)
+(fullName AggelosK.Katsaggelos "Aggelos K. Katsaggelos")
+(in-microtheory CyclistDefinitionalMt)
+(isa AggelosK.Katsaggelos HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M468', 'Evanston, IL 60208-3109']
+	847-491-7164
+	aggk@eecs.northwestern.edu
+	[("Aggelos Katsaggelos' Homepage", 'http://ivpl.eecs.northwestern.edu/users/akatsaggelos'), ('Image and Video Processing Lab', 'http://ivpl.eecs.northwestern.edu/')]
+	http://ivpl.eecs.northwestern.edu/users/akatsaggelos
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Robotics Program']
+	['Ph.D. Electrical Engineering, Georgia Institute of Technology, Atlanta, GA', 'M.S. Electrical Engineering, Georgia Institute of Technology, Atlanta, GA', 'B.S. Electrical and Mechanical Engineering, Aristotelian University of Thessaloniki, Thessaloniki, Greece']
+(isa AggelosK.Katsaggelos AcademicProfessional)
+(titleOfPerson AggelosK.Katsaggelos Dr)
+	['Multimedia signal processing; multimedia communications; computer vision; pattern recognition; DNA signal processing']
+
+
+Pedram Khalili
+(in-microtheory EnglishMt)
+(fullName PedramKhalili "Pedram Khalili")
+(in-microtheory CyclistDefinitionalMt)
+(isa PedramKhalili HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['Tech M393', '2145 Sheridan Road', 'Evanston, IL 60208-3109']
+	847-467-1035
+	pedram@northwestern.edu
+	[("Pedram Khalili's Homepage", 'https://sites.google.com/view/perlab/team?authuser=0'), ('PERLab (Physical Electronics Research Laboratory)', 'https://sites.google.com/view/perlab//')]
+	https://sites.google.com/view/perlab/team?authuser=0
+	[]
+	[]
+	['Ph.D. Electrical Engineering, Delft University of Technology (TU Delft), ', 'B.Sc. Electrical Engineering, Sharif University of Technology, ']
+(isa PedramKhalili AcademicProfessional)
+(titleOfPerson PedramKhalili Dr)
+	['Nanoelectronics, nano-magnetism and spintronics, nonvolatile memory and logic, magnetic tunnel junctions, spin waves, microwave magnetic devices, circuits and computing architectures enabled by emerging nano-devices.']
+
+
+Prem Kumar
+(in-microtheory EnglishMt)
+(fullName PremKumar "Prem Kumar")
+(in-microtheory CyclistDefinitionalMt)
+(isa PremKumar HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M392', 'Evanston, IL 60208-3109']
+	847-491-4128
+	kumarp@northwestern.edu
+	[("Prem Kumar's Homepage", 'http://www.ece.northwestern.edu/~kumarp/'), ('Center for Photonic Communication and Computing', 'http://cpcc.northwestern.edu/'), ('Current Research', 'http://www.eecs.northwestern.edu/~kumarp/research.html')]
+	http://www.ece.northwestern.edu/~kumarp/
+	[]
+	[]
+	['Ph.D. Physics, State University of New York at Buffalo, Buffalo, NY, 1980', 'M.Sc. Physics, Indian Institute of Technology, Kanpur, India, 1976', 'B.Sc. Physics, University of Delhi, Delhi, India, 1974']
+(isa PremKumar AcademicProfessional)
+(titleOfPerson PremKumar Dr)
+	['Expert Areas', u'\xa0', 'Research', u'\xa0']
+
+
+Aleksandar Kuzmanovic
+(in-microtheory EnglishMt)
+(fullName AleksandarKuzmanovic "Aleksandar Kuzmanovic")
+(in-microtheory CyclistDefinitionalMt)
+(isa AleksandarKuzmanovic HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L457', 'Evanston, IL 60208-3109']
+	847-467-5519
+	akuzma@cs.northwestern.edu
+	[("Aleksandar Kuzmanovic's Homepage", 'http://www.cs.northwestern.edu/~akuzma/'), ('Northwestern Networks Group', 'http://networks.cs.northwestern.edu/')]
+	http://www.cs.northwestern.edu/~akuzma/
+	[]
+	[]
+	['Ph.D. Electrical and Computer Engineering, Rice University, Houston, TX', 'M.S. Electrical Engineering, University of Belgrade, Belgrade, Serbia', 'B.S. Electrical Engineering, University of Belgrade, Belgrade, Serbia']
+(isa AleksandarKuzmanovic AcademicProfessional)
+(titleOfPerson AleksandarKuzmanovic Dr)
+	[u'Aleksandar Kuzmanovic is a Professor in the Department of Electrical Engineering and Computer Science at Northwestern University. He leads the Northwestern Networks Group. His research interests are in the area of computer networking with emphasis on design, measurements, analysis, denial-of-service resiliency, and prototype implementation of protocols and algorithms for the Internet. He is most well-known for his pioneering work on low-rate denial-of-service attacks, TCP congestion control, and data sharing methods for Internet-scale systems. He has published more than 60 research papers in the most prestigious networking journals and conferences such as IEEE/ACM Transactions on Networking, ACM SIGCOMM, USENIX NSDI, ACM SIGMETRICS, ACM IMC, IEEE ICNP, IEEE INFOCOM, etc. His systems and tools are widely distributed on the Internet. As an example, his TCP-LP protocol has been incorporated in the Linux operating system, his work on Explicit Congestion Notification has become an Internet standard, and his work on denial-of-service resiliency for Internet streaming infrastructures has been adopted by the world\u2019s largest content distribution network, Akamai.', u'Dr. Kuzmanovic joined the Northwestern faculty in 2005 after receiving a Ph.D. in Electrical and Computer Engineering from Rice University, under the direction of Edward W. Knightly. He received B.S. and M.S. degrees in Electrical Engineering from the University of Belgrade (ETF), Serbia, in 1996 and 1999, respectively. From 1997-1999 he was a research scientist in the Mihajlo Pupin Institute. He received Rice University\u2019s Presidential Fellowship in 1999. Together with his colleagues, he received the Microsoft Trustworthy Computing Award in 2006. He was elected a Searle Junior Fellow in 2006, which recognizes young faculty who show excellence in teaching. He received the National Science Foundation CAREER Award in 2008. He has been appointed a Visiting Professor at the University of Electronic Science and Technology of China. He is a member of the steering committee of the Measurement Lab, a Google-initiated open platform for monitoring net neutrality. He was a member of the advisory board of Narus, Inc. 2008 \u2013 2014. He is a co-founder of Nanjee, Inc.']
+
+
+Chung-Chieh Lee
+(in-microtheory EnglishMt)
+(fullName Chung-ChiehLee "Chung-Chieh Lee")
+(in-microtheory CyclistDefinitionalMt)
+(isa Chung-ChiehLee HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M376', 'Evanston, IL 60208-3109']
+	847-491-7375
+	cclee@eecs.northwestern.edu
+	[("Chung-Chieh Lee's Homepage", 'http://www.ece.northwestern.edu/faculty/Lee_Chung-Chieh.html'), ('Communications and Networking Laboratory', 'http://commnet.eecs.northwestern.edu/')]
+	http://www.ece.northwestern.edu/faculty/Lee_Chung-Chieh.html
+	[]
+	[]
+	['Ph.D. Electrical Engineering, Princeton University, Princeton, NJ', 'M.S.E. Electrical Engineering, Princeton University, Princeton, NJ', 'B.S. Electrical Engineering, National Taiwan University, Taipei, Taiwan']
+(isa Chung-ChiehLee AcademicProfessional)
+(titleOfPerson Chung-ChiehLee Dr)
+	[u'C. C. Lee is Professor of Electrical Engineering and Computer Science.\xa0 He has a Ph. D. from Princeton and has been on the faculty at Northwestern since 1980.\xa0 In terms of his research career, on the theory side, he has published in IEEE Transactions on Information Theory and in Journal of ACM, the two most respected journals in EE and CS; on the application side, he has done a huge number of sponsored research projects and served as industry consultants with a wide variety of telecom and networking companies - Juniper Networks, Motorola, AT&T Bell Labs, Reuters Information Technology, SBC Comm., NORTEL Networks, U S West, Wildblue Communications, Liberty Media, 3COM, ARDIS, Pacific Broadband Communications, Zenith, BellCore, Cambia Networks, Raytheon, Recon Optical, Bell & Howell, American Iron & Steel Institute, Chrysler, WMS Gaming, Illinois Superconductor, among others.\xa0 His research interests cover network protocol design and performance evaluation; speech and image processing, network QoS, packet scheduling; wireless mobile communication systems and networks; detection and estimation, and cryptography.', u'At Northwestern, he co-founded (1989) and co-directed (1989-1999) Center of Information and Telecommunication Technology.\xa0 He was awarded Ameritech Chair Professorship four times (1990-91, 1996-97, 2001-02, 2005-06).\xa0 And he is founder (1996) and board member (1996 \u2013 present) of the Master on Information Technology program (MITP), which is now Master of Science in Information Technology (MSIT), a highly successful professional master degree program in McCormick School of Engineering. \xa0He has developed and taught a large number of undergraduate and graduate courses in EE and a fundamental telecom course in MSIT and his dedication to teaching is well recognized.']
+
+
+Han Liu
+(in-microtheory EnglishMt)
+(fullName HanLiu "Han Liu")
+(in-microtheory CyclistDefinitionalMt)
+(isa HanLiu HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech ', 'Evanston, IL 60208-3109']
+	hanliu@northwestern.edu
+	[("Han Liu's Homepage", 'https://www.princeton.edu/~hanliu/people.html')]
+	https://www.princeton.edu/~hanliu/people.html
+	[]
+	[]
+	['Ph.D. ', ', ']
+(isa HanLiu AcademicProfessional)
+(titleOfPerson HanLiu Dr)
+	['As a computer scientist and statistician, I use computation and data as a lens to explore science and intelligence. To make progress, I examines this with the point of view provided by the twin windows of modern nonparametric method and probabilistic graphical model. My specific research focuses on nonparametric structure learning and representation learning. Success on this research has the potential to revolutionarize the foundation of the second generation of artificial intelligence (i.e., statistical machine learning) and push the frontier of the third generation of artificial intelligence (i.e., deep learning). My applied research interest is to develop a unified set of computational, statistical, and software tools to extract and interpret significant information from the data collected from a variety of scientific areas.']
+
+
+Konstantin Makarychev
+(in-microtheory EnglishMt)
+(fullName KonstantinMakarychev "Konstantin Makarychev")
+(in-microtheory CyclistDefinitionalMt)
+(isa KonstantinMakarychev HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford 2-207', 'Evanston, IL 60208-3109']
+	konstantin@northwestern.edu
+	[("Konstantin Makarychev's Homepage", 'http://konstantin.makarychev.net/')]
+	http://konstantin.makarychev.net/
+	[]
+	[]
+	[u'Ph.D. Computer Science, Princeton University,\xa0', u'B.S. Mechanics and Mathematics, Moscow State University,\xa0', 'I am an Associate Professor at the EECS department of Northwestern University. I am interested in designing efficient algorithms for computationally hard problems. The aim of my research is to introduce new core techniques and design general principles for developing and analyzing algorithms that work in theory and practice. My research interests include approximation algorithms, beyond worst-case analysis, and applications of high-dimension geometry to computer science.', 'Before joining Northwestern University, I was a researcher at Microsoft and IBM Research Labs. I obtained my PhD in Computer Science from Princeton University in 2007.']
+(isa KonstantinMakarychev AcademicProfessional)
+(titleOfPerson KonstantinMakarychev Dr)
+	['he aim of my research is to introduce new core techniques and design general principles for developing and analyzing algorithms that work in theory and practice. My research interests include approximation algorithms, beyond worst-case analysis, and applications of high-dimension geometry in computer science.']
+
+
+Gokhan Memik
+(in-microtheory EnglishMt)
+(fullName GokhanMemik "Gokhan Memik")
+(in-microtheory CyclistDefinitionalMt)
+(isa GokhanMemik HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L475', 'Evanston, IL 60208-3109']
+	847-467-1168
+	g-memik@northwestern.edu
+	[("Gokhan Memik's Hompage", 'http://www.ece.northwestern.edu/~memik/'), ('Current Projects', 'http://www.eecs.northwestern.edu/~memik/proj.html'), ('Center for Ultra-scale Computing and Information Security (CUCIS)', 'http://cucis.ece.northwestern.edu/'), ('Center for Engineering and Health', 'http://www.feinberg.northwestern.edu/sites/ipham/centers/engineering-health.html')]
+	http://www.ece.northwestern.edu/~memik/
+	[]
+	[]
+	['Ph.D. Electrical Engineering, UCLA, Los Angeles, CA', 'M.S. Electrical and Computer Engineering, Northwestern University, Evanston, IL', 'B.S. Computer Engineering, Bogazici Univeristy, Istanbul, Turkey']
+(isa GokhanMemik AcademicProfessional)
+(titleOfPerson GokhanMemik Dr)
+	[u'Prof. Memik works in the area of computer architecture. His work spans three major areas: (1) understanding/developing new technologies and developing architectures that are more suitable for these technologies, (2) modeling large-scale systems and optimizing them, and (3) developing techniques that can automatically detect user needs/requirements and use this information to improve performance of mobile system and reduce their power consumption.\xa0']
+
+
+Seda O. Memik
+(in-microtheory EnglishMt)
+(fullName SedaO.Memik "Seda O. Memik")
+(in-microtheory CyclistDefinitionalMt)
+(isa SedaO.Memik HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L471', 'Evanston, IL 60208-3109']
+	847-491-7378
+	seda@northwestern.edu
+	[("Seda Ogrenci Memik's Homepage", 'http://www.eecs.northwestern.edu/~seda/'), ('Center for Ultra-scale Computing and Information Security', 'http://cucis.ece.northwestern.edu/')]
+	http://www.eecs.northwestern.edu/~seda/
+	[]
+	[]
+	['Ph.D. Computer Science, University of California, Los Angeles, CA', 'M.S. Electrical and Computer Engineering, Northwestern University, Evanston, IL', 'B.S. Electrical and Electronic Engineering, Bogazici University, Istanbul, Turkey']
+(isa SedaO.Memik AcademicProfessional)
+(titleOfPerson SedaO.Memik Dr)
+	['Design Automation, thermal aware design of circuits and systems, thermal sensing and cooling systems for high performance systems, power and energy aware memory systems.']
+
+
+Ilya Mikhelson
+(in-microtheory EnglishMt)
+(fullName IlyaMikhelson "Ilya Mikhelson")
+(in-microtheory CyclistDefinitionalMt)
+(isa IlyaMikhelson HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Room C228', 'Evanston, IL 60208-3109']
+	i-mikhelson@northwestern.edu
+	[]
+	[]
+	[]
+	[]
+	[]
+
+
+Hooman Mohseni
+(in-microtheory EnglishMt)
+(fullName HoomanMohseni "Hooman Mohseni")
+(in-microtheory CyclistDefinitionalMt)
+(isa HoomanMohseni HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M250', 'Evanston, IL 60208-3109']
+	847-491-7108
+	hmohseni@northwestern.edu
+	[("Hooman Mohseni's Homepage", 'http://www.eecs.northwestern.edu/~hmohseni/'), ('Bio-Inspired Sensors and Optoelectronics Laboratory', 'http://www.bisol.northwestern.edu/')]
+	http://www.eecs.northwestern.edu/~hmohseni/
+	[]
+	[]
+	['Ph.D. Electrical Engineering, Northwestern Univeristy, Evanston, IL', 'M.S. Electrical Engineering, Sharif University of Technology, Tehran, Iran', 'B.S. Electrical Engineering, Amirkabir University of Technology, Tehran, Iran']
+(isa HoomanMohseni AcademicProfessional)
+(titleOfPerson HoomanMohseni Dr)
+	['Single photon detectors; electro-optical modulators; photonic integrated circuits; nanophotonics; novel optoelectronic devices; novel infrared detectors']
+
+
+Don Norman
+(in-microtheory EnglishMt)
+(fullName DonNorman "Don Norman")
+(in-microtheory CyclistDefinitionalMt)
+(isa DonNorman HumanCyclist)
+(in-microtheory PeopleDataMt)
+	[]
+	847-467-1604
+	 don@jnd.org
+	[("Don Norman's Homepage", 'http://www.jnd.org/')]
+	http://www.jnd.org/
+	[]
+	[]
+	[' ', ' University of Pennsylvania', ' ', ' University of Pennsylvania', ' ', ' Massachusetts Institute of Technology']
+	[]
+
+
+Eleanor O'Rourke
+(in-microtheory EnglishMt)
+(fullName EleanorO'Rourke "Eleanor O'Rourke")
+(in-microtheory CyclistDefinitionalMt)
+(isa EleanorO'Rourke HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford 3-325', 'Evanston, IL 60208-3109']
+	eorourke@northwestern.edu
+	[("Eleanor O'Rourke's website", 'http://www.eleanorourke.com')]
+	http://www.eleanorourke.com
+	[]
+	[]
+	['Ph.D. ', u'Computer Science & Engineering, University of Washington,\xa0', 'M.S. ', u'B.S. Computer Science and Spanish, Colby College,\xa0']
+(isa EleanorO'Rourke AcademicProfessional)
+(titleOfPerson EleanorO'Rourke Dr)
+	["Eleanor O'Rourke is the June and Donald Brewer Junior Professor in Computer Science and Learning Sciences. Her research lies at the intersection of human-computer interaction and educational psychology with a focus on developing data-driven systems that support motivation, personalization, and formative assessment in learning environments. Her current research explores the design of interactive systems that promote the growth mindset, encourage playful learning, and foster metacognitive reflection through personal data. Her interventions have been used by over 100,000 students online, adopted by companies, and used in classrooms. She has also won several awards and scholarships, including the Google Anita Borg Scholarship and the Microsoft Research Graduate Women's Scholarship. Nell received her Ph.D. in Computer Science & Engineering from the University of Washington in 2016."]
+
+
+Thrasyvoulos (Thrasos) N. Pappas
+(in-microtheory EnglishMt)
+(fullName Thrasyvoulos(Thrasos)N.Pappas "Thrasyvoulos (Thrasos) N. Pappas")
+(in-microtheory CyclistDefinitionalMt)
+(isa Thrasyvoulos(Thrasos)N.Pappas HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L312', 'Evanston, IL 60208-3109']
+	847-467-1243
+	pappas@eecs.northwestern.edu
+	[("Thrasyvoulos N. Pappas' Homepage", 'http://users.eecs.northwestern.edu/~pappas/')]
+	http://users.eecs.northwestern.edu/~pappas/
+	[]
+	[]
+	['Ph.D. Electrical Engineering and Computer Science, MIT, Cambridge, MA', 'M.S. Electrical Engineering and Computer Science, MIT, Cambridge, MA', 'B.S. Electrical Engineering, MIT, Cambridge, MA']
+(isa Thrasyvoulos(Thrasos)N.Pappas AcademicProfessional)
+(titleOfPerson Thrasyvoulos(Thrasos)N.Pappas Dr)
+	[u'The research interests of Prof. Pappas are in image and video quality and compression, image and video analysis, content-based retrieval, perceptual models for multimedia processing, model-based halftoning, and tactile and multimodal interfaces. \xa0']
+
+
+Bryan Pardo
+(in-microtheory EnglishMt)
+(fullName BryanPardo "Bryan Pardo")
+(in-microtheory CyclistDefinitionalMt)
+(isa BryanPardo HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3-323', 'Evanston, IL 60208-3109']
+	847-491-7184
+	pardo@northwestern.edu
+	[("Bryan Pardo's Homepage", 'http://www.cs.northwestern.edu/~pardo/'), ('Interactive Audio Lab', 'http://music.cs.northwestern.edu/')]
+	http://www.cs.northwestern.edu/~pardo/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence', 'Master of Science in Robotics Program']
+	['Ph.D. Computer Science and Engineering, University of Michigan, Ann Arbor, MI', 'M. Mus. Jazz and Improvisation, University of Michigan, Ann Arbor, MI', 'M.S. Computer Science, Ohio State University, Columbus, OH', 'B. Mus. Jazz Composition, Ohio State University, Columbus, OH']
+(isa BryanPardo AcademicProfessional)
+(titleOfPerson BryanPardo Dr)
+	['The objective of my research is to develop theoretical advances in artificial intelligence, signal processing and interface design that enable the key technologies required to automatically find, label and manipulate important structures in audio, with a focus on music and audio as problem domains. For current projects please see my lab website at ', 'music.eecs.northwestern.edu']
+
+
+Martin Plonus
+(in-microtheory EnglishMt)
+(fullName MartinPlonus "Martin Plonus")
+(in-microtheory CyclistDefinitionalMt)
+(isa MartinPlonus HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M390', 'Evanston, IL 60208-3109']
+	847-491-3445
+	plonus@northwestern.edu
+	[("Martin Plonus' Homepage", 'http://users.eecs.northwestern.edu/~plonus/')]
+	http://users.eecs.northwestern.edu/~plonus/
+	[]
+	[]
+	['Ph.D., University of Michigan', 'M.S., University of Illinois', '\r\n', '\r\n B.S., University of Illinois']
+(isa MartinPlonus AcademicProfessional)
+(titleOfPerson MartinPlonus Dr)
+	[]
+
+
+Morteza Amir Rahimi
+(in-microtheory EnglishMt)
+(fullName MortezaAmirRahimi "Morteza Amir Rahimi")
+(in-microtheory CyclistDefinitionalMt)
+(isa MortezaAmirRahimi HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech M194', 'Evanston, IL 60208-3109']
+	847-497-0859
+	marahimi@northwestern.edu
+	[("Morteza Rahimi's Homepage", 'http://users.eecs.northwestern.edu/~rahimi/')]
+	http://users.eecs.northwestern.edu/~rahimi/
+	[]
+	[]
+	['Ph.D. in Computer Science, University of Iowa, Iowa City, IA', 'M.S. in Mathematics, Michigan State University, East Lansing, MI', 'B.S. in Mathematics, Michigan State University, East Lansing, MI']
+(isa MortezaAmirRahimi AcademicProfessional)
+(titleOfPerson MortezaAmirRahimi Dr)
+	['Analytics; system infrastructure design and operations, large scale software projects, and IT policy and management']
+
+
+Manijeh Razeghi
+(in-microtheory EnglishMt)
+(fullName ManijehRazeghi "Manijeh Razeghi")
+(in-microtheory CyclistDefinitionalMt)
+(isa ManijehRazeghi HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2220 Campus Drive', 'Cook Hall 4051', 'Evanston, IL 60208-3109']
+	847-491-7251
+	razeghi@eecs.northwestern.edu
+	[('Center for Quantum Devices', 'http://cqd.eecs.northwestern.edu/research/research.php')]
+	http://cqd.eecs.northwestern.edu/research/research.php
+	[]
+	[]
+	[u"Docteur d'\xc9tat \xe8s Sciences Physiques, Universit\xe9 de Paris, Paris, France", u'Docteur 3\xe8me Cycle Solid State Physics, Universit\xe9 de Paris, Paris, France', u'DEA Science des Mat\xe9riaux, Universit\xe9 de Paris, Paris, France']
+	['Since its founding in 1992, the Center for Quantum Devices at Northwestern University has evolved from only a mere vision into a concrete world-class research laboratory, with the mission to pursue academic excellence and high-level research in compound semiconductor science and nanotechnology.', "Advancing the frontiers in this cutting-edge scientific field is an exciting and challenging adventure, for which the Center has assembled a strong team of graduate and undergraduate students, research scientists and professors with diverse backgrounds, working within the Center's ", 'unique state-of-the-art research facility', '. The creativity and ingenuity of this strong team has proved successful in solving the many scientific issues encountered on a daily basis, achieving a number of breakthroughs and staying ahead of competition. At the same time, as an integral part of a high-level educational institution, the Center has been educating and training future leaders for both academia and industry.', 'The scientific research has involved developing an understanding of the physics of new semiconductor crystals for novel applications and realizing advanced semiconductor devices such as lasers, photodetectors, transistors, waveguides and switches. This entails a multidisciplinary combination of solid state physics, quantum mechanics, electrical, mechanical and chemical engineering and materials science, as well as a strong collaborative effort between Academia, Industry, and National Laboratories. A strong testimony of the success of this endeavor has been the consistent support of several industrial corporations and government agencies from the Department of Defense to push forward the science and nanotechnology of compound semiconductor optoelectronic and quantum devices at the Center.', 'The research activity involves a wide range of challenging scientific topics, including ', 'Ultraviolet and visible devices based on III-Nitride semiconductors', ', ', 'aluminum-free InGaAsP/GaAs lasers emitting at 980 nm and 808 nm', ', ', u'antimony based high power 3-5 \u03bcm lasers', ', ', u'uncooled infrared (3-16 \u03bcm) quantum cascade lasers', ', ', 'quantum well infrared photodetectors (QWIP)', ', ', 'Type-II superlattice based infrared detectors', ', ', 'the development of uncooled InAsSb photodetector technology', ', ', 'InTlAsBiSb detector technology', ', ', ' self assembled quantum dot devices', ', ', 'and nanotechnology using electron-beam lithography', ". In all these fields, the Center's research work has been the world's first or best, and has resulted in ", '658 publications', ', ', '18 books', ' and 32', u'\xa0book chapters', ', ', '623 conference presentations, lectures, plenary and invited talks, and organization of international conferences', '. In addition, 60', u'\xa0patents ', ' have been awarded or are currently pending, and ', '145 prestigious recognition awards', ' have been bestowed upon Center members.']
+
+
+Chris Riesbeck
+(in-microtheory EnglishMt)
+(fullName ChrisRiesbeck "Chris Riesbeck")
+(in-microtheory CyclistDefinitionalMt)
+(isa ChrisRiesbeck HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3.315', 'Evanston, IL 60208-3109']
+	847-491-7279
+	c-riesbeck@northwestern.edu
+	[("Chris Riesbeck's Homepage", 'http://www.cs.northwestern.edu/~riesbeck/')]
+	http://www.cs.northwestern.edu/~riesbeck/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence', 'Master of Science in Product Design and Development Management Program']
+	http://mccormick.northwestern.edu/docs/public_cv/Riesbeck-Christopher-CV.pdf
+	['Ph.D. Computer Science, Stanford University, Palo Alto, CA', 'M.A. Computer Science, Stanford University, Palo Alto, CA', 'B.A. Mathematics, Alfred University, Alfred, NY']
+(isa ChrisRiesbeck AcademicProfessional)
+(titleOfPerson ChrisRiesbeck Dr)
+	['Agile software development. Technology-enabled educational reform. Experiential knowledge-based language understanding and reasoning.']
+
+
+Jennie M. Rogers
+(in-microtheory EnglishMt)
+(fullName JennieM.Rogers "Jennie M. Rogers")
+(in-microtheory CyclistDefinitionalMt)
+(isa JennieM.Rogers HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3-221', 'Evanston, IL 60208-3109']
+	jennie@northwestern.edu
+	[("Jennie Rogers's Homepage", 'http://users.eecs.northwestern.edu/~jennie/')]
+	http://users.eecs.northwestern.edu/~jennie/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence']
+	http://mccormick.northwestern.edu/docs/public_cv/Rogers-Jennie-CV.pdf
+	['Ph.D Computer Science, Brown University, Providence, RI', 'MS Computer Science, Brown Univesity, Providence, RI', 'BS Computer Science, Rensselaer Polytechnic Institute, Troy, NY']
+(isa JennieM.Rogers AcademicProfessional)
+(titleOfPerson JennieM.Rogers Dr)
+	['Optimizing the performance of database workloads; encoded storage for array databases; data placement for elastic databases; query optimization for array databases; query optimization for complex analytics; personal use of big data.']
+
+
+Michael Rubenstein
+(in-microtheory EnglishMt)
+(fullName MichaelRubenstein "Michael Rubenstein")
+(in-microtheory CyclistDefinitionalMt)
+(isa MichaelRubenstein HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford 2-221', 'Evanston, IL 60208-3109']
+	rubenstein@northwestern.edu
+	[('Research Website', 'http://users.eecs.northwestern.edu/~mrubenst/')]
+	http://users.eecs.northwestern.edu/~mrubenst/
+	[]
+	[]
+	['Ph.D Computer Science, University of Southern California, Los Angeles, CA', 'M.S. Electrical Engineering, University of Southern California, Los Angeles, CA', 'B.S. Electrical Engineering, Purdue University, West Lafayette, IN']
+(isa MichaelRubenstein AcademicProfessional)
+(titleOfPerson MichaelRubenstein Dr)
+	[u'\xa0My research interest is to advance the control and design of multi-robot systems, enabling their use instead of traditional single robots and to solve problems for which traditional robots are not suitable. Using these multi-robot systems can offer more parallelism, adaptability, and fault tolerance when compared to a traditional single robot. I am also interested in investigating how new technologies will allow for more capable multi-robot systems, and how these technologies impact the design of multi-robot algorithms, especially as these systems begin to number in the hundreds, thousands, or even millions of robots.']
+
+
+Alan V. Sahakian
+(in-microtheory EnglishMt)
+(fullName AlanV.Sahakian "Alan V. Sahakian")
+(in-microtheory CyclistDefinitionalMt)
+(isa AlanV.Sahakian HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech L352', 'Evanston, IL 60208-3109']
+	847-491-3641
+	sahakian@eecs.northwestern.edu
+	[("Alan Sahakian's Homepage", 'http://eecs.northwestern.edu/~sahakian/')]
+	http://eecs.northwestern.edu/~sahakian/
+	[]
+	[]
+	['Ph.D. Electrical and Computer Engineering with minor in Computer Science, University of Wisconsin-Madison, Madison, WI', 'M.S. Electrical Engineering, University of Wisconisin-Madison, Madison, WI', 'B.S. Applied Science and Physics, University of Wisconsin-Parkside, Madison, WI']
+(isa AlanV.Sahakian AcademicProfessional)
+(titleOfPerson AlanV.Sahakian Dr)
+	[u'Cardiac electrophysiology,\xa0in particular\xa0the mechanisms, monitoring and automatic diagnosis and treatment of the atrial cardiac arrhythmias. Irreversible electroporation methods for ablating cancerous tumors including non-resectable liver and pancreatic cancer.', u'\xa0 ', 'RF ablation for establishing cancer-free post-lumpectomy margins.', u'\xa0 ', 'Non-contact vital signs monitoring using millimeter-wave and other remote sensing methods. ', u'\xa0', 'Beond-CMOS logic realizations including spintronics, magneto-resistive devices and circuits and all-carbon logic.', u'\xa0']
+
+
+Peter Scheuermann
+(in-microtheory EnglishMt)
+(fullName PeterScheuermann "Peter Scheuermann")
+(in-microtheory CyclistDefinitionalMt)
+(isa PeterScheuermann HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L452', 'Evanston, IL 60208-3109']
+	847-491-7141
+	peters@ece.northwestern.edu
+	[("Peter Scheuermann's Homepage", 'http://users.eecs.northwestern.edu/~peters/')]
+	http://users.eecs.northwestern.edu/~peters/
+	[]
+	[]
+	['Ph.D. Computer Science, State University of New York, Stony Brook, NY', 'M.S. Computer Science, State University of New York, Stony Brook, NY', 'B.S. Applied Mathematics/Physics, Tel-Aviv University, Tel-Aviv, Israel']
+(isa PeterScheuermann AcademicProfessional)
+(titleOfPerson PeterScheuermann Dr)
+	['Physical database design; parallel I/O systems; distributed and federated database systems; web caching and replication; data mining; mobile computing']
+
+
+Selim Shahriar
+(in-microtheory EnglishMt)
+(fullName SelimShahriar "Selim Shahriar")
+(in-microtheory CyclistDefinitionalMt)
+(isa SelimShahriar HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M248', 'Evanston, IL 60208-3109']
+	847-491-5306
+	shahriar@eecs.northwestern.edu
+	[("Selim Shahriar's Homepage", 'http://lapt.ece.northwestern.edu/selim.html'), ('Laboratory for Atomic and Photonic Technology', 'http://lapt.ece.northwestern.edu/')]
+	http://lapt.ece.northwestern.edu/selim.html
+	[]
+	[]
+	['Ph.D. Electrical Engineering and Computer Science, MIT, Cambridge, MA', 'S.M. Electrical Engineering and Computer Science, MIT, Cambridge, MA', 'S.B. Electrical Engineering and Computer Science, MIT, Cambridge, MA', 'S.B. Physics, MIT, Cambridge, MA']
+(isa SelimShahriar AcademicProfessional)
+(titleOfPerson SelimShahriar Dr)
+	[u'Superluminal ring lasers for rotation sensing, accelerometry, vibrometry and gravitational wave detection; \xa0White light cavity based on fast light for data buffering and gravitational wave detection; Low light level optical switching with nano-fibers; Quantum communication and quantum computing with atomic ensembles; Analog and digital holographic high speed recognition of images and video clips in scale, rotation and shift invariant manner; Polarimetric imaging using high speed atomic polarizer and waveplate; \xa0Collective state atomic interferometry and collective state atomic clock;\xa0 Chip scale vapor atomic clock and compact cold atom Raman clock; \xa0Nanolithography using BEC; High-speed; High-speed optical modulation using buffer-gas loaded atomic vapor; Graphene based electronics; Plasmonics enhanced novel light sources; Spin-squeezed precision metrology.']
+
+
+Sara Owsley Sood 
+(in-microtheory EnglishMt)
+(fullName SaraOwsleySood "Sara Owsley Sood ")
+(in-microtheory CyclistDefinitionalMt)
+(isa SaraOwsleySood HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3-327', 'Evanston, IL 60208-3109']
+	847-491-5708
+	sara.sood@northwestern.edu
+	[("Sara Sood's website", 'http://labfs.eecs.northwestern.edu/~sara/Site/Home.html'), ('Intelligent Information Lab', 'http://infolab.northwestern.edu/')]
+	http://labfs.eecs.northwestern.edu/~sara/Site/Home.html
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence']
+	[]
+	['My work is focused on understanding the expression and impact of emotion in online communication. To this end, my recent work has been on systems to detect and analyze insults, profanity and personal attacks in online forums with a recent focus on the impact of anonymity on online communities. My work in the space of sentiment analysis has led me to explore a series of other related challenges including domain specificity and sentiment analysis through many models of emotion beyond positive/negative/neutral classification.']
+
+
+Allen Taflove
+(in-microtheory EnglishMt)
+(fullName AllenTaflove "Allen Taflove")
+(in-microtheory CyclistDefinitionalMt)
+(isa AllenTaflove HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L349', 'Evanston, IL 60208-3109']
+	847-491-4127
+	taflove@eecs.northwestern.edu
+	[("Allen Taflove's Homepage", 'http://www.ece.northwestern.edu/~taflove')]
+	http://www.ece.northwestern.edu/~taflove
+	[]
+	[]
+	['Ph.D. Electrical Engineering, Northwestern University, Evanston, IL (1975)', 'M.S. Electrical Engineering, Northwestern University, Evanston, IL (1972)', 'B.S. Electrical Engineering, Northwestern University, Evanston, IL (1971)']
+(isa AllenTaflove AcademicProfessional)
+(titleOfPerson AllenTaflove Dr)
+	[u'Since 1972, Prof. Taflove has pioneered theoretical approaches, algorithms, and applications of finite-difference time-domain computational solutions of the fundamental Maxwell\'s equations of classical electrodynamics.\xa0 In 1980, he coined the widely used descriptors "finite difference time domain" and "FDTD" (currently tallying more than 100,000 and 200,000 Google Scholar search results, respectively). \xa0In 1990, he was the first person to be named a Fellow of the Institute of Electrical and Electronics Engineers (IEEE) in the FDTD area.\xa0 Subsequently, he was the recipient of the 2010 Chen-To Tai Distinguished Educator Award of the IEEE Antennas and Propagation Society, and the 2014 IEEE Electromagnetics Award. His citation for the latter reads:\xa0 "For contributions to the development and application of finite-difference time-domain (FDTD) solutions of Maxwell\'s equations across the electromagnetic spectrum."\xa0 He is currently a Life Fellow of the IEEE and a Fellow of The Optical Society (OSA). His OSA Fellow citation reads: "For creating the finite-difference time-domain method for the numerical solution of Maxwell\'s equations, with crucial application to the growth and current state of the field of photonics."', u"FDTD solutions of Maxwell's equations have emerged as a primary means to solve the most complex scientific and engineering problems involving electromagnetic wave phenomena, devices, and systems across the spectrum, i.e., literally, from ultralow-frequency geophysical electrodynamic phenomena spanning the entirety of Planet Earth to visible light interacting at nanometer length scales with metamaterials and plasmonic structures.\xa0 In May 2010, ", 'Nature Milestones|Photons', u" identified Prof. Taflove as one of the two principal pioneers of numerical solutions of Maxwell's equations. \xa0In January 2015, in a Special Issue marking the 150th anniversary of the publication of Maxwell's equations,", ' Nature Photonics', " prominently featured an interview with him dealing with FDTD's multi-decade development and its historical significance. In the interview's header, ", 'Nature Photonics', ' identified Prof. Taflove as the "father of the finite-difference time-domain technique."', "In Sept. 2012, Prof. Taflove's book, ", 'Computational Electrodynamics: The Finite-Difference Time-Domain Method', u" was ranked as the 7th most-cited book in physics, according to the University of Rochester's Institute of Optics (ahead of books by three Nobel prize winners in physics).\xa0 At present, Taflove's book has 17,500 Google Scholar citations.", u"Currently, continuing a collaboration that began in 2003, Prof. Taflove is working with Prof. Vadim Backman of Northwestern's Biomedical Engineering Department.\xa0 Their research is aimed at the minimally invasive, early-stage detection of deadly cancers such as those of the colon, pancreas, lungs, and ovaries.\xa0 The techniques being pursued are based upon spectral analysis of light that is backscattered from histologically normal tissue located away from a neoplastic lesion in what has been termed the field effect.\xa0 This may lead to a new paradigm in cancer screening where, for example, early-stage lung cancer could be reliably detected by analyzing a few cells brushed from the interior surface of a person's cheek."]
+
+
+Jesse Tov
+(in-microtheory EnglishMt)
+(fullName JesseTov "Jesse Tov")
+(in-microtheory CyclistDefinitionalMt)
+(isa JesseTov HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford 2-215', 'Evanston, IL 60208-3109']
+	jesse.tov@northwestern.edu
+	[("Jesse Tov's Homepage", 'http://users.eecs.northwestern.edu/~jesse/')]
+	http://users.eecs.northwestern.edu/~jesse/
+	[]
+	[]
+	[]
+	[]
+
+
+Jack E. Tumblin
+(in-microtheory EnglishMt)
+(fullName JackE.Tumblin "Jack E. Tumblin")
+(in-microtheory CyclistDefinitionalMt)
+(isa JackE.Tumblin HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3.341', 'Evanston, IL 60208-3109']
+	847-467-2129
+	j-tumblin@northwestern.edu
+	[("John Tumblin's Homepage", 'http://www.cs.northwestern.edu/~jet/')]
+	http://www.cs.northwestern.edu/~jet/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Robotics Program']
+	http://mccormick.northwestern.edu/docs/public_cv/Tumblin-John-CV.pdf
+	['Ph.D. Computer Science, Georgia Institute of Technology, Atlanta, GA', 'M.S. Electrical Engineering, Georgia Institute of Technology, Atlanta, GA', 'Master of Fine Arts in Cinema, University of Southern California, Los Angeles, CA', 'B.S. Electrical Engineering, Georgia Institute of Technology, Atlanta, GA']
+(isa JackE.Tumblin AcademicProfessional)
+(titleOfPerson JackE.Tumblin Dr)
+	[u'EECS Associate Professor Jack Tumblin currently pursues topics in computer graphics and computational photography.\xa0 Funded projects (NSF, Samsung, Adobe, nVIDIA, Mellon) include novel photographic sensors, optics, and lighting devices; image representations for scene capture, rendering and display; and low-cost self-contained systems to help museum curators explore, archive, and share more of their vast collections digitally.']
+
+
+Aravindan Vijayaraghavan
+(in-microtheory EnglishMt)
+(fullName AravindanVijayaraghavan "Aravindan Vijayaraghavan")
+(in-microtheory CyclistDefinitionalMt)
+(isa AravindanVijayaraghavan HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford 3-207', 'Evanston, IL 60208-3109']
+	847-467-6145
+	aravindv@northwestern.edu
+	[('Aravindan Vijayaraghavan Homepage', 'http://users.eecs.northwestern.edu/~aravindv/index.html')]
+	http://users.eecs.northwestern.edu/~aravindv/index.html
+	[]
+	[]
+	['Ph.D Computer Science, Princeton University', 'M.A. Computer Science, Princeton University', u'B. Tech. Computer Science and Engineering, \xa0Indian Institute of Technology, Madras']
+(isa AravindanVijayaraghavan AcademicProfessional)
+(titleOfPerson AravindanVijayaraghavan Dr)
+	[u'His research\xa0interests are broadly in the field of Theoretical Computer Science, particularly, in designing efficient algorithms for problems in Combinatorial Optimization and Machine Learning. He is also interested in using paradigms that go Beyond Worst-Case Analysis to obtain good algorithmic guarantees.']
+
+
+Ermin Wei
+(in-microtheory EnglishMt)
+(fullName ErminWei "Ermin Wei")
+(in-microtheory CyclistDefinitionalMt)
+(isa ErminWei HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L310', 'Evanston, IL 60208-3109']
+	847-467-5702
+	ermin.wei@northwestern.edu
+	[("Ermin Wei's Homepage", 'http://users.eecs.northwestern.edu/~erminwei/'), ('Communications and Networking Laboratory', 'http://commnet.ece.northwestern.edu/')]
+	http://users.eecs.northwestern.edu/~erminwei/
+	[]
+	[]
+	['PhD Electrical Engineering and Computer Science, Massachusetts Institute of Technology, MA', 'MS Electrical Engineering and Computer Science, Massachusetts Institute of Technology, MA', 'BS Computer Engineering, Finance and Mathematics, University of Maryland, MD']
+	[]
+
+
+Uri Wilensky
+(in-microtheory EnglishMt)
+(fullName UriWilensky "Uri Wilensky")
+(in-microtheory CyclistDefinitionalMt)
+(isa UriWilensky HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 3.221', 'Evanston, IL 60208-3109']
+	847-467-3818
+	uri@northwestern.edu
+	[("Uri Wilensky's Homepage", 'http://ccl.northwestern.edu/uri/'), ('Center for Connected Learning', 'http://ccl.northwestern.edu/')]
+	http://ccl.northwestern.edu/uri/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence']
+	['Ph.D. Media Arts and Sciences, MIT, Cambridge, MA', 'M.A. Mathematics, Brandeis University, Waltham, MA', 'B.A. Mathematics and Philosophy, Brandeis University, Waltham, MA']
+(isa UriWilensky AcademicProfessional)
+(titleOfPerson UriWilensky Dr)
+	['I have several distinct research interests. A major interest is in the design of learning technologies. Another major interest is agent-based modeling and the design of ABM languages. Modeling and representational infrastructure software; developing tools that enable users to simulate, explore and make sense of complex systems.']
+
+
+Marcelo Worsley
+(in-microtheory EnglishMt)
+(fullName MarceloWorsley "Marcelo Worsley")
+(in-microtheory CyclistDefinitionalMt)
+(isa MarceloWorsley HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech ', 'Evanston, IL 60208-3109']
+	marcelo.worsley@northwestern.edu
+	[("Marcelo Worsley's Homepage", 'http://marceloworsley.com/')]
+	http://marceloworsley.com/
+	[]
+	[]
+	[]
+	[]
+
+
+Chi-Haur Wu
+(in-microtheory EnglishMt)
+(fullName Chi-HaurWu "Chi-Haur Wu")
+(in-microtheory CyclistDefinitionalMt)
+(isa Chi-HaurWu HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M309', 'Evanston, IL 60208-3109']
+	847-491-7076
+	chwu@ece.northwestern.edu
+	[("Chi-Haur Wu's Homepage", 'http://users.eecs.northwestern.edu/~chwu/')]
+	http://users.eecs.northwestern.edu/~chwu/
+	[]
+	[]
+	['Ph.D. Computer Engineering, Purdue University, West Lafayette, IN', 'M.S. Electrical Engineering, Virgina Tech, Blacksburg, VA', 'B.S. Electrical Engineering, National Taiwan University, Taipei City, Taiwan']
+(isa Chi-HaurWu AcademicProfessional)
+(titleOfPerson Chi-HaurWu Dr)
+	[u'1)\xa0\xa0\xa0 Solar-powered (or battery-powered) electrical motor-driven vehicles.', u'2)\xa0\xa0\xa0 Muscle compliant control for computer assisted surgical robot and rehabilitation robot.', u'3)\xa0\xa0\xa0 Tele-manipulation and sensing control.', u'4)\xa0\xa0\xa0 Human augmentation control for hoist and material handling applications.', u'5)\xa0\xa0\xa0 Intelligent product assembly manufacturing', u'6)\xa0\xa0\xa0 Electronic circuit design, sensor circuit design and control.', u'7)\xa0\xa0\xa0 Interactive robotics for industrial, consumer, and recreational applications.', u'8)\xa0\xa0\xa0 Damper control for active suspension, force absorbing, and vibration isolation.', u'\xa0']
+
+
+Ying Wu
+(in-microtheory EnglishMt)
+(fullName YingWu "Ying Wu")
+(in-microtheory CyclistDefinitionalMt)
+(isa YingWu HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M322', 'Evanston, IL 60208-3109']
+	847-491-2901
+	yingwu@eecs.northwestern.edu
+	[("Ying Wu's Homepage", 'http://www.eecs.northwestern.edu/~yingwu/')]
+	http://www.eecs.northwestern.edu/~yingwu/
+	[]
+	[]
+	['Ph.D. Electrical and Computer Engineering, University of Illinois at Urbana, Champaign, IL', 'M.S. Electrical Engineering, Tsinghua University, Beijing, China', 'B.E. Electrical Engineering, Huazhong University of Science and Technology, Wuhan, Hubei, China']
+(isa YingWu AcademicProfessional)
+(titleOfPerson YingWu Dr)
+	['Computer vision; visual motion tracking/capturing/recognition; statistical learning and pattern recognition; vision-based interaction, image/video analysis and understanding; robotics, multimedia data mining; biomedical image processing and medical applications']
+
+
+Horace Yuen
+(in-microtheory EnglishMt)
+(fullName HoraceYuen "Horace Yuen")
+(in-microtheory CyclistDefinitionalMt)
+(isa HoraceYuen HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room M320', 'Evanston, IL 60208-3109']
+	847-491-7335
+	yuen@eecs.northwestern.edu
+	[("Horace Yuen's Homepage", 'http://www.physics.northwestern.edu/people/personalpages/hyuen.html')]
+	http://www.physics.northwestern.edu/people/personalpages/hyuen.html
+	[]
+	[]
+	['Ph.D. Electrical Engineering, MIT, Cambridge, MA', 'M.Sc. Electrical Engineering, MIT, Cambridge, MA', 'B.Sc. Electrical Engineering, MIT, Cambridge, MA']
+(isa HoraceYuen AcademicProfessional)
+(titleOfPerson HoraceYuen Dr)
+	['My current focus in on quantum and classical cryptography, physics based and also pure mathematics based. I am continue to develop my previous KCQ (keyed communication in quantum noise approach) approach, versions of which have been implemented in the US and Japan. I introduce a new technique DBM (decoy bits method) on which patent appliction has been filed, but the details of which are yet to be released.']
+
+
+Haoqi Zhang
+(in-microtheory EnglishMt)
+(fullName HaoqiZhang "Haoqi Zhang")
+(in-microtheory CyclistDefinitionalMt)
+(isa HaoqiZhang HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Ford Room 2.320', 'Evanston, IL 60208-3109']
+	hq@northwestern.edu
+	[("Haoqi Zhang's Homepage", 'http://users.eecs.northwestern.edu/~hq/'), ('Design, Technology, and Research (DTR)', 'http://dtr.northwestern.edu/'), ('Delta Lab', 'http://delta.northwestern.edu/')]
+	http://users.eecs.northwestern.edu/~hq/
+	['Electrical Engineering and Computer Science']
+	['Master of Science in Artificial Intelligence']
+	http://mccormick.northwestern.edu/docs/public_cv/Zhang-Haoqi-CV.pdf
+	['Ph.D. Computer Science, Harvard University, Cambridge, MA', 'A.B. Computer Science, Harvard University & Economics, Cambridge, MA']
+(isa HaoqiZhang AcademicProfessional)
+(titleOfPerson HaoqiZhang Dr)
+	['Haoqi Zhang', ' is the Allen K. and Johnnie Cordell Breed Junior Chair of Design and assistant professor in Computer Science at Northwestern University. His work advances the design of integrated socio-technical models that solve complex problems and advance human values at scale. His research bridges the fields of Human-Computer Interaction, Artificial Intelligence, Social & Crowd Computing, Learning Science, and Decision Science, and is generously supported by National Science Foundation grants in ', 'Cyber-Human Systems', ', ', 'Cyberlearning', ' (', '1', ', ', '2', '), and the ', 'Research Initiation Initiative', '.', 'Haoqi received his PhD in Computer Science and BA in Computer Science and Economics from Harvard University. At Northwestern he founded and directs the ', 'Design, Technology, and Research (DTR)', ' program, which provides an ', 'original model for research training', ' for 50 graduate and undergraduate students. With ', 'Matt Easterday', ', ', 'Liz Gerber', ', and ', "Nell O'Rourke", ', Haoqi co-directs the ', 'Delta Lab', ', an interdisciplinary research lab and design studio across computer science, learning science, and design.']
+
+
+Hai Zhou
+(in-microtheory EnglishMt)
+(fullName HaiZhou "Hai Zhou")
+(in-microtheory CyclistDefinitionalMt)
+(isa HaiZhou HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L461', 'Evanston, IL 60208-3109']
+	847-491-4155
+	haizhou@northwestern.edu
+	[("Hai Zhou's Homepage", 'http://www.eecs.northwestern.edu/~haizhou/'), (' Center for Ultra Scale Computing and Information Security (CUCIS)', 'http://cucis.ece.northwestern.edu/')]
+	http://www.eecs.northwestern.edu/~haizhou/
+	[]
+	[]
+	['Ph.D. Computer Science, University of Texas, Austin, TX', 'M.E. Computer Science and Technology, Tsinghua University, Beijing, China', 'B.E. Computer Science and Technology, Tsinghua University, Beijing, China']
+(isa HaiZhou AcademicProfessional)
+(titleOfPerson HaiZhou Dr)
+	["Prof. Zhou's research is focused on hardware security and reliability, timing and power optimization in VLSI designs, and algorithm deisgn and anlysis."]
+
+
+Qi Zhu
+(in-microtheory EnglishMt)
+(fullName QiZhu "Qi Zhu")
+(in-microtheory CyclistDefinitionalMt)
+(isa QiZhu HumanCyclist)
+(in-microtheory PeopleDataMt)
+	['2145 Sheridan Road', 'Tech Room L454', 'Evanston, IL 60208-3109']
+	qzhu@northwestern.edu
+	[("Qi Zhu's Homepage", 'http://users.eecs.northwestern.edu/~qzhu/'), ('IDEAS - Design Automation of Intelligent Systems Lab', 'http://zhulab.eecs.northwestern.edu/')]
+	http://users.eecs.northwestern.edu/~qzhu/
+	[]
+	[]
+	['Ph.D. Electrical Engineering & Computer Science, University of California, Berkeley', 'B.E. Computer Science, Tsinghua University, ', u'\xa0']
+(isa QiZhu AcademicProfessional)
+(titleOfPerson QiZhu Dr)
+	['My research interests include design automation of intelligent cyber-physical systems and Internet-of-Things applications, cyber-physical security, energy-efficient CPS, and system-on-chip design.', u'Recent work in my group has been focusing on system level synthesis, optimization and modeling methodologies for intelligent cyber-physical systems. We are particularly interested in addressing\xa0', 'timing, heterogeneity, security and energy challenges', u'\xa0in CPS design and operation.']
+
+

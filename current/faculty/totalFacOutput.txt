@@ -1,0 +1,905 @@
+Brenna Argall
+Tech Room M194
+847-467-0862
+brenna.argall@northwestern.edu
+http://eecs.northwestern.edu/~argall/
+['Electrical Engineering and Computer Science', 'Mechanical Engineering']
+['Master of Science in Robotics Program']
+http://mccormick.northwestern.edu/docs/public_cv/Argall-Brenna-CV.pdf
+['Ph.D. in Robotics, Carnegie Mellon University, Pittsburgh, PA', 'M.S. in Robotics, Carnegie Mellon University, Pittsburgh, PA', 'B.S. in Mathematical Sciences, Carnegie Mellon University, Pittsburgh, PA']
+["It is an irony that often the more severe a person's motor impairment, the more challenging it is for them to operate the very assistive machines which might enhance their quality of life. A primary aim of my lab is to address this confound by incorporating robotics autonomy and intelligence into assistive machines---turning the machine into a kind of robot, and offloading some of the control burden from the user to the machine. Robots already synthetically sense, act in and reason about the world, and these technologies can be leveraged to help bridge the gap left by sensory, motor or cognitive impairments in the users of assistive machines.", "My research lies at the intersection of artificial intelligence, rehabilitation robotics and machine learning. A distinguishing theme present within many of my lab's projects is that the machine automation is customizable---to a user's physical abilities, personal preferences or even financial means. A fundamental question that arises time and again throughout many of our projects is how exactly to share control between the robot and the human user, and how to adapt these control formulations over time as the human changes. We are working with a range of hardware platforms, from a smart wheelchair to assistive robotic arms."]
+(in-microtheory EnglishMt)
+(fullName BrennaArgall "Brenna Argall")
+(in-microtheory CyclistDefinitionalMt)
+(isa BrennaArgall HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa BrennaArgall AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson BrennaArgall Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Larry Birnbaum
+Ford Room 3.325
+847-491-3640
+l-birnbaum@northwestern.edu
+http://infolab.northwestern.edu/team/larry-birnbaum.html
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence']
+http://mccormick.northwestern.edu/docs/public_cv/Birnbaum-Lawrence-CV.pdf
+['Ph.D. Computer Science, Yale University, New Haven, CT', 'M.S. Computer Science, Yale University, New Haven, CT', 'B.S. Computer Science, Yale University, New Haven, CT']
+[u'Larry Birnbaum\'s research and teaching focus on applied Artificial Intelligence, natural language processing (NLP), social media analytics, and contextual search, with applications to media and journalism. \xa0A key focus is on methods for the automatic generation of content by machine, including specifically the automatic generation of narratives from data. \xa0Another important area of Larry\'s research is intelligent information systems, including models of automatic and contextual search and information diversity. \xa0A third focus is on preference predication and recommendation using social media data. \xa0More generally, projects in Larry\'s lab are aimed at automating and supporting all aspects of the "content pipeline," including research, content generation, content distribution, and user interaction with content.']
+(in-microtheory EnglishMt)
+(fullName LarryBirnbaum "Larry Birnbaum")
+(in-microtheory CyclistDefinitionalMt)
+(isa LarryBirnbaum HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa LarryBirnbaum AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson LarryBirnbaum Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Fabian Bustamante
+Tech Room L477
+847-491-2745
+fabianb@northwestern.edu
+['Ph.D. Computer Science, Georgia Institute of Technology, Atlanta, Georgia', 'M.S. Computer Science, Georgia Institute of Technology, Atlanta, Georgia', 'Licenciado en Ciencias de la Computacion, Universidad Nacional de la Patagonia San Juan Bosco, Patagonia, Argentina', 'Analista Programador Universitario, Universidad Nacional de la Patagonia San Juan Bosco, Patagonia, Argentina']
+['The goals of my research is to understand (computer) networks and the distributed systems we build on them from the perspective of users at the edge of the network, and improve and design systems based on the gained insight.']
+(in-microtheory EnglishMt)
+(fullName FabianBustamante "Fabian Bustamante")
+(in-microtheory CyclistDefinitionalMt)
+(isa FabianBustamante HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa FabianBustamante AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson FabianBustamante Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Simone Campanoni
+Ford 2-217
+simone.campanoni@northwestern.edu
+http://users.eecs.northwestern.edu/~simonec/Simone%20Campanoni.html
+['Ph.D Information Technologies, Politecnico di Milano', 'M.S. Computer Engineering, Politecnico di Milano', 'B.S. Computer Engineering, Politecnico di Milano']
+['Simone\'s main research areas are compilers and virtual machines, with special interest in computer architecture, runtime systems, operating systems, and programming languages. Simone started the HELIX research project at Harvard University in 2010 as a post-doc working with Profs. David Brooks and Gu-Yeon Wei. HELIX uses static and dynamic compilation, run-time optimization, and architecture specialization to extract coarse-grained parallelism for many-core architectures from complex "sequential" code.', 'Simone received his Ph.D. degree with highest honors from Politecnico di Milano University in 2009. His dissertation discusses theoretical and practical performance implications of thread level parallelism. To this end, Simone designed and built a bytecode virtual machine optimized for commodity multicore platforms. Simone is the author of ILDJIT, a parallel compilation framework that includes static and dynamic compilers as well as a bytecode virtual machine.']
+(in-microtheory EnglishMt)
+(fullName SimoneCampanoni "Simone Campanoni")
+(in-microtheory CyclistDefinitionalMt)
+(isa SimoneCampanoni HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa SimoneCampanoni AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson SimoneCampanoni Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Yan Chen
+Tech Room L459
+847-491-4946
+ychen@northwestern.edu
+http://www.cs.northwestern.edu/~ychen/
+['Ph.D. Computer Science, University of California, Berkeley, CA', 'M.S. Computer Science, State University of New York, Stony Brook, NY', 'B.E. Computer Engineering, Zhejiang University, P.R. China']
+['My research interests are in security, measurement, and diagnosis for networking and large-scale distributed systems. I lead the ', 'Northwestern LIST (Lab for Internet and Security Technology)', '. I won the DOE Early CAREER Award in 2005, the DOD (Air Force of Scientific Research) Young Investigator Award in 2007, and the Microsoft Trustworthy Computing Awards in 2004 and 2005 with my colleagues. Based on ', 'Google Scholar', ' (papers from different authors with the same names are removed), my papers have been cited about 10,000 times, and the ', 'h-index', u' of my publications is 48 as of\xa0Dec. 2016.\xa0 I am a Fellow of IEEE.']
+(in-microtheory EnglishMt)
+(fullName YanChen "Yan Chen")
+(in-microtheory CyclistDefinitionalMt)
+(isa YanChen HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa YanChen AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson YanChen Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Oliver Cossairt
+Ford Room 3-337
+847-491-0895
+oliver.cossairt@northwestern.edu
+http://compphotolab.northwestern.edu/people/oliver-ollie-cossairt/
+['Electrical Engineering and Computer Science']
+['Master of Science in Robotics Program']
+http://mccormick.northwestern.edu/docs/public_cv/Cossairt-Oliver-CV.pdf
+['Ph.D. Computer Science, Columbia University, New York City, NY', 'M.S. Media Arts and Sciences, M.I.T., Cambridge, MA', 'B.S. Physics, Evergreen State College, Olympia, WA']
+['My research is in the emerging field of computational imaging, which combines expertise in optics, image processing, computer vision, and computer graphics. I design, model and build systems that combine sensors, displays, and novel optical elements. These cameras have applications in medical, astronomical, and scientific imaging. I am building a new breed of cameras with increased functionality and performance. I believe that my research will impact the way cameras are built in coming decades, from low-end consumer cameras to high-end scientific instruments.', 'I am fascinated with the idea that cameras can be very finely tuned towards specific purposes, and that doing so can be an excellent way to capture specific visual information. We can place the camera at the center of a larger visual processing system whose purpose is to analyze and interpret visual information. As such, the camera cannot be designed without keeping the entire system in mind.', u'I am particularly interested in developing imaging and display systems that combine a creative use of optical devices and sensor technology to enable new functionality in cameras and displays. My research is focused in the following areas:\xa0']
+(in-microtheory EnglishMt)
+(fullName OliverCossairt "Oliver Cossairt")
+(in-microtheory CyclistDefinitionalMt)
+(isa OliverCossairt HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa OliverCossairt AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson OliverCossairt Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Anindya De
+Ford 3-215
+847-467-6945
+anindya.de1@northwestern.edu
+http://users.eecs.northwestern.edu/~anindya/
+(in-microtheory EnglishMt)
+(fullName AnindyaDe "Anindya De")
+(in-microtheory CyclistDefinitionalMt)
+(isa AnindyaDe HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Christos Dimoulas
+Ford 2-211
+christos.dimoulas@northwestern.edu
+http://users.eecs.northwestern.edu/~chrdimo/
+['Ph.D. in ', ', ', 'Northeastern University, ']
+['I am interested in the design and semantics of programming languages. More specifically, my goal is to develop programming languages technology that facilitates the construction of secure and robust component-based software systems.']
+(in-microtheory EnglishMt)
+(fullName ChristosDimoulas "Christos Dimoulas")
+(in-microtheory CyclistDefinitionalMt)
+(isa ChristosDimoulas HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa ChristosDimoulas AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson ChristosDimoulas Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Peter Dinda
+Tech Room L463
+847-467-7859
+pdinda@northwestern.edu
+http://pdinda.org/
+['Ph.D. Computer Science, Carnegie Mellon University, Pittsburgh, PA', 'M.S. Computer Science, Carnegie Mellon University, Pittsburgh, PA', 'B.S. Electrical and Computer Engineering, University of Wisconsin, Madison, WI']
+[u'Peter Dinda\xa0is a professor in the Department of Electrical Engineering and Computer Science at Northwestern University where he headed the Computer Engineering and Systems division for five years.\xa0 He holds a B.S. in electrical and computer engineering from the University of Wisconsin and a Ph.D. in computer science from Carnegie Mellon University. He works in experimental computer systems, particularly parallel and distributed systems, and has authored over 120 scientific papers, authored or is a major contributor to several large publicly available codebases, and holds five patents. His research currently involves virtualization and operating systems for distributed and parallel computing, programming languages for parallel computing, and empathic systems for bridging individual user satisfaction and systems-level decision-making. He is a Fellow of the IEEE.\xa0 You can find out more about him at pdinda.org.']
+(in-microtheory EnglishMt)
+(fullName PeterDinda "Peter Dinda")
+(in-microtheory CyclistDefinitionalMt)
+(isa PeterDinda HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa PeterDinda AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson PeterDinda Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Douglas Downey
+Ford Room 3-345
+847-491-3710
+d-downey@northwestern.edu
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence', 'Master of Science in Robotics Program']
+http://mccormick.northwestern.edu/docs/public_cv/Downey-Douglas-CV.pdf
+['Ph.D. Computer Science and Engineering, University of Washington, Seattle, WA', 'M.S. Computer Science and Engineering, University of Washington, Seattle, WA', 'B.S./M.S. Computer Science, Case Western Reserve University, Cleveland, OH']
+["Downey's research is focused on natural language processing, machine learning, and artificial intelligence, with a particular interest in the automatic construction of useful knowledge bases from Web text. One goal is to develop techniques and prototypes that extend the state of the art in Web search. Another goal is to theoretically investigate and establish a formal basis for techniques that can learn from unstructured text alone, without hand-labeled data.", 'More generally, Downey works on ways to utilize human input more effectively in machine learning. Two directions in this effort involve selecting human input carefully (active learning) or utilizing it in concert with unlabeled data (semi-supervised learning).']
+(in-microtheory EnglishMt)
+(fullName DouglasDowney "Douglas Downey")
+(in-microtheory CyclistDefinitionalMt)
+(isa DouglasDowney HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa DouglasDowney AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson DouglasDowney Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Robby Findler
+Ford 2-205
+847-467-0952
+robby@eecs.northwestern.edu
+http://www.eecs.northwestern.edu/~robby/
+['Ph.D. Behavioral Software Contracts, Rice University, Houston, TX', 'B.S. Computer Science and Mathematics, Carnegie Mellon University, Pittsburgh, PA']
+['Programming languages; program development environments, contracts, and tools to help semantics engineers']
+(in-microtheory EnglishMt)
+(fullName RobbyFindler "Robby Findler")
+(in-microtheory CyclistDefinitionalMt)
+(isa RobbyFindler HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa RobbyFindler AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson RobbyFindler Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Ken Forbus
+Ford Room 3-313
+847-491-7699
+forbus@northwestern.edu
+http://www.cs.northwestern.edu/~forbus/
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence']
+['Ph.D. Artificial Intelligence, MIT, Cambridge, MA', 'S.M. Computer Science, MIT, Cambridge, MA', 'S.B. Computer Science, MIT, Cambridge, MA']
+[u'Kenneth D. Forbus is the Walter P. Murphy Professor of Computer Science and Professor of Education at Northwestern University.\xa0 He received his degrees from MIT (Ph.D. in 1984). His research interests include qualitative reasoning, analogical reasoning and learning, spatial reasoning, sketch understanding, natural language understanding, cognitive architecture, reasoning system design, intelligent educational software, and the use of AI in interactive entertainment.\xa0 He is a Fellow of the Association for the Advancement of Artificial Intelligence, the Cognitive Science Society, and the Association for Computing Machinery.\xa0 He has received Humboldt Award and has served as Chair of the Cognitive Science Society.\xa0 ']
+(in-microtheory EnglishMt)
+(fullName KenForbus "Ken Forbus")
+(in-microtheory CyclistDefinitionalMt)
+(isa KenForbus HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa KenForbus AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson KenForbus Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Kristian Hammond
+Ford Room 3-331
+847-467-1012
+hammond@cs.northwestern.edu
+http://infolab.northwestern.edu/team/kristian-hammond.html
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence']
+['Ph.D. Computer Science, Yale University, New Haven, CT', 'M.S. Computer Science, Yale University, New Haven, CT', 'B.A. Philosophy, Yale University, New Haven, CT']
+['Expert Areas', u'\xa0', 'Research']
+(in-microtheory EnglishMt)
+(fullName KristianHammond "Kristian Hammond")
+(in-microtheory CyclistDefinitionalMt)
+(isa KristianHammond HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa KristianHammond AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson KristianHammond Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Jason Hartline
+Ford Room 3-329
+847-467-0280
+hartline@northwestern.edu
+http://eecs.northwestern.edu/hartline
+['Ph.D. Computer Science, University of Washington, Seattle, WA', 'M.S. Computer Science, University of Washington, Seattle, WA', 'B.S. Computer Science, Cornell University, Ithaca, NY', 'B.S. Electrical Engineering, Cornell University, Ithaca, NY']
+["Prof. Hartline's research introduces design and analysis methodologies", 'from computer science to understand and improve outcomes of economic', u'systems.\xa0 Optimal behavior and outcomes in complex environments are', 'complex and, therefore, should not be expected; instead, the theory of', 'approximation can show that simple and natural behaviors are', u'approximately optimal in complex environments.\xa0 This approach is', 'applied to auction theory and mechanism design in his graduate', 'textbook Mechanism Design and Approximation', '(http://www.jasonhartline.com/MDnA/) which is under preparation.']
+(in-microtheory EnglishMt)
+(fullName JasonHartline "Jason Hartline")
+(in-microtheory CyclistDefinitionalMt)
+(isa JasonHartline HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa JasonHartline AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson JasonHartline Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Thomas Hinrichs
+Ford 3-217
+847-491-7165
+t-hinrichs@northwestern.edu
+http://www.tomhinrichs.com/
+['I am a research associate professor at ', 'Northwestern University', ". My research interests are interactive performance-support systems for design, case-based and analogical reasoning, qualitative reasoning and simulation, and natural language processing. I'm currently working on developing Long-Lived Learning Software Companions for the AFOSR Robust Computational Intelligence program."]
+(in-microtheory EnglishMt)
+(fullName ThomasHinrichs "Thomas Hinrichs")
+(in-microtheory CyclistDefinitionalMt)
+(isa ThomasHinrichs HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Michael Horn
+Annenberg Room 336
+617-803-5501
+michael-horn@northwestern.edu
+http://tidal.northwestern.edu/people/mikehorn/
+['Ph.D. Computer Science, Tufts University, Medford/Somerville, MA', 'M.S. Computer Science, Tufts University, Medford/Somerville, MA', 'B.S. Computer Science, Brown University, Providence, Rhode Island']
+(in-microtheory EnglishMt)
+(fullName MichaelHorn "Michael Horn")
+(in-microtheory CyclistDefinitionalMt)
+(isa MichaelHorn HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa MichaelHorn AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson MichaelHorn Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Ian Horswill
+Ford Room 3-321
+847-467-1256
+ian@northwestern.edu
+http://www.cs.northwestern.edu/~ian/
+['Electrical Engineering and Computer Science']
+['Master of Science in Robotics Program']
+http://mccormick.northwestern.edu/docs/public_cv/Horswill-Ian-CV.pdf
+['Ph.D. Computer Science, MIT, Cambridge, MA', 'S.M. Computer Science, MIT, Cambridge, MA', 'B.CSci., University of Minnesota, St. Paul, Minnesota']
+[u'My work lies roughly within the areas of artificial intelligence and interactive art and entertainment.\xa0 My AI research focuses on control systems for autonomous agents: how does an agent decide from moment to moment what to do, based on an ongoing stream of sensor data and a continually varying set of goals and entanglements with the world.\xa0 My past work focused on robotics and computer vision, but my more recent work centers around the the modeling and simulation of emotion, personality, and social behavior for virtual characters for games and interactive narrative.\xa0 Interactive narrative is particularly interesting for AI because it provides a natural domain in which to examine aspects of human personality and behavior that one would not want to duplicate in service robots, such as aggression and depresssion.', u"Within interactive art and entertainment, I'm interested in exploring alternative genres and interaction modes that can expand the medium.\xa0 Interactive narrative is particularly interesting because it offers the promise of an aesthetics that emphasizes experiences of identification, empathy, and affiliation, over mastery, frustration, and control.\xa0 However, making a piece that provides those experiences in practice is a difficult task that involves a number of interesting research problems in computer science and cognitive science."]
+(in-microtheory EnglishMt)
+(fullName IanHorswill "Ian Horswill")
+(in-microtheory CyclistDefinitionalMt)
+(isa IanHorswill HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa IanHorswill AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson IanHorswill Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Ming-Yang Kao
+Tech Room M324
+847-491-2272
+kao@northwestern.edu
+http://www.cs.northwestern.edu/~kao/
+['Ph.D. Computer Science, Yale University, New Haven, CT', 'Ph.D. Program Computer Science, Princeton University, Princeton, MA', 'Ph.D. Program Mathetmatics, University of California, Berkeley, CA', 'B.S. Mathematics, National Taiwan University, Taipei, Taiwan']
+['His primary research interests are in computer algorithms and their applications. He has published more than 150 publications in a broad range of research areas, including algorithms for computational finance and economics, nano technology (self-assembly), computational biology, data security, graph theory, parallel computing, and combinatorial optimization. He is a dedicated teacher. In addition to teaching a variety of courses in algorithms, he enjoys teaching numerical analysis and mathematics.', u'Among his many community involvements, he is Editor-in-Chief of Algorithmica as well as Editor-in-Chief of Encyclopedia of Algorithms.\xa0 He has served as a judge in science fairs at local schools in the Chicago area.\xa0 He was originally from Taiwan and has strong active professional ties with Asia among other regions. For administrative services, he believes that an essential mission in leading an academic community is to proactively support the careers of fellow community members; he excels at efficiently and effectively mobilizing resources to provide such support.']
+(in-microtheory EnglishMt)
+(fullName Ming-YangKao "Ming-Yang Kao")
+(in-microtheory CyclistDefinitionalMt)
+(isa Ming-YangKao HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa Ming-YangKao AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson Ming-YangKao Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+(schooling Hinrichs CornellUniversity Graduate)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Aleksandar Kuzmanovic
+Tech Room L457
+847-467-5519
+akuzma@cs.northwestern.edu
+http://www.cs.northwestern.edu/~akuzma/
+['Ph.D. Electrical and Computer Engineering, Rice University, Houston, TX', 'M.S. Electrical Engineering, University of Belgrade, Belgrade, Serbia', 'B.S. Electrical Engineering, University of Belgrade, Belgrade, Serbia']
+[u'Aleksandar Kuzmanovic is a Professor in the Department of Electrical Engineering and Computer Science at Northwestern University. He leads the Northwestern Networks Group. His research interests are in the area of computer networking with emphasis on design, measurements, analysis, denial-of-service resiliency, and prototype implementation of protocols and algorithms for the Internet. He is most well-known for his pioneering work on low-rate denial-of-service attacks, TCP congestion control, and data sharing methods for Internet-scale systems. He has published more than 60 research papers in the most prestigious networking journals and conferences such as IEEE/ACM Transactions on Networking, ACM SIGCOMM, USENIX NSDI, ACM SIGMETRICS, ACM IMC, IEEE ICNP, IEEE INFOCOM, etc. His systems and tools are widely distributed on the Internet. As an example, his TCP-LP protocol has been incorporated in the Linux operating system, his work on Explicit Congestion Notification has become an Internet standard, and his work on denial-of-service resiliency for Internet streaming infrastructures has been adopted by the world\u2019s largest content distribution network, Akamai.', u'Dr. Kuzmanovic joined the Northwestern faculty in 2005 after receiving a Ph.D. in Electrical and Computer Engineering from Rice University, under the direction of Edward W. Knightly. He received B.S. and M.S. degrees in Electrical Engineering from the University of Belgrade (ETF), Serbia, in 1996 and 1999, respectively. From 1997-1999 he was a research scientist in the Mihajlo Pupin Institute. He received Rice University\u2019s Presidential Fellowship in 1999. Together with his colleagues, he received the Microsoft Trustworthy Computing Award in 2006. He was elected a Searle Junior Fellow in 2006, which recognizes young faculty who show excellence in teaching. He received the National Science Foundation CAREER Award in 2008. He has been appointed a Visiting Professor at the University of Electronic Science and Technology of China. He is a member of the steering committee of the Measurement Lab, a Google-initiated open platform for monitoring net neutrality. He was a member of the advisory board of Narus, Inc. 2008 \u2013 2014. He is a co-founder of Nanjee, Inc.']
+(in-microtheory EnglishMt)
+(fullName AleksandarKuzmanovic "Aleksandar Kuzmanovic")
+(in-microtheory CyclistDefinitionalMt)
+(isa AleksandarKuzmanovic HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AleksandarKuzmanovic AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson AleksandarKuzmanovic Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Han Liu
+Tech 
+hanliu@northwestern.edu
+https://www.princeton.edu/~hanliu/people.html
+['Ph.D. ', ', ']
+['As a computer scientist and statistician, I use computation and data as a lens to explore science and intelligence. To make progress, I examines this with the point of view provided by the twin windows of modern nonparametric method and probabilistic graphical model. My specific research focuses on nonparametric structure learning and representation learning. Success on this research has the potential to revolutionarize the foundation of the second generation of artificial intelligence (i.e., statistical machine learning) and push the frontier of the third generation of artificial intelligence (i.e., deep learning). My applied research interest is to develop a unified set of computational, statistical, and software tools to extract and interpret significant information from the data collected from a variety of scientific areas.']
+(in-microtheory EnglishMt)
+(fullName HanLiu "Han Liu")
+(in-microtheory CyclistDefinitionalMt)
+(isa HanLiu HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa HanLiu AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson HanLiu Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Konstantin Makarychev
+Ford 2-207
+konstantin@northwestern.edu
+http://konstantin.makarychev.net/
+[u'Ph.D. Computer Science, Princeton University,\xa0', u'B.S. Mechanics and Mathematics, Moscow State University,\xa0', 'I am an Associate Professor at the EECS department of Northwestern University. I am interested in designing efficient algorithms for computationally hard problems. The aim of my research is to introduce new core techniques and design general principles for developing and analyzing algorithms that work in theory and practice. My research interests include approximation algorithms, beyond worst-case analysis, and applications of high-dimension geometry to computer science.', 'Before joining Northwestern University, I was a researcher at Microsoft and IBM Research Labs. I obtained my PhD in Computer Science from Princeton University in 2007.']
+['he aim of my research is to introduce new core techniques and design general principles for developing and analyzing algorithms that work in theory and practice. My research interests include approximation algorithms, beyond worst-case analysis, and applications of high-dimension geometry in computer science.']
+(in-microtheory EnglishMt)
+(fullName KonstantinMakarychev "Konstantin Makarychev")
+(in-microtheory CyclistDefinitionalMt)
+(isa KonstantinMakarychev HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa KonstantinMakarychev AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson KonstantinMakarychev Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Eleanor O'Rourke
+Ford 3-325
+eorourke@northwestern.edu
+http://www.eleanorourke.com
+['Ph.D. ', u'Computer Science & Engineering, University of Washington,\xa0', 'M.S. ', u'B.S. Computer Science and Spanish, Colby College,\xa0']
+["Eleanor O'Rourke is the June and Donald Brewer Junior Professor in Computer Science and Learning Sciences. Her research lies at the intersection of human-computer interaction and educational psychology with a focus on developing data-driven systems that support motivation, personalization, and formative assessment in learning environments. Her current research explores the design of interactive systems that promote the growth mindset, encourage playful learning, and foster metacognitive reflection through personal data. Her interventions have been used by over 100,000 students online, adopted by companies, and used in classrooms. She has also won several awards and scholarships, including the Google Anita Borg Scholarship and the Microsoft Research Graduate Women's Scholarship. Nell received her Ph.D. in Computer Science & Engineering from the University of Washington in 2016."]
+(in-microtheory EnglishMt)
+(fullName EleanorO'Rourke "Eleanor O'Rourke")
+(in-microtheory CyclistDefinitionalMt)
+(isa EleanorO'Rourke HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa EleanorO'Rourke AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson EleanorO'Rourke Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Bryan Pardo
+Ford Room 3-323
+847-491-7184
+pardo@northwestern.edu
+http://www.cs.northwestern.edu/~pardo/
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence', 'Master of Science in Robotics Program']
+['Ph.D. Computer Science and Engineering, University of Michigan, Ann Arbor, MI', 'M. Mus. Jazz and Improvisation, University of Michigan, Ann Arbor, MI', 'M.S. Computer Science, Ohio State University, Columbus, OH', 'B. Mus. Jazz Composition, Ohio State University, Columbus, OH']
+['The objective of my research is to develop theoretical advances in artificial intelligence, signal processing and interface design that enable the key technologies required to automatically find, label and manipulate important structures in audio, with a focus on music and audio as problem domains. For current projects please see my lab website at ', 'music.eecs.northwestern.edu']
+(in-microtheory EnglishMt)
+(fullName BryanPardo "Bryan Pardo")
+(in-microtheory CyclistDefinitionalMt)
+(isa BryanPardo HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa BryanPardo AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson BryanPardo Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Chris Riesbeck
+Ford Room 3.315
+847-491-7279
+c-riesbeck@northwestern.edu
+http://www.cs.northwestern.edu/~riesbeck/
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence', 'Master of Science in Product Design and Development Management Program']
+http://mccormick.northwestern.edu/docs/public_cv/Riesbeck-Christopher-CV.pdf
+['Ph.D. Computer Science, Stanford University, Palo Alto, CA', 'M.A. Computer Science, Stanford University, Palo Alto, CA', 'B.A. Mathematics, Alfred University, Alfred, NY']
+['Agile software development. Technology-enabled educational reform. Experiential knowledge-based language understanding and reasoning.']
+(in-microtheory EnglishMt)
+(fullName ChrisRiesbeck "Chris Riesbeck")
+(in-microtheory CyclistDefinitionalMt)
+(isa ChrisRiesbeck HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa ChrisRiesbeck AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson ChrisRiesbeck Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Jennie Rogers
+Ford Room 3-221
+jennie@northwestern.edu
+http://users.eecs.northwestern.edu/~jennie/
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence']
+http://mccormick.northwestern.edu/docs/public_cv/Rogers-Jennie-CV.pdf
+['Ph.D Computer Science, Brown University, Providence, RI', 'MS Computer Science, Brown Univesity, Providence, RI', 'BS Computer Science, Rensselaer Polytechnic Institute, Troy, NY']
+['Optimizing the performance of database workloads; encoded storage for array databases; data placement for elastic databases; query optimization for array databases; query optimization for complex analytics; personal use of big data.']
+(in-microtheory EnglishMt)
+(fullName JennieRogers "Jennie Rogers")
+(in-microtheory CyclistDefinitionalMt)
+(isa JennieRogers HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa JennieRogers AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson JennieRogers Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Michael Rubenstein
+Ford 2-221
+rubenstein@northwestern.edu
+['Mechanical Engineering', 'Electrical Engineering and Computer Science']
+['Master of Science in Robotics Program']
+http://mccormick.northwestern.edu/docs/public_cv/Rubenstein-Michael-CV.pdf
+['Ph.D Computer Science, University of Southern California, Los Angeles, CA', 'M.S. Electrical Engineering, University of Southern California, Los Angeles, CA', 'B.S. Electrical Engineering, Purdue University, West Lafayette, IN']
+[u'\xa0My research interest is to advance the control and design of multi-robot systems, enabling their use instead of traditional single robots and to solve problems for which traditional robots are not suitable. Using these multi-robot systems can offer more parallelism, adaptability, and fault tolerance when compared to a traditional single robot. I am also interested in investigating how new technologies will allow for more capable multi-robot systems, and how these technologies impact the design of multi-robot algorithms, especially as these systems begin to number in the hundreds, thousands, or even millions of robots.']
+(in-microtheory EnglishMt)
+(fullName MichaelRubenstein "Michael Rubenstein")
+(in-microtheory CyclistDefinitionalMt)
+(isa MichaelRubenstein HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa MichaelRubenstein AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson MichaelRubenstein Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Sara Owsley Sood 
+Ford Room 3-327
+847-491-5708
+sara.sood@northwestern.edu
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence']
+['My work is focused on understanding the expression and impact of emotion in online communication. To this end, my recent work has been on systems to detect and analyze insults, profanity and personal attacks in online forums with a recent focus on the impact of anonymity on online communities. My work in the space of sentiment analysis has led me to explore a series of other related challenges including domain specificity and sentiment analysis through many models of emotion beyond positive/negative/neutral classification.']
+(in-microtheory EnglishMt)
+(fullName SaraOwsleySood "Sara Owsley Sood ")
+(in-microtheory CyclistDefinitionalMt)
+(isa SaraOwsleySood HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Jesse Tov
+Ford 2-215
+jesse.tov@northwestern.edu
+http://users.eecs.northwestern.edu/~jesse/
+(in-microtheory EnglishMt)
+(fullName JesseTov "Jesse Tov")
+(in-microtheory CyclistDefinitionalMt)
+(isa JesseTov HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Goce Trajcevski
+L580 EV 3118
+847-491-7069
+g-trajcevski@northwestern.edu
+https://www.se.iastate.edu/people/goce-trajcevski
+['Ph.D. Computer Science, University of Illinois at Chicago, Chicago, IL', 'M.S. Computer Science, University of Illinois at Chicago, Chicago, IL', 'B.S. Informatics and Automatics, University of Sts. Kiril and Metodij, Skopje, Macedonia']
+['Mobile data management and moving objects databases; data management in sensor networks; reactive behavior in dynamic and distributed environments']
+(in-microtheory EnglishMt)
+(fullName GoceTrajcevski "Goce Trajcevski")
+(in-microtheory CyclistDefinitionalMt)
+(isa GoceTrajcevski HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa GoceTrajcevski AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson GoceTrajcevski Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Jack Tumblin
+Ford Room 3.341
+847-467-2129
+j-tumblin@northwestern.edu
+['Electrical Engineering and Computer Science']
+['Master of Science in Robotics Program']
+http://mccormick.northwestern.edu/docs/public_cv/Tumblin-John-CV.pdf
+['Ph.D. Computer Science, Georgia Institute of Technology, Atlanta, GA', 'M.S. Electrical Engineering, Georgia Institute of Technology, Atlanta, GA', 'Master of Fine Arts in Cinema, University of Southern California, Los Angeles, CA', 'B.S. Electrical Engineering, Georgia Institute of Technology, Atlanta, GA']
+[u'EECS Associate Professor Jack Tumblin currently pursues topics in computer graphics and computational photography.\xa0 Funded projects (NSF, Samsung, Adobe, nVIDIA, Mellon) include novel photographic sensors, optics, and lighting devices; image representations for scene capture, rendering and display; and low-cost self-contained systems to help museum curators explore, archive, and share more of their vast collections digitally.']
+(in-microtheory EnglishMt)
+(fullName JackTumblin "Jack Tumblin")
+(in-microtheory CyclistDefinitionalMt)
+(isa JackTumblin HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa JackTumblin AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson JackTumblin Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Aravindan Vijayaraghavan
+Ford 3-207
+847-467-6145
+aravindv@northwestern.edu
+http://users.eecs.northwestern.edu/~aravindv/index.html
+['Ph.D Computer Science, Princeton University', 'M.A. Computer Science, Princeton University', u'B. Tech. Computer Science and Engineering, \xa0Indian Institute of Technology, Madras']
+[u'His research\xa0interests are broadly in the field of Theoretical Computer Science, particularly, in designing efficient algorithms for problems in Combinatorial Optimization and Machine Learning. He is also interested in using paradigms that go Beyond Worst-Case Analysis to obtain good algorithmic guarantees.']
+(in-microtheory EnglishMt)
+(fullName AravindanVijayaraghavan "Aravindan Vijayaraghavan")
+(in-microtheory CyclistDefinitionalMt)
+(isa AravindanVijayaraghavan HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AravindanVijayaraghavan AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson AravindanVijayaraghavan Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Uri Wilensky
+Ford Room 3.221
+847-467-3818
+uri@northwestern.edu
+http://ccl.northwestern.edu/uri/
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence']
+['Ph.D. Media Arts and Sciences, MIT, Cambridge, MA', 'M.A. Mathematics, Brandeis University, Waltham, MA', 'B.A. Mathematics and Philosophy, Brandeis University, Waltham, MA']
+['I have several distinct research interests. A major interest is in the design of learning technologies. Another major interest is agent-based modeling and the design of ABM languages. Modeling and representational infrastructure software; developing tools that enable users to simulate, explore and make sense of complex systems.']
+(in-microtheory EnglishMt)
+(fullName UriWilensky "Uri Wilensky")
+(in-microtheory CyclistDefinitionalMt)
+(isa UriWilensky HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa UriWilensky AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson UriWilensky Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Marcelo Worsley
+Tech 
+marcelo.worsley@northwestern.edu
+http://marceloworsley.com/
+(in-microtheory EnglishMt)
+(fullName MarceloWorsley "Marcelo Worsley")
+(in-microtheory CyclistDefinitionalMt)
+(isa MarceloWorsley HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Haoqi Zhang
+Ford Room 2.320
+hq@northwestern.edu
+http://users.eecs.northwestern.edu/~hq/
+['Electrical Engineering and Computer Science']
+['Master of Science in Artificial Intelligence']
+http://mccormick.northwestern.edu/docs/public_cv/Zhang-Haoqi-CV.pdf
+['Ph.D. Computer Science, Harvard University, Cambridge, MA', 'A.B. Computer Science, Harvard University & Economics, Cambridge, MA']
+['Haoqi Zhang', ' is the Allen K. and Johnnie Cordell Breed Junior Chair of Design and assistant professor in Computer Science at Northwestern University. His work advances the design of integrated socio-technical models that solve complex problems and advance human values at scale. His research bridges the fields of Human-Computer Interaction, Artificial Intelligence, Social & Crowd Computing, Learning Science, and Decision Science, and is generously supported by National Science Foundation grants in ', 'Cyber-Human Systems', ', ', 'Cyberlearning', ' (', '1', ', ', '2', '), and the ', 'Research Initiation Initiative', '.', 'Haoqi received his PhD in Computer Science and BA in Computer Science and Economics from Harvard University. At Northwestern he founded and directs the ', 'Design, Technology, and Research (DTR)', ' program, which provides an ', 'original model for research training', ' for 50 graduate and undergraduate students. With ', 'Matt Easterday', ', ', 'Liz Gerber', ', and ', "Nell O'Rourke", ', Haoqi co-directs the ', 'Delta Lab', ', an interdisciplinary research lab and design studio across computer science, learning science, and design.']
+(in-microtheory EnglishMt)
+(fullName HaoqiZhang "Haoqi Zhang")
+(in-microtheory CyclistDefinitionalMt)
+(isa HaoqiZhang HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa HaoqiZhang AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson HaoqiZhang Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Nabil Alshurafa
+Suite 1400
+312-503-4517
+nabil@northwestern.edu
+http://www.nalshurafa.com
+['Ph.D. in Computer Science and Wireless Health, UCLA, CA', 'M.S. in Computer Science and A.I., UCLA, CA', 'B.S. in Computer Science, UCLA, CA']
+['Health; body sensor networks; behavioral science; data analytics; embedded systems; algorithm design; nutrition monitoring; activity recognition; obesity; cardiovascular disease']
+(in-microtheory EnglishMt)
+(fullName NabilAlshurafa "Nabil Alshurafa")
+(in-microtheory CyclistDefinitionalMt)
+(isa NabilAlshurafa HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa NabilAlshurafa AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson NabilAlshurafa Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Randall Berry
+Tech Room M318
+847-491-7074
+rberry@eecs.northwestern.edu
+http://users.eecs.northwestern.edu/~rberry/
+['Ph.D. Electrical Engineering and Computer Science, MIT, Cambridge, MA', 'S.M. Electrical Engineering and Computer Science, MIT, Cambridge, MA', 'B.S. Electrical Engineering, University of Missouri, Rolla, MO']
+["Prof. Berry's research covers resource allocation problems that arise in networked systems ranging from communication networks to social networks. This work uses mathematical models to gain insights into such systems and draws on tools from stochastic modeling, optimization, economics and algorithms. Specific topics of current interest include developing distributed resource allocation technicques for wireless networks, dynamic spectrum sharing and wireless spectrum policy, understanding the role of incentives in network security and modeling learning and adoption in social networks."]
+(in-microtheory EnglishMt)
+(fullName RandallBerry "Randall Berry")
+(in-microtheory CyclistDefinitionalMt)
+(isa RandallBerry HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa RandallBerry AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson RandallBerry Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Alok Choudhary
+Tech Room L469
+847-467-4129
+a-choudhary@northwestern.edu
+http://www.eecs.northwestern.edu/~choudhar/
+['Ph.D. Computer Engineering, University of Illinois, Urbana-Champaign, IL', 'M.S. Computer Engineering, University of Massachusetts, Amherst, MA', 'B.E. (Hons) Electrical and Electronics Engineering, Birla Institute of Technology and Science, Pilani, India']
+['High-performance computing; data intensive computing; scalable data mining; computer architecture; high-performance I/O systems and software; Social Media, Materials and Medical Informatics']
+(in-microtheory EnglishMt)
+(fullName AlokChoudhary "Alok Choudhary")
+(in-microtheory CyclistDefinitionalMt)
+(isa AlokChoudhary HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AlokChoudhary AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson AlokChoudhary Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Elizabeth Gerber
+Ford 2-327
+847-467-0607
+egerber@northwestern.edu
+['Mechanical Engineering']
+['MMM Program', 'Master of Science in Engineering Design and Innovation Program']
+['Ph.D. Management Science & Engineering, Stanford University, Palo Alto, CA', 'M.S. Product Design, Mechanical Engineering, Stanford University, Palo Alto, CA', 'B.A. Art and Engineering, Dartmouth College, Hanover, NH']
+[u"\xa0In the face of looming challenges like childhood obesity, environmental collapse, and soaring health care costs, we need dramatic and sustained innovation. The driving question behind my research is how technology and organizations can support the innovation process to solve these challenges. In particular, I examine what I define as collective innovation, an innovation process that harnesses the diverse and untapped human, social, and economic capital from distributed networks to discover, evaluate, and implement new ideas. \xa0Open, ubiquitous, sociotechnical systems support collective innovation affording greater speed and deeper and broader participation than was imaginable even a decade ago. While collective innovation is a new and exciting collaborative process that has the potential to massively transform society, it is poorly understood. I use grounded theory and design research (Easterday, Rees Lewis, and Gerber 2014) to establish theory and design principles and to develop infrastructure for collective innovation. My pioneering scholarship leads the academy's understanding of this fast-evolving, scalable infrastructure, and directly contributes to its improved functioning to benefit society at large.", u'\xa0The first premise of collective innovation is that direct collaboration between stakeholders can radically enhance rates of innovation (Gerber and Carroll, 2012; Gerber and Hui, 2013; Gerber, 2014). The second premise is that even across weakly connected, heterogeneous networks, changes in the design of our infrastructure can bring forth effort and resources that would otherwise lie fallow (Gerber, 2014; Shaw et al, 2014, Hui, Gerber, and Gergle, 2014; Gerber, 2007; Gerber, 2006). The third premise: Actively engaging a greater number and variety of people to participate in the innovation process expands the breadth of problems addressed and increases the quality of the solutions (Gerber, 2014; Gerber, 2007). This work is embodied in the three ongoing major endeavors of my career thus far at Northwestern: 1) Crowdfunding, 2) Digital Loft, and 3) Design for America.', u'\xa0My scholarship produces three types of results: 1) theory for collective innovation, 2) design principles, and 3) novel sociotechnical systems to support inclusive and continuous innovation in society. My work has resulted in 27 publications in the Computer Supported Cooperative Work and Social Computing, Computer Human Interaction, and Management literatures and ACM Interactions and IEEE Internet Computing trade publications. My research has been highlighted in the press including the Wall Street Journal, Harvard Business Review, Wired, National Public Radio\u2019s Marketplace and generously and consistently supported by the National Science Foundation (NSF), National Collegiate Inventors and Innovators Alliance, Hastac (sponsored by the MacArthur and Mozilla Foundations), and Microsoft.\xa0', u'\xa0', "Professor Gerber's teaching interests include design, innovation management, and organizational behavior. At Northwestern she teaches undergraduate and graduate classes on product and service design which emphasizes the design thinking methodology - a human centered problem solving approach focused on gaining inspiration from human needs, working in diverse groups to generate ideas, and prototyping ideas for rapid feedback. She also advises students in the award winning design initiative she founded called Design for America where students take on extracurricular design work to make social and local impact."]
+(in-microtheory EnglishMt)
+(fullName ElizabethGerber "Elizabeth Gerber")
+(in-microtheory CyclistDefinitionalMt)
+(isa ElizabethGerber HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa ElizabethGerber AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson ElizabethGerber Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Darren Gergle
+Frances Searle Building, #1-158
+847-467-1221
+dgergle@northwestern.edu
+http://dgergle.soc.northwestern.edu/
+['My research is in the fields of Human-Computer Interaction (HCI), Computer-Supported Cooperative Work (CSCW) and Computer-Mediated Communication (CMC) with an interest in developing a theoretical understanding of the role that visual information plays in supporting communication and group interactions. A key component of my work is the application of social and cognitive psychology theory to the design, deployment and evaluation of computing technologies.']
+(in-microtheory EnglishMt)
+(fullName DarrenGergle "Darren Gergle")
+(in-microtheory CyclistDefinitionalMt)
+(isa DarrenGergle HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Ronen Gradwohl
+Jacobs Center Room 545
+847-467-0943
+r-gradwohl@kellogg.northwestern.edu
+http://www.kellogg.northwestern.edu/faculty/directory/gradwohl_ronen.aspx#biography
+[u'Professor Gradwohl\u2019s research focuses on strategic interactions in environments characterized by uncertainty about timing and communication, by the presence of irrational players, and by the possibility of collusion. His current research projects include a study of the properties of equilibria in such environments and the design of mechanisms in a distributed setting with faults. Additionally, he is interested in the design of distributed and cryptographic protocols resilient against both rational and adversarial manipulation.']
+(in-microtheory EnglishMt)
+(fullName RonenGradwohl "Ronen Gradwohl")
+(in-microtheory CyclistDefinitionalMt)
+(isa RonenGradwohl HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Nikos Hardavellas
+Tech Room L465
+847-467-2298
+nikos@northwestern.edu
+http://www.eecs.northwestern.edu/~hardav/
+['Ph.D. Computer Science, Carnegie Mellon University, Pittsburgh, PA', 'M.S. Computer Science, Carnegie Mellon University, Pittsburgh, PA', 'M.S. Computer Science, University of Rochester, Rochester, NY', 'B.S. Computer Science, University of Crete, Heraklion, Crete, Greece']
+[u'I work on Computer Architecture, primarily on techniques to enable extreme-scale multi-core processors. Such designs are elusive due to technological limitations on yield, power, and memory bandwidth. My research aims to pave the way to energy-efficient computing by investigating ideas to combat "dark silicon" (i.e., our inability to power up a chip in its entirety) and to speed up\xa0 the execution of programs by several factors through parallelism extraction and memoization at the software and hardware levels. Our work extends across multiple stacks: circuit design, processor architecture, memory systems, interconnects, compilers, runtime environments, and system software.', 'We develop technologies that allow the underlying hardware components to be unreliable, while maintaining program output quality, and in the process save energy. We develop technologies that eliminate the overheads of conventional computing, and turn the problem of dark silicon into an opportunity. We harness the unused chip area to build multiple heterogeneous pipelines within a core that deliver up to one order of magnitude higher power efficiency, and design novel energy-proportional nanophotonic interconnects to minimize the energy cost of data transfers at all levels, within a processor chip, across multiple chips, as well as across entire data centers. We believe that the confluence of parallel computer architeture techniques and nanophotonics will allow us to design "virtual macrochips" that can deliver supercomputing power at a fraction of the energy cost and area.']
+(in-microtheory EnglishMt)
+(fullName NikosHardavellas "Nikos Hardavellas")
+(in-microtheory CyclistDefinitionalMt)
+(isa NikosHardavellas HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa NikosHardavellas AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson NikosHardavellas Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Brent Hecht
+Frances Searle Building, #1-144
+847-491-7023
+bhecht@northwestern.edu
+http://brenthecht.com/
+['Ph.D. in Computer Science, Northwestern University, IL', 'M.S. in Geography, UC Santa Barbara, CA', 'B.S. in Computer Science & Geography, MN', u'Dr. Hecht received a Ph.D. in computer science from Northwestern University, a Master\u2019s degree in geography from UC Santa Barbara, and dual Bachelor\u2019s degrees in computer science and geography from Macalester College. He was a keynote speaker at WikiSym (among other venues) and has received awards for his research at top-tier publication venues in human-computer interaction and geography (e.g. ACM CHI, ACM CSCW, ACM Mobile HCI, COSIT). He has collaborated with Google Research, Xerox PARC, and Microsoft Research, and his work been featured by NPR, Time Magazine, the Washington Post, MIT Technology Review, New York Magazine, Vox, El Pa\xeds, Le Monde, Der Spiegel, Australian Broadcasting Corporation, and various international TV, radio, and Internet outlets.']
+[u'My research is lies at the intersection of human\u2013computer interaction, social computing, and spatial computing. Two active areas of research include (1) location-aware technologies and (2) better understanding and improving the interactions between algorithms and society (see below for a full list of recent publications and research areas). He takes mixed methods approaches, with an emphasis on "big data" projects. Dr. Hecht has appointments in the departments of Communication Studies and Electrical Engineering and Computer Science (EECS) and advises students in the computer science Ph.D. program and the Technology and Social Behavior (TSB) Ph.D. program.']
+(in-microtheory EnglishMt)
+(fullName BrentHecht "Brent Hecht")
+(in-microtheory CyclistDefinitionalMt)
+(isa BrentHecht HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa BrentHecht AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson BrentHecht Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Larry Henschen
+Tech Room M382
+847-491-3338
+henschen@eecs.northwestern.edu
+['Ph.D. University of Illinois at Urbana, Champaign, IL', 'M.A. University of Illinois at Urbana, Champaign, IL', 'B.A. Bronze Scholar (Phi Beta Kappa), University of Illinois at Urbana, Champaign, IL']
+['web-based programming for wireless sensor network nodes, visual interfaces for program development; energy harvesting; universal access in human-computer interaction; automated reasoning with applications to heterogeneous databases.']
+(in-microtheory EnglishMt)
+(fullName LarryHenschen "Larry Henschen")
+(in-microtheory CyclistDefinitionalMt)
+(isa LarryHenschen HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa LarryHenschen AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson LarryHenschen Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Russell Joseph
+Tech Room L467
+847-491-3061
+rjoseph@eecs.northwestern.edu
+['Ph.D. Electrical Engineering, Princeton University, Princeton, NJ', 'M.A. Electrical Engineering, Princeton University, Princeton, NJ', 'B.S. Electrical and Computer Engineering, Carnegie Mellon University, Pittsburgh, PA']
+['Computer architecture, microprocessor design for reliability and variability tolerance, power-aware computing']
+(in-microtheory EnglishMt)
+(fullName RussellJoseph "Russell Joseph")
+(in-microtheory CyclistDefinitionalMt)
+(isa RussellJoseph HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa RussellJoseph AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson RussellJoseph Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Aggelos Katsaggelos
+Tech Room M468
+847-491-7164
+aggk@eecs.northwestern.edu
+http://ivpl.eecs.northwestern.edu/users/akatsaggelos
+['Electrical Engineering and Computer Science']
+['Master of Science in Robotics Program']
+['Ph.D. Electrical Engineering, Georgia Institute of Technology, Atlanta, GA', 'M.S. Electrical Engineering, Georgia Institute of Technology, Atlanta, GA', 'B.S. Electrical and Mechanical Engineering, Aristotelian University of Thessaloniki, Thessaloniki, Greece']
+['Multimedia signal processing; multimedia communications; computer vision; pattern recognition; DNA signal processing']
+(in-microtheory EnglishMt)
+(fullName AggelosKatsaggelos "Aggelos Katsaggelos")
+(in-microtheory CyclistDefinitionalMt)
+(isa AggelosKatsaggelos HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa AggelosKatsaggelos AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson AggelosKatsaggelos Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Han Liu
+Tech 
+hanliu@northwestern.edu
+https://www.princeton.edu/~hanliu/people.html
+['Ph.D. ', ', ']
+['As a computer scientist and statistician, I use computation and data as a lens to explore science and intelligence. To make progress, I examines this with the point of view provided by the twin windows of modern nonparametric method and probabilistic graphical model. My specific research focuses on nonparametric structure learning and representation learning. Success on this research has the potential to revolutionarize the foundation of the second generation of artificial intelligence (i.e., statistical machine learning) and push the frontier of the third generation of artificial intelligence (i.e., deep learning). My applied research interest is to develop a unified set of computational, statistical, and software tools to extract and interpret significant information from the data collected from a variety of scientific areas.']
+(in-microtheory EnglishMt)
+(fullName HanLiu "Han Liu")
+(in-microtheory CyclistDefinitionalMt)
+(isa HanLiu HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa HanLiu AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson HanLiu Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Yuan Luo
+Suite 1400
+312-908-7914
+yuan.luo@northwestern.edu
+(in-microtheory EnglishMt)
+(fullName YuanLuo "Yuan Luo")
+(in-microtheory CyclistDefinitionalMt)
+(isa YuanLuo HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Gokhan Memik
+Tech Room L475
+847-467-1168
+g-memik@northwestern.edu
+http://www.ece.northwestern.edu/~memik/
+['Ph.D. Electrical Engineering, UCLA, Los Angeles, CA', 'M.S. Electrical and Computer Engineering, Northwestern University, Evanston, IL', 'B.S. Computer Engineering, Bogazici Univeristy, Istanbul, Turkey']
+[u'Prof. Memik works in the area of computer architecture. His work spans three major areas: (1) understanding/developing new technologies and developing architectures that are more suitable for these technologies, (2) modeling large-scale systems and optimizing them, and (3) developing techniques that can automatically detect user needs/requirements and use this information to improve performance of mobile system and reduce their power consumption.\xa0']
+(in-microtheory EnglishMt)
+(fullName GokhanMemik "Gokhan Memik")
+(in-microtheory CyclistDefinitionalMt)
+(isa GokhanMemik HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa GokhanMemik AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson GokhanMemik Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Youssef Nashed
+L359 EV 3118
+ynashed@northwestern.edu
+http://naise.northwestern.edu/project/youssef-nashed/
+(in-microtheory EnglishMt)
+(fullName YoussefNashed "Youssef Nashed")
+(in-microtheory CyclistDefinitionalMt)
+(isa YoussefNashed HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Anne Marie Piper
+Frances Searle Building,  2-144
+847-467-4198 
+ampiper@northwestern.edu
+['Anne Marie Piper is an assistant professor in the departments of Communication Studies and Electrical Engineering & Computer Science (by courtesy) at Northwestern University.', 'Her research investigates natural user interfaces to support communication, social interaction, and the developmental needs of people throughout the lifespan. Much of her work focuses on designing new communication technologies for individuals with disabilities and older adults.', 'She has published multiple articles on assistive and educational applications of surface computing. More recently, her work investigates how hybrid paper-digital interfaces support communication and language learning in home, school, and therapy settings. Anne Marie is the recipient of a 2014 Alumnae of Northwestern Award for Curriculum Development, a Best Paper Honorable Mention Award at the 2014 ACM Conference on Human Factors in Computing Systems (CHI), a 2011 UC-San Diego Interdisciplinary Scholar Award, the 2010 Best Student Paper Award at the ACM Conference on Computers and Accessibility (ASSETS), and an NSF Graduate Research Fellowship.', 'Anne Marie received her PhD in Cognitive Science from the University of California, San Diego, her MA in Education from Stanford University, and her BS in Computer Science from the Georgia Institute of Technology. Anne Marie also worked as a user experience researcher at Microsoft and LeapFrog.']
+(in-microtheory EnglishMt)
+(fullName AnneMariePiper "Anne Marie Piper")
+(in-microtheory CyclistDefinitionalMt)
+(isa AnneMariePiper HumanCyclist)
+(in-microtheory PeopleDataMt)
+
+
+Peter Scheuermann
+Tech Room L452
+847-491-7141
+peters@ece.northwestern.edu
+http://users.eecs.northwestern.edu/~peters/
+['Ph.D. Computer Science, State University of New York, Stony Brook, NY', 'M.S. Computer Science, State University of New York, Stony Brook, NY', 'B.S. Applied Mathematics/Physics, Tel-Aviv University, Tel-Aviv, Israel']
+['Physical database design; parallel I/O systems; distributed and federated database systems; web caching and replication; data mining; mobile computing']
+(in-microtheory EnglishMt)
+(fullName PeterScheuermann "Peter Scheuermann")
+(in-microtheory CyclistDefinitionalMt)
+(isa PeterScheuermann HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa PeterScheuermann AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson PeterScheuermann Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
+Hai Zhou
+Tech Room L461
+847-491-4155
+haizhou@northwestern.edu
+http://www.eecs.northwestern.edu/~haizhou/
+['Ph.D. Computer Science, University of Texas, Austin, TX', 'M.E. Computer Science and Technology, Tsinghua University, Beijing, China', 'B.E. Computer Science and Technology, Tsinghua University, Beijing, China']
+["Prof. Zhou's research is focused on hardware security and reliability, timing and power optimization in VLSI designs, and algorithm deisgn and anlysis."]
+(in-microtheory EnglishMt)
+(fullName HaiZhou "Hai Zhou")
+(in-microtheory CyclistDefinitionalMt)
+(isa HaiZhou HumanCyclist)
+(in-microtheory PeopleDataMt)
+(isa HaiZhou AcademicProfessional)
+(hasDegreeInField Hinrichs PhDDegree ComputerScience)
+(titleOfPerson HaiZhou Dr)
+(schooling Hinrichs CornellUniversity Graduate)
+
+
