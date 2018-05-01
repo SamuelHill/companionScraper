@@ -99,6 +99,7 @@ class NameResolver:
 
 	def __init__(self, logger, path = ''):
 		self.lastNameDict = {}
+		self.fullNameDict = {}
 		self.logger = logger
 
 		# Getting everyone's name
@@ -121,6 +122,10 @@ class NameResolver:
 			self.lastNameDict[nameEntry.last] += [nameEntry]
 		else:
 			self.lastNameDict[nameEntry.last] = [nameEntry]
+		if nameEntry.getFullName() in self.fullNameDict:
+			self.fullNameDict[nameEntry.getFullName()] += [nameEntry]
+		else:
+			self.fullNameDict[nameEntry.getFullName()] = [nameEntry]
 	def getEntitiesByLastName(self, lastName):
 		return self.lastNameDict[lastName.title()]
 	def getEntity(self, nameString):

@@ -1,0 +1,242 @@
+
+Matches
+
+100 Electrons, Photons, and Bits: Adventures in Electrical and Computer Engineering ['Electrical Engineering']
+101 An Introduction to Computer Science for Everyone ['Computer Science']
+110 Introduction to Computer Programming ['Computer Science']
+111 Fundamentals of Computer Programming I ['Computer Engineering', 'Computer Science']
+202 Introduction to Electrical Engineering ['Electrical Engineering', 'Computer Engineering']
+203 Introduction to Computer Engineering ['Electrical Engineering', 'Computer Engineering']
+205 Fundamentals of Computer System Software ['Computer Engineering']
+207 Introduction to Cognitive Modeling ['Computer Science']
+211 Fundamentals of Computer Programming II ['Electrical Engineering', 'Computer Engineering', 'Computer Science']
+212 Mathematical Foundations of Computer Science ['Computer Engineering', 'Computer Science']
+213 Introduction to Computer Systems ['Computer Engineering', 'Computer Science']
+214 Data Structures and Data Management ['Computer Engineering', 'Computer Science']
+221 Fundamentals of Circuits ['Electrical Engineering', 'Computer Engineering']
+222 Fundamentals of Signals and Systems ['Electrical Engineering', 'Computer Engineering']
+223 Fundamentals of Solid State Engineering ['Electrical Engineering', 'Computer Engineering']
+224 Fundamentals of Electromagnetics and Photonics ['Electrical Engineering', 'Computer Engineering']
+225 Fundamentals of Electronics ['Electrical Engineering', 'Computer Engineering']
+230 Programming for Engineers ['Electrical Engineering']
+250 Physical Electronics and Devices ['Electrical Engineering']
+295 Fundamentals of Computer Programming 1.5 ['Computer Science']
+295 Intensive Program Design ['Computer Science']
+301 Introduction to Robotics Laboratory ['Computer Science']
+302 Probabilistic Systems ['Electrical Engineering', 'Computer Engineering']
+303 Advanced Digital Logic Design ['Electrical Engineering', 'Computer Engineering', 'Computer Science']
+307 Communications Systems ['Electrical Engineering']
+308 Applied Electromagnetics and Photonics ['Electrical Engineering']
+313 Tangible Interaction Design and Learning ['Computer Science']
+315 Design, Technology, and Research ['Computer Science']
+317 Data Management and Information Processing ['Computer Engineering', 'Computer Science']
+321 Programming Languages ['Computer Engineering', 'Computer Science']
+322 Compiler Construction ['Computer Engineering', 'Computer Science']
+325 Artificial Intelligence Programming ['Computer Science']
+325 Introduction to Medical Imaging ['Computer Science']
+328 Numerical Methods for Engineers ['Computer Engineering']
+330 Human Computer Interaction ['Computer Science']
+331 Introduction to Computational Photography ['Electrical Engineering', 'Computer Science']
+332 Introduction to Computer Vision ['Computer Engineering', 'Computer Science']
+333 Introduction to Communication Networks ['Electrical Engineering', 'Computer Engineering']
+335 Introduction to the Theory of Computation ['Computer Science']
+336 Design & Analysis of Algorithms ['Computer Engineering', 'Computer Science']
+337 Natural Language Processing ['Computer Science']
+338 Practicum in Intelligent Information Systems ['Computer Science']
+339 Introduction to Databases ['Computer Engineering', 'Computer Science']
+340 Introduction to Computer Networking ['Computer Science']
+343 Operating Systems ['Computer Engineering', 'Computer Science']
+344 Design of Problem Solvers ['Computer Science']
+345 Distributed Systems ['Computer Science']
+346 Microprocessor System Design ['Electrical Engineering', 'Computer Engineering', 'Computer Science']
+347 Microprocessor Systems Project I ['Computer Engineering', 'Computer Science']
+347-2 Microprocessor Systems Project II ['Electrical Engineering']
+348 Introduction to Artificial Intelligence ['Computer Science']
+349 Machine Learning ['Computer Science']
+350 Introduction to Computer Security ['Computer Engineering', 'Computer Science']
+351-1 Introduction to Computer Graphics ['Electrical Engineering', 'Computer Science']
+351-2 Intermediate Computer Graphics ['Electrical Engineering', 'Computer Science']
+352 Machine Perception of Music & Audio ['Computer Science']
+354 Network Penetration and Security ['Computer Engineering', 'Computer Science']
+355 Asic and FPGA Design ['Electrical Engineering', 'Computer Engineering']
+357 Introduction to VLSI CAD ['Computer Engineering']
+358 Introduction to Parallel Computing ['Computer Engineering']
+359 Digital Signal Processing ['Electrical Engineering']
+360 Introduction to Feedback Systems ['Electrical Engineering', 'Computer Science']
+361 Computer Architecture I ['Computer Engineering']
+362 Computer Architecture Project ['Computer Engineering']
+363 Digital Filtering ['Electrical Engineering']
+366 Embedded Systems ['Computer Engineering', 'Computer Science']
+368 Programming Massively Parallel Processors with CUDA ['Computer Engineering', 'Computer Science']
+370 Computer Game Design ['Computer Science']
+371 Knowledge Representation and Reasoning ['Computer Science']
+372 Designing and Constructing Models with Multi-Agent Languages ['Computer Science']
+374 Introduction to Digital Control ['Electrical Engineering']
+378 Digital Communications ['Electrical Engineering']
+379 Lasers and Coherent Optics ['Electrical Engineering']
+380 Wireless Communications ['Electrical Engineering']
+381 Electronic Properties of Materials ['Electrical Engineering']
+382 Photonic Information Processing ['Electrical Engineering']
+383 Fiber-Optic Communications ['Electrical Engineering']
+384 Solid State Electronic Devices ['Electrical Engineering']
+385 Optoelectronics ['Electrical Engineering']
+386 Computational Electromagnetics and Photonics ['Electrical Engineering']
+388 Nanotechnology ['Electrical Engineering']
+390 Introduction to Robotics ['Electrical Engineering', 'Computer Engineering']
+391 CMOS VLSI Circuits Design ['Electrical Engineering', 'Computer Engineering']
+392 VLSI Systems Design Projects ['Electrical Engineering', 'Computer Engineering']
+393 Design and Analysis of High-Speed Integrated Circuits ['Electrical Engineering', 'Computer Engineering']
+394 Software Project Management & Development ['Computer Science']
+395 Advanced Low Power Digital and Mixed-signal Integrated Circuit Design ['Computer Engineering']
+395 Advanced Topics in Computer Architecture ['Computer Engineering', 'Computer Science']
+395 Biometrics ['Computer Engineering', 'Computer Science']
+395 Cardiovascular Instrumentation ['Electrical Engineering', 'Computer Engineering']
+395 Deep Learning Foundations from Scratch ['Electrical Engineering']
+395 Deep Reinforcement Learning from Scratch ['Electrical Engineering']
+395 Engineering System Design I ['Electrical Engineering', 'Computer Engineering']
+395 Engineering System Design II ['Electrical Engineering', 'Computer Engineering']
+395 Geospatial Vision and Visualization ['Computer Engineering', 'Computer Science']
+395 Internet-of-Things Sensors, Systems, and Applications ['Computer Engineering']
+395 Introduction to Smart Grid Systems ['Electrical Engineering']
+395 Machine Learning: Foundations, Applications, and Algorithms ['Electrical Engineering', 'Computer Science']
+395 Metamaterials and Plasmonics, and their Applications ['Electrical Engineering']
+395 Modeling and Synthesis of Cyber-Physical Systems ['Computer Engineering']
+395 Optimization Techniques for Machine Learning and Deep Learning ['Electrical Engineering']
+395 Probabilistic Systems ['Electrical Engineering']
+395 Quantum Computation ['Electrical Engineering']
+395 The Art of Multicore Concurrent Programming ['Computer Engineering', 'Computer Science']
+396 Code Analysis and Transformation ['Computer Science']
+396 Companion Cognitive System Studio ['Computer Science']
+396 Data Science Seminar ['Computer Science']
+396 Game Design and Development ['Computer Science']
+396 Multi-Modal Analytics ['Computer Science']
+396 Programming Languages Seminar ['Computer Science']
+396 Quadrotor Design and Control ['Computer Science']
+396 Randomized Algorithms ['Computer Science']
+396 Special Topics in Game AI - Logic Programming ['Computer Science']
+396 Special Topics in Swarms and Multi-robot Systems ['Computer Science']
+396 Systems Programming in Rust ['Computer Science']
+396 Type Systems ['Computer Science']
+397 Advanced Multimodal Interfaces and Analytics Research ['Computer Science']
+397 Advanced Topics in Compilers ['Computer Science']
+397 Computational Photography Seminar ['Electrical Engineering', 'Computer Science']
+397 Digital Forensics and Incident Response ['Computer Engineering', 'Computer Science']
+397 Digital Luthier ['Electrical Engineering', 'Computer Science']
+397 Inclusive Making ['Computer Science']
+397 Innovation Lab: Building Technologies for the Law ['Computer Science']
+397 Innovation in Journalism & Technology ['Computer Science']
+397 Internet of Things Networks Seminar ['Computer Science']
+397 Social Computing and Crowd Sourcing ['Computer Science']
+397 Software Construction ['Computer Science']
+398 Electrical Engineering Design ['Electrical Engineering']
+402 Advanced Electronic Devices ['Electrical Engineering']
+403 Quantum Semiconductors ['Electrical Engineering']
+404 Quantum Electronics ['Electrical Engineering']
+405 Advanced Photonics ['Electrical Engineering']
+406 Nonlinear Optics ['Electrical Engineering']
+410 System Theory ['Electrical Engineering']
+411 Fundamentals and Applications of Special Relativity ['Electrical Engineering']
+414 Advanced Topics in Quantum Electronics ['Electrical Engineering']
+420 Digital Image Processing ['Electrical Engineering', 'Computer Science']
+422 Random Processes in Communications and Control I ['Electrical Engineering', 'Computer Science']
+424 Distributed Optimization ['Electrical Engineering']
+428 Information Theory ['Computer Science']
+431 Human Perception and Electronic Media ['Electrical Engineering']
+432 Advanced Computer Vision ['Electrical Engineering']
+433 Statistical Pattern Recognition ['Computer Science']
+440 Advanced Networking ['Computer Science']
+441 Resource Virtualization ['Computer Science']
+446 Kernel and Other Low-level Software Development ['Computer Engineering', 'Computer Science']
+450 Internet Security ['Computer Science']
+452 Advanced Computer Architecture I ['Computer Engineering']
+453 Parallel Architectures ['Computer Engineering']
+457 Advanced Algorithms ['Computer Science']
+459 VLSI Algorithmics ['Computer Engineering', 'Computer Science']
+463 Adaptive Filters ['Electrical Engineering']
+469 Machine Learning and Artificial Intelligence for Robotics ['Computer Science']
+472 Designing and Constructing Models with Multi-Agent Languages ['Computer Science']
+473-1 NUvention: Web + Media ['Computer Science']
+474 Probabilistic Graphical Models ['Computer Science']
+495 Introduction to Database Systems ['Computer Engineering', 'Computer Science']
+495 Introduction to Nanophotonics and Plasmonics Science and Technology ['Electrical Engineering']
+495 Statistical Optics ['Electrical Engineering']
+496 Computational Complexity ['Computer Science']
+496 Distributed Systems in Challenging Environments ['Computer Science']
+496 Graduate Algorithms ['Computer Science']
+496 Seminar in Statistical Language Modeling ['Computer Science']
+496 The Design of Technological Tools for Thinking and Learning ['Computer Science']
+496 Topics in Theoretical Machine Learning ['Computer Science']
+497 Peer Grading ['Computer Science']
+510 Social Media Mining ['Computer Engineering', 'Computer Science']
+512 Parallelism Seminar ['Computer Engineering', 'Computer Science']
+
+No Match
+
+314 Technology & Human Interaction ['Darren Gergle']
+395 Advanced Digital System Design with FPGAS ['David Zaretsky']
+395 Bioelectric Systems Modeling & Analysis ['Maglaveras']
+395 Personal Health Systems ['Maglaveras']
+396 Affective Computing Seminar ['Wilson']
+396 Computational Geometry ['Bennett']
+397 Game Development Studio ['Zubek']
+397 Spatial Data Science and Spatial Computing ['Brent Hecht']
+397 Wireless and Mobile Health ['Nabil Alshurafa']
+473-2 NUvention: Web + Media ['Marasco', 'Gordon', 'Warren']
+495 NUvention Impact ['Werwath']
+495 Robot Design Studio ['Worth', 'Lynch']
+
+No Instructor
+
+120 Introduction to Computers & Info Technology
+130 Tools and Technology of the World Wide Web
+356 Introduction to Formal Verification
+389 Superconductivity and its Applications
+395 A Hands-on Course in Communication Systems
+395 Advanced Compiler Hacking
+395 Advanced Quantum Transport & Magneto Transport
+395 Algorithmic DNA Self-Assembly Seminar
+395 Algorithmic Mechanism Design
+395 Algorithmic Techniques for Bioinformatics Seminar
+395 Algorithmic and Economic Aspects of Social Networks
+395 Building Next-Generation AI Applications with IBM Watson
+395 Cognitive Simulation for Virtual Characters
+395 Collaboration Technology
+395 Computational Auditory Scene Analysis
+395 Economics and Computation
+395 Human-level Artificial Intelligence
+395 Introduction to Computational Learning Theory
+395 Mixed Signal Circuits Systems
+395 Mobile Apps and Systems
+395 Object-Oriented Languages and Environments
+395 Technology Infrastructure: Concepts, Requirements, Design and Operation
+395 The Probabilistic Method
+395 Web Information Retrieval and Extraction
+395-20 Data as Art
+397 Internet-scale Experimentation
+401 Fundamentals of Electronic Devices
+407 Quantum Optics
+409 Semiconductor Lasers
+418 Advanced Digital Signal Processing
+421 Multimedia Signal Processing
+423 Random Processes in Communications and Control II
+425 Quantum Electronics II: Noise, Modulation, and Quantum Properties of Laser Emissions
+426 Signal Detection and Estimation
+427 Optical Communications
+429 Selected Topics in Quantum Information Science and Technology
+430 Design of Interactive Learning Environments
+435 Neural Networks
+438 Interdisciplinary Nonlinear Dynamics
+442 Dynamic Behavior of Applications, Hosts, and Networks
+443 Advanced Operating Systems
+454 Advanced Communication Networks
+455 Distributed Computing Systems
+458 Parallel Algorithms for VLSI Computer-Aided Design
+478 Advanced Digital Communications
+479 Nonlinear Optimization
+495 Advanced Quantum Transport & Magneto Transport
+495 Game Theory and Networked Systems
+495 Intensive Program Design
+495 Introduction to Computational Linguistics
+495 Introduction to Nonlinear Control Theory
+495 Machine Learning and Artificial Intelligence for Robotics
+496 Computational Auditory Scene Analysis

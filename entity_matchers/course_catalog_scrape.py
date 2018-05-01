@@ -23,6 +23,7 @@ class CourseInfo:
 		self.course_website = None
 		self.course_name = None
 		self.offering_detail = []
+		self.disciplines = []
 		tds = c.xpath(CourseInfo.TD)
 
 		# course_id
@@ -44,7 +45,12 @@ class CourseInfo:
 		self.course_website = PAGE + tds[0].xpath(CourseInfo.A_HREF_HREF)[0]
 
 		# course name
-		self.course_name = tds[1].xpath(CourseInfo.A_HREF_TEXT)[0]
+		cn = tds[1].xpath(CourseInfo.A_HREF_TEXT)[0].strip()
+		cn = re.sub(' +', ' ', cn)
+		cn = re.sub('^([(].+[)]) *', '', cn)
+		cn = re.sub('(intro )|(Intro )', 'Introduction ', cn)
+		cn = re.sub(' ?[(].+[)]$', '', cn)
+		self.course_name = cn
 
 		# course meeting times and instructors
 		for i in range(2,5):
@@ -97,6 +103,10 @@ class CourseInfo:
 				if len(appendix) > 0:
 					handle.append(appendix[0][1:-1])
 				self.offering_detail.append(handle)
+	def __str__(self):
+		return 'EECS ' + self.primary_course_id + ' - ' + self.course_name + ' - ' + str(self.disciplines)
+	def __repr__(self):
+		return 'EECS ' + self.primary_course_id + ' - ' + self.course_name + ' - ' + str(self.disciplines)
 	def printContent(self):
 		w = JSONWriter()
 		w.start()
@@ -145,6 +155,7 @@ class CourseCatalog:
 
 	def __init__(self):
 		self.courses = []
+		self.courses_map = {}
 		self.logger = SimpleLogger()
 		self.nameRes = NameResolver(self.logger)
 
@@ -166,13 +177,19 @@ class CourseCatalog:
 	def addCourse(self, ci):
 		if ci.course_name != 'TBA':
 			self.courses.append(ci)
+			if ci.primary_course_id not in self.courses_map:
+				self.courses_map[ci.primary_course_id] = []
+			self.courses_map[ci.primary_course_id].append(ci)
 	def printAll(self):
 		for c in self.courses:
 			c.printContent()
+	def get(self, course_no_str):
+		return self.courses_map[course_no_str]
 
 
 def __main__():
-	CourseCatalog().printAll()
+	cc = CourseCatalog()
+	print cc.printAll()
 
 if __name__ == '__main__':
 	__main__()
