@@ -1,12 +1,25 @@
 from lxml import html
 import requests
 import sys
+import string
 
 VERBOSE = True if len(sys.argv) > 1 and sys.argv[1] == '1' else False
 
 def printV(string):
 	if VERBOSE and string is not None:
 		print string
+
+def xpathToCleanString(source, xpath_text):
+	xpath_list = source.xpath(xpath_text)
+	if xpath_list:
+		table = string.maketrans("", "")
+		return " ".join(xpath_list).encode('utf-8').translate(table, "\t\n").strip()
+	else:
+		return None
+
+def xpathToBoolContentExists(source, xpath_text):
+	return False if source.xpath(xpath_text) == [] else True
+
 
 # IDENTIFIERS FOR NAVIGATING PAGES:
 # PAGE_ALL_FAC = 'http://www.mccormick.northwestern.edu/eecs/people/faculty/'
@@ -46,29 +59,33 @@ facultyNodes = tree.xpath(FACULTY)
 for facultyNode in facultyNodes:
 	# Gathering faculty page...
 	node = facultyNode.xpath(FAC_SUBPAGES)[0]
+
 	# NAME
 	name = node.xpath(TEXT)[0]
-	printV(name)
-	# ENTITY ID - need to be able to resolve on multiple iterations
 	newName = name.replace(" ", "")
+
 	# Continue getting url and content...
 	url = HTTP + node.xpath(HREF)[0]
 	content = requests.get(url).content
 	tree = html.fromstring(content)
+
 	# Begin going through sidebar information for each faculty, left sidebar...
 	sidebar = tree.xpath(LEFT_SIDEBAR)[0]
+
 	# ADDRESS (room number)
 	address = sidebar.xpath(TEXT)
 	roomNumber = address[1] if len(address) > 1 else None
-	printV(roomNumber)
+
 	# PHONE NUMBER
 	phone = sidebar.xpath(PHONE_LINK)
 	phone_number = phone[0][6:] if len(phone) > 0 else None
 	printV(phone_number)
+
 	# EMAIL
 	mail = sidebar.xpath(MAIL_LINK)
 	email = mail[0][7:] if len(mail) > 0 else None
 	printV(email)
+	
 	# WEBSITES (distinguishing personal site too)
 	webpages = sidebar.xpath(WEBPAGES)
 	webpageNames = sidebar.xpath(WEBPAGENAMES)
@@ -104,28 +121,3 @@ for facultyNode in facultyNodes:
 	interests_list = sidebar.xpath(INTERESTS)
 	interests = interests_list if len(interests_list) > 0 else None
 	printV(interests)
-
-	# Basic meld stuff...
-	print "(in-microtheory EnglishMt)"
-	print "(fullName " + newName + " \"" + name + "\")"
-	print "(in-microtheory CyclistDefinitionalMt)"
-	print "(isa " + newName + " HumanCyclist)"
-	print "(isa " + newName + " NUPerson)"
-	print "(isa " + newName + " NUFaculty)"
-	print "(in-microtheory PeopleDataMt)"
-	if education is not None:
-		for edu in education:
-			if "Ph.D" in edu:
-				print "(isa " + newName + " AcademicProfessional)"
-				print "(titleOfPerson " + newName + " Dr)"
-				break
-		# for edu in education:
-		# 	if "Ph.D" in edu:
-		# 		print "(schooling Hinrichs CornellUniversity Graduate)"
-	if phone_number:
-		print "(phoneNumberOf " + newName +  " \"" + phone_number + "\")"
-	print "(emailOf " + newName +  " \"" + email + "\")"
-	if personal_website:
-		print "(personalWebsite " + newName +  " \"" + personal_website + "\")"
-	print "(officeLocation " + newName +  " \"" + " ".join(address) + "\")"
-	print

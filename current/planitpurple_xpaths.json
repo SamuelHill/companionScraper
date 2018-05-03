@@ -1,0 +1,74 @@
+{
+	"page": "https://planitpurple.northwestern.edu",
+	"loop": {
+		"events_list": "//ul[@class=\"events\"]",
+		"attributes": [
+			{
+				"label": "name",
+				"xpath": "//div[@class=\"event_header\"]/h2/text()",
+			},
+			{
+				"label": "month",
+				"xpath": "//div[@class=\"event_date\"]/div[@class=\"month\"]/text()",
+			},
+			{
+				"label": "day",
+				"xpath": "//div[@class=\"event_date\"]/div[@class=\"day\"]/text()",
+			},
+			{
+				"label": "dayofweek",
+				"xpath": "//div[@class=\"event_date\"]/div[@class=\"time\"]/text()",
+			},
+		]
+	},
+}
+
+// # IDENTIFIERS FOR NAVIGATING PAGES:
+// BASE_URL = 'https://planitpurple.northwestern.edu'
+// EVENTS_LIST = '//ul[@class="events"]'
+
+// EVENT_NAME = '//div[@class="event_header"]/h2/text()'
+// EVENT_DATE_MONTH = '//div[@class="event_date"]/div[@class="month"]/text()'
+// EVENT_DATE_DAY = '//div[@class="event_date"]/div[@class="day"]/text()'
+// EVENT_DATE_TIME = '//div[@class="event_date"]/div[@class="time"]/text()'
+// EVENT_DATE_WEEKDAY = '//div[@class="event_date"]/div[@class="time"]/span/text()'
+// RECURRING = '//p[@id="recurring"]'
+// # DETAILS = '//div[@class="detail "]/p/text()'
+// DETAILS = '//div[@class="detail "]/p'
+// SPAN_TEXT = 'span/text()'
+
+// # GENERAL TAGS
+// TEXT = './text()'
+// HREF = './@href'
+// HTTP = 'http:'
+// # IDENTIFIERS FOR NAVIGATING PAGES:
+// # PAGE_ALL_FAC = 'http://www.mccormick.northwestern.edu/eecs/people/faculty/'
+// # ALL_FACULTY = '//div[@class="faculty"]'
+// PAGE = 'http://www.mccormick.northwestern.edu/eecs/computer-science/people/'
+// FACULTY = '//div[@class="faculty cf"]'
+// FAC_SUBPAGES = './div[@class="faculty-info"]/h3/a[ @href]'
+// # DIVIDED CONTENT ON PAGE, one section for each sidebar/column
+// # Left side info:
+// LEFT_SIDEBAR = '//div[@id="faculty-profile-left"]'
+// PHONE_LINK = './a[@class="phone_link"]/@href'
+// MAIL_LINK = './a[@class="mail_link"]/@href'
+// WEBPAGES = ('./p[following-sibling::h2 = "Departments" and preceding-sibling::'
+// 			'h2[@class = "sites-header"] = "Website"]/a[@href]/@href')
+// WEBPAGENAMES = ('./p[following-sibling::h2 = "Departments" and preceding-'
+// 				'sibling::h2[@class = "sites-header"] = "Website"]/a[@href]'
+// 				'/text()')  # sloppy multiline strings...
+// DEPARTMENTS = ('./p[following-sibling::h2 = "Affiliations" and preceding-'
+// 			   'sibling::h2 = "Departments"]/a[@href]/text()')
+// AFFILIATIONS = ('./p[preceding-sibling::h2 = "Affiliations"]/a[@href and'
+// 				' not(text() = "Download CV")]/text()')
+// CV_HREF = ('./p[preceding-sibling::h2 = "Affiliations"]/a[@href and text() ='
+// 		   ' "Download CV"]/@href')
+// # Right side info:
+// RIGHT_SIDEBAR = '//div[@id="faculty-profile-right"]'
+// EDUCATION = ('./p[preceding-sibling::h2 = "Education" and following-sibling::'
+// 			 'h2 = "Research Interests"]/text()')
+// INTERESTS = './p[preceding-sibling::h2 = "Research Interests"]//text()'
+// # GENERAL TAGS
+// TEXT = './text()'
+// HREF = './@href'
+// HTTP = 'http:'
