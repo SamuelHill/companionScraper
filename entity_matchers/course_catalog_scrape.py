@@ -12,7 +12,7 @@ class CourseInfo:
 	TEXT = './text()'
 
 	INSTRUCTOR_SEPARATOR = '[,]? ?[,/&]+ ?'
-	DAY_OF_THE_WEEK = '[MTuWF]+[h]?'
+	DAY_OF_THE_WEEK = '[MTWFhu]+'
 	TIME_OF_DAY = '[-0-9:]+'
 	PROGRAMMING_LANGUAGE_USED = '["][a-zA-Z]+["]'
 
@@ -79,7 +79,7 @@ class CourseInfo:
 					handle.append([[a[0],'']])
 				else:
 					lis = re.split('[&,]', a[0])
-					if len(lis) > 1:
+					if len(lis) == 2:
 						d1 = re.findall(CourseInfo.DAY_OF_THE_WEEK,lis[0])
 						t1 = re.findall(CourseInfo.TIME_OF_DAY,lis[0])
 						d2 = re.findall(CourseInfo.DAY_OF_THE_WEEK,lis[1])
@@ -95,6 +95,7 @@ class CourseInfo:
 					else:
 						d1 = re.findall(CourseInfo.DAY_OF_THE_WEEK,lis[0])
 						t1 = re.findall(CourseInfo.TIME_OF_DAY,lis[0])
+						d1 = [d1[0]]
 						d1.extend(t1)
 						handle.append([d1])
 
@@ -104,9 +105,9 @@ class CourseInfo:
 					handle.append(appendix[0][1:-1])
 				self.offering_detail.append(handle)
 	def __str__(self):
-		return 'EECS ' + self.primary_course_id + ' - ' + self.course_name + ' - ' + str(self.disciplines)
+		return 'EECS ' + self.primary_course_id + ' - ' + self.course_name + ' - ' + str(self.disciplines) + ' - ' + str(self.offering_detail) 
 	def __repr__(self):
-		return 'EECS ' + self.primary_course_id + ' - ' + self.course_name + ' - ' + str(self.disciplines)
+		return 'EECS ' + self.primary_course_id + ' - ' + self.course_name + ' - ' + str(self.disciplines) + ' - ' + str(self.offering_detail) 
 	def printContent(self):
 		w = JSONWriter()
 		w.start()
@@ -136,7 +137,10 @@ class CourseInfo:
 					w.start()
 					w.entry('days',slot[0])
 					if slot[0] != 'TBA':
-						w.entry('hours',slot[1])
+						if len(slot) > 1:
+							w.entry('hours',slot[1])
+						else:
+							w.entry('hours','""')
 					w.end()
 				w.endCluster()
 				if len(season) > 2:
