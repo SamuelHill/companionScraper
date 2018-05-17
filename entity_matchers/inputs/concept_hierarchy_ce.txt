@@ -1,0 +1,231 @@
+Computer Engineering
+	Computer systems organization
+		Architectures
+			Serial architectures
+				Reduced instruction set computing
+				Complex instruction set computing
+				Superscalar architectures
+				Pipeline computing
+				Stack machines
+			Parallel architectures
+				Very long instruction word
+				Interconnection architectures
+				Multiple instruction, multiple data
+				Cellular architectures
+				Multiple instruction, single data
+				Single instruction, multiple data
+				Systolic arrays
+				Multicore architectures
+			Distributed architectures
+				Cloud computing
+				Client-server architectures
+				n-tier architectures
+				Peer-to-peer architectures
+				Grid computing
+			Other architectures
+				Neural networks
+				Reconfigurable computing
+				Analog computers
+				Data flow architectures
+				Heterogeneous (hybrid) systems
+				Self-organizing autonomic computing
+				Optical computing
+				Quantum computing
+				Molecular computing
+				High-level language architectures
+				Special purpose systems
+		Embedded and cyber-physical systems
+			Sensor networks
+			Robotics
+				Robotic components
+				Robotic control
+					Evolutionary robotics
+				Robotic autonomy
+				External interfaces for robotics
+			Sensors and actuators
+			System on a chip
+			Embedded systems
+				Firmware
+				Embedded hardware
+				Embedded software
+		Real-time systems
+			Real-time operating systems
+			Real-time languages
+			Real-time system specification
+			Real-time system architecture
+		Dependable and fault-tolerant systems and networks
+			Reliability
+			Availability
+			Maintainability and maintenance
+			Processors and memory architectures
+			Secondary storage organization
+			Redundancy
+			Fault-tolerant network topologies
+	Software and its engineering
+		Software organization and properties
+			Contextual software domains
+				E-commerce infrastructure
+				Software infrastructure
+					Interpreters
+					Middleware
+						Message oriented middleware
+						Reflective middleware
+						Embedded middleware
+					Virtual machines
+				Operating systems
+					File systems management
+					Memory management
+						Virtual memory
+						Main memory
+						Allocation / deallocation strategies
+						Garbage collection
+						Distributed memory
+						Secondary storage
+					Process management
+						Scheduling
+						Deadlocks
+						Multithreading
+						Multiprocessing / multiprogramming / multitasking
+						Monitors
+						Mutual exclusion
+						Concurrency control
+						Power management
+						Process synchronization
+					Communications management
+						Buffering
+						Input / output
+						Message passing						
+	Hardware
+		Integrated circuits
+			3D integrated circuits
+			Interconnect
+				Input / output circuits
+				Metallic interconnect
+				Photonic and optical interconnect
+				Radio frequency and wireless interconnect
+			Semiconductor memory
+				Dynamic memory
+				Static memory
+				Non-volatile memory
+				Read-only memory
+			Digital switches
+				Transistors
+				Logic families
+			Logic circuits
+				Arithmetic and datapath circuits
+				Asynchronous circuits
+				Combinational circuits
+				Design modules and hierarchy
+				Finite state machines
+				Sequential circuits
+			Reconfigurable logic and FPGAs
+				Hardware accelerators
+				High-speed input / output
+				Programmable logic elements
+				Programmable interconnect
+				Reconfigurable logic applications
+				Evolvable hardware
+		Communication hardware, interfaces and storage
+			Signal processing systems
+				Digital signal processing
+				Beamforming
+				Noise reduction
+			Sensors and actuators
+			Buses and high-speed links
+			Displays and imagers
+			External storage
+			Networking hardware
+			Printers
+			Sensor applications and deployments
+			Sensor devices and platforms
+			Sound-based input / output
+			Tactile and hand-based interfaces
+				Touch screens
+				Haptic devices
+			Scanners
+			Wireless devices
+			Wireless integrated network sensors
+			Electro-mechanical devices		
+		Electronic design automation
+			High-level and register-transfer level synthesis
+				Datapath optimization
+				Hardware-software codesign
+				Resource binding and sharing
+				Operations scheduling
+			Hardware description languages and compilation
+			Logic synthesis
+				Combinational synthesis
+				Circuit optimization
+				Sequential synthesis
+				Technology-mapping
+				Transistor-level synthesis
+			Modeling and parameter extraction
+			Physical design (EDA)
+				Clock-network synthesis
+				Packaging
+				Partitioning and floorplanning
+				Placement
+				Physical synthesis
+				Power grid design
+				Wire routing
+			Timing analysis
+				Electrical-level simulation
+				Model-order reduction
+				Compact delay models
+				Static timing analysis
+				Statistical timing analysis
+				Transition-based timing analysis
+			Methodologies for EDA
+				Best practices for EDA
+				Design databases for EDA
+				Software tools for EDA
+		Hardware validation
+			Functional verification
+				Model checking
+				Coverage metrics
+				Equivalence checking
+				Semi-formal verification
+				Simulation and emulation
+				Transaction-level verification
+				Theorem proving and SAT solving
+				Assertion checking
+			Physical verification
+				Design rule checking
+				Layout-versus-schematics
+				Power and thermal analysis
+				Timing analysis and sign-off
+			Post-manufacture validation and debug
+				Bug detection, localization and diagnosis
+				Bug fixing (hardware)
+				Design for debug
+		Very large scale integration design
+			3D integrated circuits
+			Analog and mixed-signal circuits
+				Data conversion
+				Clock generation and timing
+				Analog and mixed-signal circuit optimization
+				Radio frequency and wireless circuits
+				Wireline communication
+				Analog and mixed-signal circuit synthesis
+			Application-specific VLSI designs
+				Application specific integrated circuits
+				Application specific instruction set processors
+				Application specific processors
+			Design reuse and communication-based design
+				Network on chip
+				System on a chip
+				Platform-based design
+				Hard and soft IP
+			Design rules
+			Economics of chip design and manufacturing
+			Full-custom circuits
+			VLSI design manufacturing considerations
+			On-chip resource management
+			On-chip sensors
+			Standard cell libraries
+			VLSI packaging
+				Die and wafer stacking
+				Input / output styles
+				Multi-chip modules
+				Package-level interconnect
+			VLSI system specification and constraints
