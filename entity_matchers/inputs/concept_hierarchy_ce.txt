@@ -1,40 +1,50 @@
 Computer Engineering
-	Computer systems organization
-		Architectures
-			Serial architectures
+	high-performance computing
+		hpc
+	Computer system organization
+		Computer Architecture
+			Serial architecture
 				Reduced instruction set computing
 				Complex instruction set computing
-				Superscalar architectures
+				Superscalar architecture
 				Pipeline computing
 				Stack machines
-			Parallel architectures
+			Parallel architecture
 				Very long instruction word
-				Interconnection architectures
+				Interconnection architecture
 				Multiple instruction, multiple data
-				Cellular architectures
+				Cellular architecture
 				Multiple instruction, single data
+				MISD
 				Single instruction, multiple data
+				SIMD
+				MIMD
 				Systolic arrays
-				Multicore architectures
-			Distributed architectures
+				Multicore architecture
+				parallel I/O
+			Distributed architecture
 				Cloud computing
-				Client-server architectures
-				n-tier architectures
-				Peer-to-peer architectures
+				 HPC
+				Client-server architecture
+				n-tier architecture
+				Peer-to-peer architecture
 				Grid computing
-			Other architectures
+			Other architecture
 				Neural networks
 				Reconfigurable computing
 				Analog computers
-				Data flow architectures
-				Heterogeneous (hybrid) systems
+				analog computing
+				Data flow architecture
+				Heterogeneous system
 				Self-organizing autonomic computing
 				Optical computing
 				Quantum computing
 				Molecular computing
-				High-level language architectures
-				Special purpose systems
-		Embedded and cyber-physical systems
+				High-level language architecture
+				Special purpose system
+				Ultra-low power
+				Ultra-low power system
+		Cyber-physical system
 			Sensor networks
 			Robotics
 				Robotic components
@@ -44,20 +54,20 @@ Computer Engineering
 				External interfaces for robotics
 			Sensors and actuators
 			System on a chip
-			Embedded systems
+			Embedded system
 				Firmware
 				Embedded hardware
 				Embedded software
-		Real-time systems
-			Real-time operating systems
+		Real-time system
+			Real-time operating system
 			Real-time languages
 			Real-time system specification
 			Real-time system architecture
-		Dependable and fault-tolerant systems and networks
+		Dependable and fault-tolerant system and networks
 			Reliability
 			Availability
 			Maintainability and maintenance
-			Processors and memory architectures
+			Processors and memory architecture
 			Secondary storage organization
 			Redundancy
 			Fault-tolerant network topologies
@@ -72,8 +82,8 @@ Computer Engineering
 						Reflective middleware
 						Embedded middleware
 					Virtual machines
-				Operating systems
-					File systems management
+				Operating system
+					File system management
 					Memory management
 						Virtual memory
 						Main memory
@@ -94,12 +104,14 @@ Computer Engineering
 					Communications management
 						Buffering
 						Input / output
+						i/o
 						Message passing						
 	Hardware
-		Integrated circuits
-			3D integrated circuits
+		Integrated circuit
+			 IC
+			3D integrated circuit
 			Interconnect
-				Input / output circuits
+				Input / output circuit
 				Metallic interconnect
 				Photonic and optical interconnect
 				Radio frequency and wireless interconnect
@@ -111,13 +123,13 @@ Computer Engineering
 			Digital switches
 				Transistors
 				Logic families
-			Logic circuits
-				Arithmetic and datapath circuits
-				Asynchronous circuits
-				Combinational circuits
+			Logic circuit
+				Arithmetic and datapath circuit
+				Asynchronous circuit
+				Combinational circuit
 				Design modules and hierarchy
 				Finite state machines
-				Sequential circuits
+				Sequential circuit
 			Reconfigurable logic and FPGAs
 				Hardware accelerators
 				High-speed input / output
@@ -126,7 +138,7 @@ Computer Engineering
 				Reconfigurable logic applications
 				Evolvable hardware
 		Communication hardware, interfaces and storage
-			Signal processing systems
+			Signal processing system
 				Digital signal processing
 				Beamforming
 				Noise reduction
@@ -199,16 +211,21 @@ Computer Engineering
 				Bug fixing (hardware)
 				Design for debug
 		Very large scale integration design
-			3D integrated circuits
-			Analog and mixed-signal circuits
+			 VLSI
+			3D integrated circuit
+			Analog and mixed-signal circuit
+				Analog circuit
+				mixed-signal IC
+				mixed-signal integrated circuit
 				Data conversion
 				Clock generation and timing
+				clock management
 				Analog and mixed-signal circuit optimization
-				Radio frequency and wireless circuits
+				Radio frequency and wireless circuit
 				Wireline communication
 				Analog and mixed-signal circuit synthesis
 			Application-specific VLSI designs
-				Application specific integrated circuits
+				Application specific integrated circuit
 				Application specific instruction set processors
 				Application specific processors
 			Design reuse and communication-based design
@@ -218,7 +235,7 @@ Computer Engineering
 				Hard and soft IP
 			Design rules
 			Economics of chip design and manufacturing
-			Full-custom circuits
+			Full-custom circuit
 			VLSI design manufacturing considerations
 			On-chip resource management
 			On-chip sensors

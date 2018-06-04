@@ -5,30 +5,31 @@ Computer Science
 			Statistical software
 			Mathematical software performance
 	Networks
-		Network architectures
+		Network architecture
 			Network design principles
 				Layering
 				Naming and addressing
-			Programming interfaces
-		Network protocols
+			Programming interface
+		Network protocol
 			Network protocol design
 			Protocol correctness
 				Protocol testing and verification
 				Formal specifications
-			Link-layer protocols
-			Network layer protocols
-				Routing protocols
-				Signaling protocols
-			Transport protocols
-			Session protocols
-			Presentation protocols
-			Application layer protocols
-				Peer-to-peer protocols
-			OAM protocols
-				Time synchronization protocols
+			Link-layer protocol
+			Network layer protocol
+				Routing protocol
+				Signaling protocol
+			Transport protocol
+			Session protocol
+			Presentation protocol
+			Application layer protocol
+				Peer-to-peer protocol
+			OAM protocol
+				Time synchronization protocol
 				Network policy
-			Cross-layer protocols
-			Network File System (NFS) protocol
+			Cross-layer protocol
+			Network File System protocol
+				NFS
 		Network components
 			Intermediate nodes
 				Routers
@@ -38,21 +39,21 @@ Computer Science
 			Middle boxes / network appliances
 			End nodes
 				Network adapters
-				Network servers
+				Network server
 			Wireless access points, base stations and infrastructure
 				Cognitive radios
 			Logical nodes
 				Network domains
-		Network algorithms
-			Data path algorithms
+		Network algorithm
+			Data path algorithm
 				Packet classification
 				Deep packet inspection
 				Packet scheduling
-			Control path algorithms
+			Control path algorithm
 				Network resources allocation
-				Network control algorithms
-				Traffic engineering algorithms
-				Network design and planning algorithms
+				Network control algorithm
+				Traffic engineering algorithm
+				Network design and planning algorithm
 			Network economics
 		Network performance evaluation
 			Network performance modeling
@@ -62,10 +63,10 @@ Computer Science
 			Network measurement
 		Network properties
 			Network security
-				Security protocols
+				Security protocol
 				Web protocol security
 				Mobile and wireless security
-				Denial-of-service attacks
+				Denial-of-service
 				Firewalls
 			Network range
 				Short-range networks
@@ -83,7 +84,8 @@ Computer Science
 					Star networks
 					Ring networks
 						Token ring networks
-						Fiber distributed data interface (FDDI)
+						Fiber distributed data interface
+							FDDI
 					Mesh networks
 						Wireless mesh networks
 					Hybrid networks
@@ -110,7 +112,7 @@ Computer Science
 			Cyber-physical networks
 				Sensor networks
 			Mobile networks
-			Overlay and other logical network structures
+			Overlay and other logical network structure
 				Peer-to-peer networks
 				World Wide Web (network structure)
 				Social media networks
@@ -133,8 +135,8 @@ Computer Science
 						Reflective middleware
 						Embedded middleware
 					Virtual machines
-				Operating systems
-					File systems management
+				Operating system
+					File system management
 					Memory management
 						Virtual memory
 						Main memory
@@ -159,35 +161,36 @@ Computer Science
 				Virtual worlds software
 					Interactive games
 					Virtual worlds training simulations
-			Software system structures
+			Software system structure
 				Embedded software
-				Software architectures
-					n-tier architectures
-					Peer-to-peer architectures
-					Data flow architectures
+				Software architecture
+					n-tier architecture
+					Peer-to-peer architecture
+					Data flow architecture
 					Cooperating communicating processes
-					Layered systems
-					Publish-subscribe / event-based architectures
+					Layered system
+					Publish-subscribe / event-based architecture
 					Electronic blackboards
 					Simulator / interpreter
-					Object oriented architectures
-					Tightly coupled architectures
-					Space-based architectures
-					3-tier architectures
-				Software system models
+					Object oriented architecture
+					Tightly coupled architecture
+					Space-based architecture
+					3-tier architecture
+				Software system model
 					Petri nets
-					State systems
+					State system
 					Entity relationship modeling
 					Model-driven software engineering
 					Feature interaction
-					Massively parallel systems
-				Ultra-large-scale systems
-				Distributed systems organizing principles
+					Massively parallel system
+				Ultra-large-scale system
+					exa-scale computing
+				Distributed system organizing principles
 					Cloud computing
-					Client-server architectures
+					Client-server architecture
 					Grid computing
-					Organizing principles for web applications
-				Real-time systems software
+					Organizing principles for web application
+				Real-time system software
 				Abstraction, modeling and modularity
 			Software functional properties
 				Correctness
@@ -211,88 +214,91 @@ Computer Science
 				Software safety
 				Software usability
 		Software notations and tools
-			General programming languages
+			General programming language
 				Language types
-					Parallel programming languages
-					Distributed programming languages
-					Imperative languages
-					Object oriented languages
-					Functional languages
-					Concurrent programming languages
-					Constraint and logic languages
-					Data flow languages
-					Extensible languages
-					Assembly languages
-					Multiparadigm languages
-					Very high level languages
+					Parallel programming language
+					Distributed programming language
+					Imperative language
+					 OO 
+					Object-oriented language
+					Functional language
+					Concurrent programming language
+					Constraint and logic language
+					Data flow language
+					Extensible language
+					Assembly language
+					Multiparadigm language
+					Very high level language
 				Language features
 					Abstract data types
 					Polymorphism
 					Inheritance
-					Control structures
-					Data types and structures
+					Control structure
+					Data types and structure
 					Classes and objects
 					Modules / packages
 					Constraints
 					Recursion
-					Concurrent programming structures
+					Concurrent programming structure
 					Procedures, functions and subroutines
-					Patterns
 					Coroutines
-					Frameworks
-			Formal language definitions
+					Framework
+			Formal language definition
 				Syntax
-				Semantics
-			Compilers
+				Semantic
+			Compiler
 				Interpreters
-				Incremental compilers
-				Retargetable compilers
-				Just-in-time compilers
-				Dynamic compilers
-				Translator writing systems and compiler generators
+				Incremental compiler
+				Retargetable compiler
+				Just-in-time compiler
+				Dynamic compiler
+				Translator writing system and compiler generator
 				Source code generation
-				Runtime environments
+				Runtime environment
 				Preprocessors
 				Parsers
-			Context specific languages
-				Markup languages
-					Extensible Markup Language (XML)
-					Hypertext languages
-				Scripting languages
-				Domain specific languages
-				Specialized application languages
-				API languages
-				Graphical user interface languages
+			Context specific language
+				Markup language
+					Extensible Markup Language
+						XML
+					Hypertext language
+				Scripting language
+				Domain specific language
+				Specialized application language
+				API language
+				Graphical user interface language
 				Window managers
-				Command and control languages
-				Macro languages
+				Command and control language
+				Macro language
 				Programming by example
-				State based definitions
-				Visual languages
-				Interface definition languages
-			System description languages
-				Design languages
-				Unified Modeling Language (UML)
-				Architecture description languages
-				System modeling languages
-				Orchestration languages
-				Integration frameworks
-				Specification languages
-			Development frameworks and environments
-				Object oriented frameworks
+				State-based definition
+				Visual language
+				Interface definition language
+			System description language
+				Design language
+				Unified Modeling Language
+					UML
+				Architecture description language
+				System modeling language
+				Orchestration language
+				Integration framework
+				Specification language
+			Development framework and environment
+				Object oriented framework
 				Software as a service orchestration system
-				Integrated and visual development environments
-				Application specific development environments
-			Software configuration management and version control systems
+				Integrated and visual development environment
+				Application specific development environment
+			Software configuration management and version control system
 			Software libraries and repositories
 			Software maintenance tools
 		Software creation and management
 			Designing software
-				Requirements analysis
+				Requirement analysis
 				Software design engineering
 				Software design tradeoffs
 				Software implementation planning
 					Software design techniques
+						Design by contract
 			Software development process management
 				Software development methods
 					Rapid application development
@@ -339,7 +345,7 @@ Computer Science
 				Programming teams
 			Search-based software engineering
 	Theory of computation
-		Models of computation
+		Model of computation
 			Computability
 				Lambda calculus
 				Turing machines
@@ -351,24 +357,24 @@ Computer Science
 				Quantum query complexity
 				Quantum information theory
 			Interactive computation
-			Streaming models
+			Streaming model
 			Concurrency
-				Parallel computing models
-				Distributed computing models
+				Parallel computing model
+				Distributed computing model
 				Process calculi
-			Timed and hybrid models
+			Timed and hybrid model
 			Abstract machines
-		Formal languages and automata theory
+		Formal language and automata theory
 			Formalisms
 				Algebraic language theory
-				Rewrite systems
+				Rewrite system
 			Automata over infinite objects
-			Grammars and context-free languages
-			Tree languages
-			Automata extensions
+			Grammars and context-free language
+			Tree language
+			Automata extension
 				Transducers
 				Quantitative automata
-			Regular languages
+			Regular language
 		Computational complexity and cryptography
 			Complexity classes
 			Problems, reductions and completeness
@@ -378,15 +384,17 @@ Computer Science
 			Algebraic complexity theory
 			Quantum complexity theory
 			Proof complexity
-			Interactive proof systems
+			Interactive proof system
 			Complexity theory and logic
 			Cryptographic primitives
-			Cryptographic protocols
-		Logic
+			Cryptographic protocol
+		Logic And Reasoning
 			Logic and verification
 			Proof theory
 			Modal and temporal logics
 			Automated reasoning
+				Qualitative Reasoning
+				Analogical Reasoning
 			Constraint and logic programming
 			Constructive mathematics
 			Description logics
@@ -400,26 +408,26 @@ Computer Science
 			Type theory
 			Hoare logic
 			Separation logic
-		Design and analysis of algorithms
-			Graph algorithms analysis
+		Design and analysis of algorithm
+			Graph algorithm analysis
 				Network flows
 				Sparsification and spanners
 				Shortest paths
-				Dynamic graph algorithms
-			Approximation algorithms analysis
-				Scheduling algorithms
+				Dynamic graph algorithm
+			Approximation algorithm analysis
+				Scheduling algorithm
 				Packing and covering problems
 				Routing and network design problems
 				Facility location and clustering
 				Rounding techniques
 				Stochastic approximation
-				Numeric approximation algorithms
+				Numeric approximation algorithm
 			Mathematical optimization
 				Discrete optimization
 					Network optimization
 					Optimization with randomized search heuristics
 						Simulated annealing
-						Evolutionary algorithms
+						Evolutionary algorithm
 						Tabu search
 						Randomized local search
 				Continuous optimization
@@ -432,41 +440,43 @@ Computer Science
 					Nonconvex optimization
 					Bio-inspired optimization
 				Mixed discrete-continuous optimization
-					Submodular optimization and polymatroids
+					Submodular optimization 
+					polymatroids
 					Integer programming
 					Bio-inspired optimization
 				Non-parametric optimization
 					Genetic programming
-					Developmental representations
-			Data structures design and analysis
+					Developmental representation
+			Data Structure
+			Data structure design and analysis
 				Data compression
 				Pattern matching
 				Sorting and searching
 				Predecessor queries
-				Cell probe models and lower bounds
-			Online algorithms
-				Online learning algorithms
-					Scheduling algorithms
-				Caching and paging algorithms
-				K-server algorithms
-				Adversary models
-			Parameterized complexity and exact algorithms
+				Cell probe model and lower bounds
+			Online algorithm
+				Online learning algorithm
+					Scheduling algorithm
+				Caching and paging algorithm
+				K-server algorithm
+				Adversary model
+			Parameterized complexity and exact algorithm
 				Fixed parameter tractability
 				W hierarchy
-			Streaming, sublinear and near linear time algorithms
+			Streaming, sublinear and near linear time algorithm
 				Bloom filters and hashing
 				Sketching and sampling
 				Lower bounds and information complexity
 				Random order and robust communication complexity
-				Nearest neighbor algorithms
-			Parallel algorithms
-				MapReduce algorithms
+				Nearest neighbor algorithm
+			Parallel algorithm
+				MapReduce algorithm
 				Self-organization
-				Shared memory algorithms
-				Vector / streaming algorithms
-				Massively parallel algorithms
-			Distributed algorithms
-				MapReduce algorithms
+				Shared memory algorithm
+				Vector / streaming algorithm
+				Massively parallel algorithm
+			Distributed algorithm
+				MapReduce algorithm
 				Self-organization
 			Algorithm design techniques
 				Backtracking
@@ -474,18 +484,18 @@ Computer Science
 				Divide and conquer
 				Dynamic programming
 				Preconditioning
-			Concurrent algorithms
-		Randomness, geometry and discrete structures
+			Concurrent algorithm
+		Randomness, geometry and discrete structure
 			Pseudorandomness and derandomization
 			Computational geometry
-			Generating random combinatorial structures
+			Generating random combinatorial structure
 			Random walks and Markov chains
 			Expander graphs and randomness extractors
 			Error-correcting codes
 			Random projections and metric embeddings
-			Random network models
+			Random network model
 			Random search heuristics
-		Theory and algorithms for application domains
+		Theory and algorithm for application domains
 			Machine learning theory
 				Sample complexity and generalization bounds
 				Boolean function learning
@@ -498,7 +508,7 @@ Computer Science
 				Inductive inference
 				Online learning theory
 				Multi-agent learning
-				Models of learning
+				Model of learning
 				Query learning
 				Structured prediction
 				Reinforcement learning
@@ -521,7 +531,7 @@ Computer Science
 				Convergence and learning in games
 				Market equilibria
 				Computational pricing and auctions
-				Representations of games and their complexity
+				Representation of games and their complexity
 				Network games
 				Network formation
 				Computational advertising theory
@@ -529,49 +539,54 @@ Computer Science
 				Data exchange
 				Data provenance
 				Data modeling
-				Database query languages (principles)
+				Database query language
 				Database constraints theory
 				Database interoperability
-				Data structures and algorithms for data management
-				Database query processing and optimization (theory)
+				Data structure and algorithm for data management
+				Database query processing 
+				Database query optimization
 				Data integration
-				Logic and databases
+				Logic and database
 				Theory of database privacy and security
-				Incomplete, inconsistent, and uncertain databases
+				Incomplete, inconsistent, and uncertain database
 			Theory of randomized search heuristics
-		Semantics and reasoning
+		Semantic and reasoning
 			Program constructs
 				Control primitives
 				Functional constructs
 				Object oriented constructs
 				Program schemes
-				Type structures
-			Program semantics
-				Algebraic semantics
-				Denotational semantics
-				Operational semantics
-				Axiomatic semantics
-				Action semantics
-				Categorical semantics
+				Type structure
+			Program semantic
+				Algebraic semantic
+				Denotational semantic
+				Operational semantic
+				Axiomatic semantic
+				Action semantic
+				Categorical semantic
 			Program reasoning
-				Invariants
-				Program specifications
-				Pre- and post-conditions
+				Invariant
+				Program specification
+				Pre-condition 
+				post-condition
 				Program verification
 				Program analysis
 				Assertions
 				Parsing
 				Abstraction
-	Information systems
-		Data management systems
-			Database design and models
+	Information system
+		Data management system
+			Database
+			Database System
+			DBMS
+			Database design and model
 				Relational database model
-				Entity relationship models
-				Graph-based database models
-					Hierarchical data models
-					Network data models
-				Physical data models
-				Data model extensions
+				Entity relationship model
+				Graph-based database model
+					Hierarchical data model
+					Network data model
+				Physical data model
+				Data model extension
 					Semi-structured data
 					Data streams
 					Data provenance
@@ -579,7 +594,7 @@ Computer Science
 					Temporal data
 					Uncertainty
 					Inconsistent data
-			Data structures
+			Data structure
 				Data access methods
 					Multidimensional range search
 					Data scans
@@ -590,13 +605,13 @@ Computer Science
 					Data compression
 					Data encryption
 					Record and block layout
-			Database management system engines
-				DBMS engine architectures
+			Database management system engine
+				DBMS engine architecture
 				Database query processing
 					Query optimization
 					Query operators
 					Query planning
-					Join algorithms
+					Join algorithm
 				Database transaction processing
 					Data locking
 					Transaction logging
@@ -604,7 +619,7 @@ Computer Science
 				Record and buffer management
 				Parallel and distributed DBMSs
 					Key-value stores
-					MapReduce-based systems
+					MapReduce-based system
 					Relational parallel and distributed DBMSs
 				Triggers and rules
 				Database views
@@ -613,18 +628,18 @@ Computer Science
 					Distributed data locking
 					Deadlocks
 					Distributed database recovery
-				Main memory engines
-				Online analytical processing engines
+				Main memory engine
+				Online analytical processing engine
 				Stream management
-			Query languages
-				Relational database query languages
+			Query language
+				Relational database query language
 					Structured Query Language
-				XML query languages
+				XML query language
 					XPath
 					XQuery
-				Query languages for non-relational engines
-					MapReduce languages
-				Call level interfaces
+				Query language for non-relational engine
+					MapReduce language
+				Call level interface
 			Database administration
 				Database utilities and tools
 				Database performance evaluation
@@ -632,17 +647,18 @@ Computer Science
 				Data dictionaries
 			Information integration
 				Deduplication
+				 ETL
 				Extraction, transformation and loading
 				Data exchange
 				Data cleaning
 				Wrappers (data mining)
 				Mediators and data integration
 				Entity resolution
-				Data warehouses
-				Federated databases
-			Middleware for databases
-				Database web servers
-				Application servers
+				Data warehouse
+				Federated database
+			Middleware for database
+				Database web server
+				Application server
 				Object-relational mapping facilities
 				Data federation tools
 				Data replication tools
@@ -651,7 +667,7 @@ Computer Science
 				Service buses
 				Enterprise application integration tools
 				Middleware business process managers
-		Information storage systems
+		Information storage system
 			Information storage technologies
 				Magnetic disks
 				Magnetic tapes
@@ -661,17 +677,17 @@ Computer Science
 					Phase change memory
 				Disk arrays
 				Tape libraries
-			Record storage systems
+			Record storage system
 				Record storage alternatives
 					Heap (data structure)
 					Hashed file organization
 					Indexed file organization
 					Linked lists
-				Directory structures
+				Directory structure
 					B-trees
 					Vnodes
 					Inodes
-					Extent-based file structures
+					Extent-based file structure
 				Block / page strategies
 					Slotted pages
 					Intrapage space management
@@ -692,9 +708,9 @@ Computer Science
 				Point-in-time copies
 				Remote replication
 				Storage recovery strategies
-			Storage architectures
+			Storage architecture
 				Cloud based storage
-				Storage network architectures
+				Storage network architecture
 					Storage area networks
 					Direct attached storage
 					Network attached storage
@@ -706,37 +722,37 @@ Computer Science
 				Version management
 				Storage power management
 				Thin provisioning
-		Information systems applications
-			Enterprise information systems
+		Information system application
+			Enterprise information system
 				Intranets
 				Extranets
 				Enterprise resource planning
-				Enterprise applications
+				Enterprise application
 				Data centers
-			Collaborative and social computing systems and tools
+			Collaborative and social computing system and tools
 				Blogs
 				Wikis
-				Reputation systems
+				Reputation system
 				Open source software
 				Social networking sites
-				Social tagging systems
+				Social tagging system
 				Synchronous editors
 				Asynchronous editors
-			Spatial-temporal systems
+			Spatial-temporal system
 				Location based services
-				Geographic information systems
+				Geographic information system
 				Sensor networks
 				Data streaming
-				Global positioning systems
-			Decision support systems
+				Global positioning system
+			Decision support system
 				Data warehouses
-				Expert systems
+				Expert system
 				Data analytics
 				Online analytical processing
-			Mobile information processing systems
-			Process control systems
-			Multimedia information systems
-				Multimedia databases
+			Mobile information processing system
+			Process control system
+			Multimedia information system
+				Multimedia database
 				Multimedia streaming
 				Multimedia content creation
 				Massively multiplayer online games
@@ -752,11 +768,12 @@ Computer Science
 			Computing platforms
 		World Wide Web
 			Web searching and information discovery
-				Web search engines
+				Web search engine
 					Web crawling
 					Web indexing
 					Page and site ranking
 					Spam detection
+					pagerank
 				Content ranking
 				Collaborative filtering
 				Social recommendation
@@ -772,10 +789,10 @@ Computer Science
 				Data extraction and integration
 					Deep web
 					Surfacing
-					Search results deduplication
+					Search result deduplication
 				Web log analysis
 				Traffic analysis
-			Web applications
+			Web application
 				Internet communications tools
 					Email
 					Blogs
@@ -787,7 +804,7 @@ Computer Science
 					Answer ranking
 					Trust
 					Incentive schemes
-					Reputation systems
+					Reputation system
 				Electronic commerce
 					Digital cash
 					E-commerce infrastructure
@@ -797,30 +814,36 @@ Computer Science
 					Online banking
 					Secure online transactions
 					Online auctions
-			Web interfaces
+			Web interface
 				Wikis
 				Browsers
 				Mashups
 			Web services
-				Simple Object Access Protocol (SOAP)
+				Simple Object Access Protocol
+					SOAP
 				RESTful web services
-				Web Services Description Language (WSDL)
-				Universal Description Discovery and Integration (UDDI)
-				Service discovery and interfaces
-			Web data description languages
-				Semantic web description languages
-					Resource Description Framework (RDF)
-					Web Ontology Language (OWL)
-				Markup languages
-					Extensible Markup Language (XML)
-					Hypertext languages
+				Web Services Description Language
+					WSDL
+				Universal Description Discovery and Integration
+					UDDI
+				Service discovery and interface
+			Web data description language
+				Semantic web description language
+					Resource Description Framework
+						RDF
+					Web Ontology Language
+						OWL
+				Markup language
+					Extensible Markup Language
+						XML
+					Hypertext language
 		Information retrieval
 			Document representation
 				Document structure
-				Document topic models
+				Document topic model
 				Content analysis and feature selection
 				Data encoding and canonicalization
-				Document collection models
+				Document collection model
 				Ontologies
 				Dictionaries
 				Thesauri
@@ -832,23 +855,23 @@ Computer Science
 				Query reformulation
 			Users and interactive retrieval
 				Personalization
-				Task models
-				Search interfaces
+				Task model
+				Search interface
 				Collaborative search
-			Retrieval models and ranking
+			Retrieval model and ranking
 				Rank aggregation
-				Probabilistic retrieval models
-				Language models
+				Probabilistic retrieval model
+				Language model
 				Similarity measures
 				Learning to rank
 				Combination, fusion and federated search
 				Information retrieval diversity
-				Top-k retrieval in databases
+				Top-k retrieval
 				Novelty in information retrieval
 			Retrieval tasks and goals
 				Question answering
 				Document filtering
-				Recommender systems
+				Recommender system
 				Information extraction
 				Sentiment analysis
 				Expert search
@@ -856,13 +879,13 @@ Computer Science
 				Clustering and classification
 				Summarization
 				Business intelligence
-			Evaluation of retrieval results
+			Evaluation of retrieval result
 				Test collections
 				Relevance assessment
 				Retrieval effectiveness
 				Retrieval efficiency
-				Presentation of retrieval results
-			Search engine architectures and scalability
+				Presentation of retrieval result
+			Search engine architecture and scalability
 				Search engine indexing
 				Search index compression
 				Distributed retrieval
@@ -870,7 +893,7 @@ Computer Science
 				Retrieval on mobile devices
 				Adversarial retrieval
 				Link and co-citation analysis
-				Searching with auxiliary databases
+				Searching with auxiliary database
 			Specialized information retrieval
 				Structure and multilingual text search
 					Structured text search
@@ -899,9 +922,9 @@ Computer Science
 			Information-theoretic techniques
 			Mathematical foundations of cryptography
 		Formal methods and theory of security
-			Trust frameworks
-			Security requirements
-			Formal security models
+			Trust framework
+			Security requirement
+			Formal security model
 			Logic and verification
 		Security services
 			Authentication
@@ -910,41 +933,45 @@ Computer Science
 				Multi-factor authentication
 			Access control
 			Pseudonymity, anonymity and untraceability
-			Privacy-preserving protocols
+			Privacy-preserving protocol
 			Digital rights management
 			Authorization
-		Intrusion/anomaly detection and malware mitigation
-			Malware and its mitigation
-			Intrusion detection systems
-				Artificial immune systems
+		malware mitigation
+			Malware
+		Intrusion detection
+			Intrusion detection system
+				Artificial immune system
+		anomaly detection
 			Social engineering attacks
 				Spoofing attacks
 				Phishing
 		Security in hardware
-			Tamper-proof and tamper-resistant designs
-			Embedded systems security
+			Tamper-proof and tamper-resistant design
+			Embedded system security
 			Hardware security implementation
-				Hardware-based security protocols
-			Hardware attacks and countermeasures
-				Malicious design modifications
-				Side-channel analysis and countermeasures
+				Hardware-based security protocol
+			Hardware attacks and countermeasure
+				Malicious design modification
+				Side-channel analysis and countermeasure
 			Hardware reverse engineering
-		Systems security
-			Operating systems security
+		System security
+			Operating system security
 				Mobile platform security
 				Trusted computing
 				Virtualization and security
 			Browser security
-			Distributed systems security
+			Distributed system security
 			Information flow control
 			Denial-of-service attacks
-			Firewalls
+				 DoS 
+				 DDoS
+			Firewall
 			Vulnerability management
 				Penetration testing
 				Vulnerability scanners
 			File system security
 		Network security
-			Security protocols
+			Security protocol
 			Web protocol security
 			Mobile and wireless security
 			Denial-of-service attacks
@@ -958,7 +985,7 @@ Computer Science
 			Software security engineering
 			Web application security
 			Social network security and privacy
-			Domain-specific security and privacy architectures
+			Domain-specific security and privacy architecture
 			Software reverse engineering
 		Human and societal aspects of security and privacy
 			Economics of security and privacy
@@ -966,9 +993,10 @@ Computer Science
 			Privacy protections
 			Usability in security and privacy
 	Human-centered computing
-		Human computer interaction (HCI)
+		Human-computer interaction
+			 HCI
 			HCI design and evaluation methods
-				User models
+				User model
 				User studies
 				Usability testing
 				Heuristic evaluations
@@ -976,13 +1004,14 @@ Computer Science
 				Laboratory experiments
 				Field studies
 			Interaction paradigms
+				Auditory interface
 				Hypertext / hypermedia
 				Mixed / augmented reality
-				Command line interfaces
-				Graphical user interfaces
+				Command line interface
+				Graphical user interface
 				Virtual reality
 				Web-based interaction
-				Natural language interfaces
+				Natural language interface
 				Collaborative interaction
 			Interaction devices
 				Graphics input devices
@@ -992,14 +1021,14 @@ Computer Science
 				Pointing devices
 				Touch screens
 				Haptic devices
-			HCI theory, concepts and models
+			HCI theory, concepts and model
 			Interaction techniques
 				Auditory feedback
 				Text input
 				Pointing
 				Gestural input
-			Interactive systems and tools
-				User interface management systems
+			Interactive system and tools
+				User interface management system
 				User interface programming
 				User interface toolkits
 			Empirical studies in HCI
@@ -1014,7 +1043,7 @@ Computer Science
 				Interface design prototyping
 			Interaction design theory, concepts and paradigms
 			Empirical studies in interaction design
-			Systems and tools for interaction design
+			System and tools for interaction design
 				Wireframes
 		Collaborative and social computing
 			Collaborative and social computing theory, concepts and paradigms
@@ -1031,13 +1060,13 @@ Computer Science
 			Collaborative and social computing design and evaluation methods
 				Social network analysis
 				Ethnographic studies
-			Collaborative and social computing systems and tools
+			Collaborative and social computing system and tools
 				Blogs
 				Wikis
-				Reputation systems
+				Reputation system
 				Open source software
 				Social networking sites
-				Social tagging systems
+				Social tagging system
 				Synchronous editors
 				Asynchronous editors
 			Empirical studies in collaborative and social computing
@@ -1047,7 +1076,7 @@ Computer Science
 				Ubiquitous computing
 				Mobile computing
 				Ambient intelligence
-			Ubiquitous and mobile computing systems and tools
+			Ubiquitous and mobile computing system and tools
 			Ubiquitous and mobile devices
 				Smartphones
 				Interactive whiteboards
@@ -1073,7 +1102,7 @@ Computer Science
 				Visual analytics
 				Geographic visualization
 				Information visualization
-			Visualization systems and tools
+			Visualization system and tools
 				Visualization toolkits
 			Visualization theory, concepts and paradigms
 			Empirical studies in visualization
@@ -1083,60 +1112,68 @@ Computer Science
 			Empirical studies in accessibility
 			Accessibility design and evaluation methods
 			Accessibility technologies
-			Accessibility systems and tools
+			Accessibility system and tools
 	Computing methodologies
 		Symbolic and algebraic manipulation
-			Symbolic and algebraic algorithms
-				Combinatorial algorithms
-				Algebraic algorithms
-				Nonalgebraic algorithms
-				Symbolic calculus algorithms
-				Exact arithmetic algorithms
+			Symbolic and algebraic algorithm
+				Combinatorial algorithm
+				Algebraic algorithm
+				Nonalgebraic algorithm
+				Symbolic calculus algorithm
+				Exact arithmetic algorithm
 				Hybrid symbolic-numeric methods
-				Discrete calculus algorithms
-				Number theory algorithms
-				Equation and inequality solving algorithms
-				Linear algebra algorithms
-				Theorem proving algorithms
-				Boolean algebra algorithms
-				Optimization algorithms
-			Computer algebra systems
-				Special-purpose algebraic systems
+				Discrete calculus algorithm
+				Number theory algorithm
+				Equation and inequality solving algorithm
+				Linear algebra algorithm
+				Theorem proving algorithm
+				Boolean algebra algorithm
+				Optimization algorithm
+			Computer algebra system
+				Special-purpose algebraic system
 			Representation of mathematical objects
 				Representation of exact numbers
 				Representation of mathematical functions
 				Representation of Boolean functions
 				Representation of polynomials
 		Parallel computing methodologies
-			Parallel algorithms
-				MapReduce algorithms
+			Parallel algorithm
+				MapReduce algorithm
 				Self-organization
-				Shared memory algorithms
-				Vector / streaming algorithms
-				Massively parallel algorithms
-			Parallel programming languages
+				Shared memory algorithm
+				Vector / streaming algorithm
+				Massively parallel algorithm
+			Parallel programming language
 		Artificial intelligence
+			 AI
 			Natural language processing
 				Information extraction
 				Machine translation
-				Discourse, dialogue and pragmatics
+				Discourse
+				dialogue
+				pragmatic
 				Natural language generation
 				Speech recognition
-				Lexical semantics
+				Lexical semantic
 				Phonology / morphology
 				Language resources
-			Knowledge representation and reasoning
+			Knowledge representation
 				Description logics
 				Semantic networks
-				Nonmonotonic, default reasoning and belief revision
+				Nonmonotonic reasoning
+				default reasoning
+				belief revision
 				Probabilistic reasoning
 				Vagueness and fuzzy logic
-				Causal reasoning and diagnostics
+				Causal reasoning
+				causal diagnostics
 				Temporal reasoning
 				Cognitive robotics
 				Ontology engineering
-				Logic programming and answer set programming
-				Spatial and physical reasoning
+				Logic programming
+				answer set programming
+				Spatial reasoning
+				physical reasoning
 				Reasoning about belief and knowledge
 			Planning and scheduling
 				Planning for deterministic actions
@@ -1158,13 +1195,14 @@ Computer Science
 					Evolutionary robotics
 				Computational control theory
 				Motion path planning
-			Philosophical/theoretical foundations of artificial intelligence
+			Philosophical foundations of artificial intelligence
+			theoretical foundations of artificial intelligence
 				Cognitive science
 				Theory of mind
 			Distributed artificial intelligence
-				Multi-agent systems
-				Intelligent agents
-				Mobile agents
+				Multi-agent system
+				Intelligent agent
+				Mobile agent
 				Cooperation and coordination
 			Computer vision
 				Computer vision tasks
@@ -1184,13 +1222,13 @@ Computer Science
 					Motion capture
 					3D imaging
 					Active vision
-				Computer vision representations
-					Image representations
-					Shape representations
-					Appearance and texture representations
-					Hierarchical representations
+				Computer vision representation
+					Image representation
+					Shape representation
+					Appearance and texture representation
+					Hierarchical representation
 				Computer vision problems
-					Interest point and salient region detections
+					Interest point and salient region detection
 					Image segmentation
 					Video segmentation
 					Shape inference
@@ -1205,9 +1243,9 @@ Computer Science
 				Supervised learning
 					Ranking
 					Learning to rank
-					Supervised learning by classification
-					Supervised learning by regression
-					Structured outputs
+					classification
+					regression
+					Structured output
 					Cost-sensitive learning
 				Unsupervised learning
 					Cluster analysis
@@ -1216,7 +1254,8 @@ Computer Science
 					Topic modeling
 					Source separation
 					Motif discovery
-					Dimensionality reduction and manifold learning
+					Dimensionality reduction
+					manifold learning
 				Reinforcement learning
 					Sequential decision making
 					Inverse reinforcement learning
@@ -1241,17 +1280,19 @@ Computer Science
 					Support vector machines
 					Gaussian processes
 				Neural networks
+					Deep Learning
+					Deep Neural Network
 				Logical and relational learning
 					Inductive logic learning
 					Statistical relational learning
-				Learning in probabilistic graphical models
+				Learning in probabilistic graphical model
 					Maximum likelihood modeling
 					Maximum entropy modeling
 					Maximum a posteriori modeling
-					Mixture models
-					Latent variable models
-					Bayesian network models
-				Learning linear models
+					Mixture model
+					Latent variable model
+					Bayesian network model
+				Learning linear model
 					Perceptron algorithm
 				Factorization methods
 					Non-negative matrix factorization
@@ -1264,16 +1305,16 @@ Computer Science
 				Markov decision processes
 				Partially-observable Markov decision processes
 				Stochastic games
-				Learning latent representations
+				Learning latent representation
 					Deep belief networks
 				Bio-inspired approaches
 					Artificial life
 					Evolvable hardware
-					Genetic algorithms
+					Genetic algorithm
 					Genetic programming
 					Evolutionary robotics
 					Generative and developmental approaches
-			Machine learning algorithms
+			Machine learning algorithm
 				Dynamic programming for Markov decision processes
 					Value iteration
 					Q-learning
@@ -1293,7 +1334,7 @@ Computer Science
 				Model verification and validation
 				Uncertainty quantification
 			Simulation theory
-				Systems theory
+				System theory
 				Network science
 			Simulation types and techniques
 				Uncertainty quantification
@@ -1301,22 +1342,22 @@ Computer Science
 				Molecular simulation
 				Rare-event simulation
 				Discrete-event simulation
-				Agent / discrete models
+				Agent / discrete model
 				Distributed simulation
 				Continuous simulation
-				Continuous models
+				Continuous model
 				Real-time simulation
 				Interactive simulation
-				Multiscale systems
+				Multiscale system
 				Massively parallel and high-performance simulations
 				Data assimilation
 				Scientific visualization
 				Visual analytics
 				Simulation by animation
 				Artificial life
-			Simulation support systems
-				Simulation environments
-				Simulation languages
+			Simulation support system
+				Simulation environment
+				Simulation language
 				Simulation tools
 			Simulation evaluation
 		Computer graphics
@@ -1338,7 +1379,7 @@ Computer Science
 				Texturing
 				Image-based rendering
 				Antialiasing
-			Graphics systems and interfaces
+			Graphics system and interface
 				Graphics processors
 				Graphics input devices
 				Mixed / augmented reality
@@ -1347,17 +1388,17 @@ Computer Science
 				Virtual reality
 			Image compression
 			Shape modeling
-				Mesh models
-				Mesh geometry models
-				Parametric curve and surface models
-				Point-based models
-				Volumetric models
+				Mesh model
+				Mesh geometry model
+				Parametric curve and surface model
+				Point-based model
+				Volumetric model
 				Shape analysis
 		Distributed computing methodologies
-			Distributed algorithms
-				MapReduce algorithms
+			Distributed algorithm
+				MapReduce algorithm
 				Self-organization
-			Distributed programming languages
+			Distributed programming language
 		Concurrent computing methodologies
-			Concurrent programming languages
-			Concurrent algorithms
+			Concurrent programming language
+			Concurrent algorithm
