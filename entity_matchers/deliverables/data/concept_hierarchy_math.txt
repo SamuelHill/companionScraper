@@ -1,0 +1,146 @@
+Mathematics
+	Mathematics of computing
+		Discrete mathematics
+			Combinatorics
+				Combinatoric problems
+				Permutations and combinations
+				Combinatorial algorithms
+				Generating functions
+				Combinatorial optimization
+				Combinatorics on words
+				Enumeration
+			Graph theory
+				Trees
+				Hypergraphs
+				Random graphs
+				Graph coloring
+				Paths and connectivity problems
+				Graph enumeration
+				Matchings and factors
+				Graphs and surfaces
+				Network flows
+				Spectra of graphs
+				Extremal graph theory
+				Matroids and greedoids
+				Graph algorithms
+				Approximation algorithms
+		Probability and statistics
+			Probabilistic representations
+				Bayesian networks
+				Markov networks
+				Factor graphs
+				Decision diagrams
+				Equational models
+				Causal networks
+				Stochastic differential equations
+				Nonparametric representations
+					Kernel density estimators
+					Spline models
+					Bayesian nonparametric models
+			Probabilistic inference problems
+				Maximum likelihood estimation
+				Bayesian computation
+				Computing most probable explanation
+				Hypothesis testing and confidence interval computation
+				Density estimation
+					Quantile regression
+				Max marginal computation
+			Probabilistic reasoning algorithms
+				Variable elimination
+				Loopy belief propagation
+				Variational methods
+				Expectation maximization
+				Markov-chain Monte Carlo methods
+					Gibbs sampling
+					Metropolis-Hastings algorithm
+					Simulated annealing
+					Markov-chain Monte Carlo convergence measures
+				Sequential Monte Carlo methods
+				Kalman filters and hidden Markov models
+				Resampling methods
+					Bootstrapping
+					Jackknifing
+				Random number generation
+			Probabilistic algorithms
+			Statistical paradigms
+				Queueing theory
+				Contingency table analysis
+				Regression analysis
+					Robust regression
+				Time series analysis
+				Survival analysis
+				Renewal theory
+				Dimensionality reduction
+				Cluster analysis
+				Statistical graphics
+				Exploratory data analysis
+			Stochastic processes
+				Markov processes
+			Nonparametric statistics
+			Distribution functions
+			Multivariate statistics
+		Information theory
+			Coding theory
+		Mathematical analysis
+			Numerical analysis
+				Computation of transforms
+				Computations in finite fields
+				Computations on matrices
+				Computations on polynomials
+					Grobner bases and other special bases
+				Number-theoretic computations
+				Interpolation
+				Numerical differentiation
+				Interval arithmetic
+				Arbitrary-precision arithmetic
+				Automatic differentiation
+				Mesh generation
+				Discretization
+			Mathematical optimization
+				Discrete optimization
+					Network optimization
+					Optimization with randomized search heuristics
+						Simulated annealing
+						Evolutionary algorithms
+						Tabu search
+						Randomized local search
+				Continuous optimization
+					Linear programming
+					Semidefinite programming
+					Convex optimization
+					Quasiconvex programming and unimodality
+					Stochastic control and optimization
+					Quadratic programming
+					Nonconvex optimization
+					Bio-inspired optimization
+				Mixed discrete-continuous optimization
+					Submodular optimization and polymatroids
+					Integer programming
+					Bio-inspired optimization
+				Non-parametric optimization
+					Genetic programming
+					Developmental representations
+			Differential equations
+				Ordinary differential equations
+				Partial differential equations
+				Differential algebraic equations
+				Differential variational inequalities
+			Calculus
+				Lambda calculus
+				Differential calculus
+				Integral calculus
+			Functional analysis
+				Approximation
+			Integral equations
+			Nonlinear equations
+			Quadrature
+		Continuous mathematics
+			Calculus
+				Lambda calculus
+				Differential calculus
+				Integral calculus
+			Topology
+				Point-set topology
+				Algebraic topology
+				Geometric topology
+			Continuous functions

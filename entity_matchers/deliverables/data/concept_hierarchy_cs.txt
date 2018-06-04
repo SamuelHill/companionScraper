@@ -1,0 +1,1404 @@
+Computer Science
+	Mathematics of computing
+		Mathematical software
+			Solvers
+			Statistical software
+			Mathematical software performance
+	Networks
+		Network architecture
+			Network design principles
+				Layering
+				Naming and addressing
+			Programming interface
+		Network protocol
+			Network protocol design
+			Protocol correctness
+				Protocol testing and verification
+				Formal specifications
+			Link-layer protocol
+			Network layer protocol
+				Routing protocol
+				Signaling protocol
+			Transport protocol
+			Session protocol
+			Presentation protocol
+			Application layer protocol
+				Peer-to-peer protocol
+			OAM protocol
+				Time synchronization protocol
+				Network policy
+			Cross-layer protocol
+			Network File System protocol
+				NFS
+		Network components
+			Intermediate nodes
+				Routers
+				Bridges and switches
+			Physical links
+				Repeaters
+			Middle boxes / network appliances
+			End nodes
+				Network adapters
+				Network server
+			Wireless access points, base stations and infrastructure
+				Cognitive radios
+			Logical nodes
+				Network domains
+		Network algorithm
+			Data path algorithm
+				Packet classification
+				Deep packet inspection
+				Packet scheduling
+			Control path algorithm
+				Network resources allocation
+				Network control algorithm
+				Traffic engineering algorithm
+				Network design and planning algorithm
+			Network economics
+		Network performance evaluation
+			Network performance modeling
+			Network simulations
+			Network experimentation
+			Network performance analysis
+			Network measurement
+		Network properties
+			Network security
+				Security protocol
+				Web protocol security
+				Mobile and wireless security
+				Denial-of-service
+				Firewalls
+			Network range
+				Short-range networks
+				Local area networks
+				Metropolitan area networks
+				Wide area networks
+				Very long-range networks
+			Network structure
+				Topology analysis and generation
+				Physical topologies
+				Logical / virtual topologies
+				Network topology types
+					Point-to-point networks
+					Bus networks
+					Star networks
+					Ring networks
+						Token ring networks
+						Fiber distributed data interface
+							FDDI
+					Mesh networks
+						Wireless mesh networks
+					Hybrid networks
+			Network dynamics
+			Network reliability
+				Error detection and error correction
+			Network mobility
+			Network manageability
+			Network privacy and anonymity
+		Network services
+			Naming and addressing
+			Cloud computing
+			Location based services
+			Programmable networks
+			In-network processing
+			Network management
+			Network monitoring
+		Network types
+			Network on chip
+			Home networks
+			Storage area networks
+			Data center networks
+			Wired access networks
+			Cyber-physical networks
+				Sensor networks
+			Mobile networks
+			Overlay and other logical network structure
+				Peer-to-peer networks
+				World Wide Web (network structure)
+				Social media networks
+				Online social networks
+			Wireless access networks
+				Wireless local area networks
+				Wireless personal area networks
+			Ad hoc networks
+				Mobile ad hoc networks
+			Public Internet
+			Packet-switching networks
+	Software and its engineering
+		Software organization and properties
+			Contextual software domains
+				E-commerce infrastructure
+				Software infrastructure
+					Interpreters
+					Middleware
+						Message oriented middleware
+						Reflective middleware
+						Embedded middleware
+					Virtual machines
+				Operating system
+					File system management
+					Memory management
+						Virtual memory
+						Main memory
+						Allocation / deallocation strategies
+						Garbage collection
+						Distributed memory
+						Secondary storage
+					Process management
+						Scheduling
+						Deadlocks
+						Multithreading
+						Multiprocessing / multiprogramming / multitasking
+						Monitors
+						Mutual exclusion
+						Concurrency control
+						Power management
+						Process synchronization
+					Communications management
+						Buffering
+						Input / output
+						Message passing
+				Virtual worlds software
+					Interactive games
+					Virtual worlds training simulations
+			Software system structure
+				Embedded software
+				Software architecture
+					n-tier architecture
+					Peer-to-peer architecture
+					Data flow architecture
+					Cooperating communicating processes
+					Layered system
+					Publish-subscribe / event-based architecture
+					Electronic blackboards
+					Simulator / interpreter
+					Object oriented architecture
+					Tightly coupled architecture
+					Space-based architecture
+					3-tier architecture
+				Software system model
+					Petri nets
+					State system
+					Entity relationship modeling
+					Model-driven software engineering
+					Feature interaction
+					Massively parallel system
+				Ultra-large-scale system
+					exa-scale computing
+				Distributed system organizing principles
+					Cloud computing
+					Client-server architecture
+					Grid computing
+					Organizing principles for web application
+				Real-time system software
+				Abstraction, modeling and modularity
+			Software functional properties
+				Correctness
+					Synchronization
+					Functionality
+					Real-time schedulability
+					Consistency
+					Completeness
+					Access protection
+				Formal methods
+					Model checking
+					Software verification
+					Automated static analysis
+					Dynamic analysis
+			Extra-functional properties
+				Interoperability
+				Software performance
+				Software reliability
+				Software fault tolerance
+					Checkpoint / restart
+				Software safety
+				Software usability
+		Software notations and tools
+			General programming language
+				Language types
+					Parallel programming language
+					Distributed programming language
+					Imperative language
+					 OO 
+					Object-oriented language
+					Functional language
+					Concurrent programming language
+					Constraint and logic language
+					Data flow language
+					Extensible language
+					Assembly language
+					Multiparadigm language
+					Very high level language
+				Language features
+					Abstract data types
+					Polymorphism
+					Inheritance
+					Control structure
+					Data types and structure
+					Classes and objects
+					Modules / packages
+					Constraints
+					Recursion
+					Concurrent programming structure
+					Procedures, functions and subroutines
+					Coroutines
+					Framework
+			Formal language definition
+				Syntax
+				Semantic
+			Compiler
+				Interpreters
+				Incremental compiler
+				Retargetable compiler
+				Just-in-time compiler
+				Dynamic compiler
+				Translator writing system and compiler generator
+				Source code generation
+				Runtime environment
+				Preprocessors
+				Parsers
+			Context specific language
+				Markup language
+					Extensible Markup Language
+						XML
+					Hypertext language
+				Scripting language
+				Domain specific language
+				Specialized application language
+				API language
+				Graphical user interface language
+				Window managers
+				Command and control language
+				Macro language
+				Programming by example
+				State-based definition
+				Visual language
+				Interface definition language
+			System description language
+				Design language
+				Unified Modeling Language
+					UML
+				Architecture description language
+				System modeling language
+				Orchestration language
+				Integration framework
+				Specification language
+			Development framework and environment
+				Object oriented framework
+				Software as a service orchestration system
+				Integrated and visual development environment
+				Application specific development environment
+			Software configuration management and version control system
+			Software libraries and repositories
+			Software maintenance tools
+		Software creation and management
+			Designing software
+				Requirement analysis
+				Software design engineering
+				Software design tradeoffs
+				Software implementation planning
+					Software design techniques
+						Design by contract
+			Software development process management
+				Software development methods
+					Rapid application development
+					Agile software development
+					Capability Maturity Model
+					Waterfall model
+					Spiral model
+					V-model
+					Design patterns
+				Risk management
+			Software development techniques
+				Software prototyping
+				Object oriented development
+				Flowcharts
+				Reusability
+					Software product lines
+				Error handling and recovery
+				Automatic programming
+					Genetic programming
+			Software verification and validation
+				Software prototyping
+				Operational analysis
+				Software defect analysis
+					Software testing and debugging
+				Fault tree analysis
+				Process validation
+					Walkthroughs
+					Pair programming
+					Use cases
+					Acceptance testing
+					Traceability
+				Formal software verification
+				Empirical software validation
+			Software post-development issues
+				Software reverse engineering
+				Documentation
+				Backup procedures
+				Software evolution
+				Software version control
+				Maintaining software
+				System administration
+			Collaboration in software development
+				Open source model
+				Programming teams
+			Search-based software engineering
+	Theory of computation
+		Model of computation
+			Computability
+				Lambda calculus
+				Turing machines
+				Recursive functions
+			Probabilistic computation
+			Quantum computation theory
+				Quantum complexity theory
+				Quantum communication complexity
+				Quantum query complexity
+				Quantum information theory
+			Interactive computation
+			Streaming model
+			Concurrency
+				Parallel computing model
+				Distributed computing model
+				Process calculi
+			Timed and hybrid model
+			Abstract machines
+		Formal language and automata theory
+			Formalisms
+				Algebraic language theory
+				Rewrite system
+			Automata over infinite objects
+			Grammars and context-free language
+			Tree language
+			Automata extension
+				Transducers
+				Quantitative automata
+			Regular language
+		Computational complexity and cryptography
+			Complexity classes
+			Problems, reductions and completeness
+			Communication complexity
+			Circuit complexity
+			Oracles and decision trees
+			Algebraic complexity theory
+			Quantum complexity theory
+			Proof complexity
+			Interactive proof system
+			Complexity theory and logic
+			Cryptographic primitives
+			Cryptographic protocol
+		Logic And Reasoning
+			Logic and verification
+			Proof theory
+			Modal and temporal logics
+			Automated reasoning
+				Qualitative Reasoning
+				Analogical Reasoning
+			Constraint and logic programming
+			Constructive mathematics
+			Description logics
+			Equational logic and rewriting
+			Finite Model Theory
+			Higher order logic
+			Linear logic
+			Programming logic
+			Abstraction
+			Verification by model checking
+			Type theory
+			Hoare logic
+			Separation logic
+		Design and analysis of algorithm
+			Graph algorithm analysis
+				Network flows
+				Sparsification and spanners
+				Shortest paths
+				Dynamic graph algorithm
+			Approximation algorithm analysis
+				Scheduling algorithm
+				Packing and covering problems
+				Routing and network design problems
+				Facility location and clustering
+				Rounding techniques
+				Stochastic approximation
+				Numeric approximation algorithm
+			Mathematical optimization
+				Discrete optimization
+					Network optimization
+					Optimization with randomized search heuristics
+						Simulated annealing
+						Evolutionary algorithm
+						Tabu search
+						Randomized local search
+				Continuous optimization
+					Linear programming
+					Semidefinite programming
+					Convex optimization
+					Quasiconvex programming and unimodality
+					Stochastic control and optimization
+					Quadratic programming
+					Nonconvex optimization
+					Bio-inspired optimization
+				Mixed discrete-continuous optimization
+					Submodular optimization 
+					polymatroids
+					Integer programming
+					Bio-inspired optimization
+				Non-parametric optimization
+					Genetic programming
+					Developmental representation
+			Data Structure
+			Data structure design and analysis
+				Data compression
+				Pattern matching
+				Sorting and searching
+				Predecessor queries
+				Cell probe model and lower bounds
+			Online algorithm
+				Online learning algorithm
+					Scheduling algorithm
+				Caching and paging algorithm
+				K-server algorithm
+				Adversary model
+			Parameterized complexity and exact algorithm
+				Fixed parameter tractability
+				W hierarchy
+			Streaming, sublinear and near linear time algorithm
+				Bloom filters and hashing
+				Sketching and sampling
+				Lower bounds and information complexity
+				Random order and robust communication complexity
+				Nearest neighbor algorithm
+			Parallel algorithm
+				MapReduce algorithm
+				Self-organization
+				Shared memory algorithm
+				Vector / streaming algorithm
+				Massively parallel algorithm
+			Distributed algorithm
+				MapReduce algorithm
+				Self-organization
+			Algorithm design techniques
+				Backtracking
+				Branch-and-bound
+				Divide and conquer
+				Dynamic programming
+				Preconditioning
+			Concurrent algorithm
+		Randomness, geometry and discrete structure
+			Pseudorandomness and derandomization
+			Computational geometry
+			Generating random combinatorial structure
+			Random walks and Markov chains
+			Expander graphs and randomness extractors
+			Error-correcting codes
+			Random projections and metric embeddings
+			Random network model
+			Random search heuristics
+		Theory and algorithm for application domains
+			Machine learning theory
+				Sample complexity and generalization bounds
+				Boolean function learning
+				Unsupervised learning and clustering
+				Kernel methods
+					Support vector machines
+					Gaussian processes
+				Boosting
+				Bayesian analysis
+				Inductive inference
+				Online learning theory
+				Multi-agent learning
+				Model of learning
+				Query learning
+				Structured prediction
+				Reinforcement learning
+					Sequential decision making
+					Inverse reinforcement learning
+					Apprenticeship learning
+					Multi-agent reinforcement learning
+					Adversarial learning
+				Active learning
+				Semi-supervised learning
+				Markov decision processes
+				Regret bounds
+			Algorithmic game theory and mechanism design
+				Social networks
+				Algorithmic game theory
+				Algorithmic mechanism design
+				Solution concepts in game theory
+				Exact and approximate computation of equilibria
+				Quality of equilibria
+				Convergence and learning in games
+				Market equilibria
+				Computational pricing and auctions
+				Representation of games and their complexity
+				Network games
+				Network formation
+				Computational advertising theory
+			Database theory
+				Data exchange
+				Data provenance
+				Data modeling
+				Database query language
+				Database constraints theory
+				Database interoperability
+				Data structure and algorithm for data management
+				Database query processing 
+				Database query optimization
+				Data integration
+				Logic and database
+				Theory of database privacy and security
+				Incomplete, inconsistent, and uncertain database
+			Theory of randomized search heuristics
+		Semantic and reasoning
+			Program constructs
+				Control primitives
+				Functional constructs
+				Object oriented constructs
+				Program schemes
+				Type structure
+			Program semantic
+				Algebraic semantic
+				Denotational semantic
+				Operational semantic
+				Axiomatic semantic
+				Action semantic
+				Categorical semantic
+			Program reasoning
+				Invariant
+				Program specification
+				Pre-condition 
+				post-condition
+				Program verification
+				Program analysis
+				Assertions
+				Parsing
+				Abstraction
+	Information system
+		Data management system
+			Database
+			Database System
+			DBMS
+			Database design and model
+				Relational database model
+				Entity relationship model
+				Graph-based database model
+					Hierarchical data model
+					Network data model
+				Physical data model
+				Data model extension
+					Semi-structured data
+					Data streams
+					Data provenance
+					Incomplete data
+					Temporal data
+					Uncertainty
+					Inconsistent data
+			Data structure
+				Data access methods
+					Multidimensional range search
+					Data scans
+					Point lookups
+					Unidimensional range search
+					Proximity search
+				Data layout
+					Data compression
+					Data encryption
+					Record and block layout
+			Database management system engine
+				DBMS engine architecture
+				Database query processing
+					Query optimization
+					Query operators
+					Query planning
+					Join algorithm
+				Database transaction processing
+					Data locking
+					Transaction logging
+					Database recovery
+				Record and buffer management
+				Parallel and distributed DBMSs
+					Key-value stores
+					MapReduce-based system
+					Relational parallel and distributed DBMSs
+				Triggers and rules
+				Database views
+				Integrity checking
+				Distributed database transactions
+					Distributed data locking
+					Deadlocks
+					Distributed database recovery
+				Main memory engine
+				Online analytical processing engine
+				Stream management
+			Query language
+				Relational database query language
+					Structured Query Language
+				XML query language
+					XPath
+					XQuery
+				Query language for non-relational engine
+					MapReduce language
+				Call level interface
+			Database administration
+				Database utilities and tools
+				Database performance evaluation
+				Autonomous database administration
+				Data dictionaries
+			Information integration
+				Deduplication
+				 ETL
+				Extraction, transformation and loading
+				Data exchange
+				Data cleaning
+				Wrappers (data mining)
+				Mediators and data integration
+				Entity resolution
+				Data warehouse
+				Federated database
+			Middleware for database
+				Database web server
+				Application server
+				Object-relational mapping facilities
+				Data federation tools
+				Data replication tools
+				Distributed transaction monitors
+				Message queues
+				Service buses
+				Enterprise application integration tools
+				Middleware business process managers
+		Information storage system
+			Information storage technologies
+				Magnetic disks
+				Magnetic tapes
+				Optical / magneto-optical disks
+				Storage class memory
+					Flash memory
+					Phase change memory
+				Disk arrays
+				Tape libraries
+			Record storage system
+				Record storage alternatives
+					Heap (data structure)
+					Hashed file organization
+					Indexed file organization
+					Linked lists
+				Directory structure
+					B-trees
+					Vnodes
+					Inodes
+					Extent-based file structure
+				Block / page strategies
+					Slotted pages
+					Intrapage space management
+					Interpage free-space management
+				Record layout alternatives
+					Fixed length attributes
+					Variable length attributes
+					Null values in records
+				Relational storage
+					Horizontal partitioning
+					Vertical partitioning
+					Column based storage
+					Hybrid storage layouts
+					Compression strategies
+			Storage replication
+				Mirroring
+				RAID
+				Point-in-time copies
+				Remote replication
+				Storage recovery strategies
+			Storage architecture
+				Cloud based storage
+				Storage network architecture
+					Storage area networks
+					Direct attached storage
+					Network attached storage
+				Distributed storage
+			Storage management
+				Hierarchical storage management
+				Storage virtualization
+				Information lifecycle management
+				Version management
+				Storage power management
+				Thin provisioning
+		Information system application
+			Enterprise information system
+				Intranets
+				Extranets
+				Enterprise resource planning
+				Enterprise application
+				Data centers
+			Collaborative and social computing system and tools
+				Blogs
+				Wikis
+				Reputation system
+				Open source software
+				Social networking sites
+				Social tagging system
+				Synchronous editors
+				Asynchronous editors
+			Spatial-temporal system
+				Location based services
+				Geographic information system
+				Sensor networks
+				Data streaming
+				Global positioning system
+			Decision support system
+				Data warehouses
+				Expert system
+				Data analytics
+				Online analytical processing
+			Mobile information processing system
+			Process control system
+			Multimedia information system
+				Multimedia database
+				Multimedia streaming
+				Multimedia content creation
+				Massively multiplayer online games
+			Data mining
+				Data cleaning
+				Collaborative filtering
+				Association rules
+				Clustering
+				Nearest-neighbor search
+				Data stream mining
+			Digital libraries and archives
+			Computational advertising
+			Computing platforms
+		World Wide Web
+			Web searching and information discovery
+				Web search engine
+					Web crawling
+					Web indexing
+					Page and site ranking
+					Spam detection
+					pagerank
+				Content ranking
+				Collaborative filtering
+				Social recommendation
+				Personalization
+				Social tagging
+			Online advertising
+				Sponsored search advertising
+				Content match advertising
+				Display advertising
+				Social advertising
+			Web mining
+				Site wrapping
+				Data extraction and integration
+					Deep web
+					Surfacing
+					Search result deduplication
+				Web log analysis
+				Traffic analysis
+			Web application
+				Internet communications tools
+					Email
+					Blogs
+					Texting
+					Chat
+					Web conferencing
+				Social networks
+				Crowdsourcing
+					Answer ranking
+					Trust
+					Incentive schemes
+					Reputation system
+				Electronic commerce
+					Digital cash
+					E-commerce infrastructure
+					Electronic data interchange
+					Electronic funds transfer
+					Online shopping
+					Online banking
+					Secure online transactions
+					Online auctions
+			Web interface
+				Wikis
+				Browsers
+				Mashups
+			Web services
+				Simple Object Access Protocol
+					SOAP
+				RESTful web services
+				Web Services Description Language
+					WSDL
+				Universal Description Discovery and Integration
+					UDDI
+				Service discovery and interface
+			Web data description language
+				Semantic web description language
+					Resource Description Framework
+						RDF
+					Web Ontology Language
+						OWL
+				Markup language
+					Extensible Markup Language
+						XML
+					Hypertext language
+		Information retrieval
+			Document representation
+				Document structure
+				Document topic model
+				Content analysis and feature selection
+				Data encoding and canonicalization
+				Document collection model
+				Ontologies
+				Dictionaries
+				Thesauri
+			Information retrieval query processing
+				Query representation
+				Query intent
+				Query log analysis
+				Query suggestion
+				Query reformulation
+			Users and interactive retrieval
+				Personalization
+				Task model
+				Search interface
+				Collaborative search
+			Retrieval model and ranking
+				Rank aggregation
+				Probabilistic retrieval model
+				Language model
+				Similarity measures
+				Learning to rank
+				Combination, fusion and federated search
+				Information retrieval diversity
+				Top-k retrieval
+				Novelty in information retrieval
+			Retrieval tasks and goals
+				Question answering
+				Document filtering
+				Recommender system
+				Information extraction
+				Sentiment analysis
+				Expert search
+				Near-duplicate and plagiarism detection
+				Clustering and classification
+				Summarization
+				Business intelligence
+			Evaluation of retrieval result
+				Test collections
+				Relevance assessment
+				Retrieval effectiveness
+				Retrieval efficiency
+				Presentation of retrieval result
+			Search engine architecture and scalability
+				Search engine indexing
+				Search index compression
+				Distributed retrieval
+				Peer-to-peer retrieval
+				Retrieval on mobile devices
+				Adversarial retrieval
+				Link and co-citation analysis
+				Searching with auxiliary database
+			Specialized information retrieval
+				Structure and multilingual text search
+					Structured text search
+					Mathematics retrieval
+					Chemical and biochemical retrieval
+					Multilingual and cross-lingual retrieval
+				Multimedia and multimodal retrieval
+					Image search
+					Video search
+					Speech / audio search
+					Music retrieval
+				Environment-specific retrieval
+					Enterprise search
+					Desktop search
+					Web and social media search
+	Security and privacy
+		Cryptography
+			Key management
+			Public key (asymmetric) techniques
+				Digital signatures
+				Public key encryption
+			Symmetric cryptography and hash functions
+				Block and stream ciphers
+				Hash functions and message authentication codes
+			Cryptanalysis and other attacks
+			Information-theoretic techniques
+			Mathematical foundations of cryptography
+		Formal methods and theory of security
+			Trust framework
+			Security requirement
+			Formal security model
+			Logic and verification
+		Security services
+			Authentication
+				Biometrics
+				Graphical / visual passwords
+				Multi-factor authentication
+			Access control
+			Pseudonymity, anonymity and untraceability
+			Privacy-preserving protocol
+			Digital rights management
+			Authorization
+		malware mitigation
+			Malware
+		Intrusion detection
+			Intrusion detection system
+				Artificial immune system
+		anomaly detection
+			Social engineering attacks
+				Spoofing attacks
+				Phishing
+		Security in hardware
+			Tamper-proof and tamper-resistant design
+			Embedded system security
+			Hardware security implementation
+				Hardware-based security protocol
+			Hardware attacks and countermeasure
+				Malicious design modification
+				Side-channel analysis and countermeasure
+			Hardware reverse engineering
+		System security
+			Operating system security
+				Mobile platform security
+				Trusted computing
+				Virtualization and security
+			Browser security
+			Distributed system security
+			Information flow control
+			Denial-of-service attacks
+				 DoS 
+				 DDoS
+			Firewall
+			Vulnerability management
+				Penetration testing
+				Vulnerability scanners
+			File system security
+		Network security
+			Security protocol
+			Web protocol security
+			Mobile and wireless security
+			Denial-of-service attacks
+			Firewalls
+		Database and storage security
+			Data anonymization and sanitization
+			Management and querying of encrypted data
+			Information accountability and usage control
+			Database activity monitoring
+		Software and application security
+			Software security engineering
+			Web application security
+			Social network security and privacy
+			Domain-specific security and privacy architecture
+			Software reverse engineering
+		Human and societal aspects of security and privacy
+			Economics of security and privacy
+			Social aspects of security and privacy
+			Privacy protections
+			Usability in security and privacy
+	Human-centered computing
+		Human-computer interaction
+			 HCI
+			HCI design and evaluation methods
+				User model
+				User studies
+				Usability testing
+				Heuristic evaluations
+				Walkthrough evaluations
+				Laboratory experiments
+				Field studies
+			Interaction paradigms
+				Auditory interface
+				Hypertext / hypermedia
+				Mixed / augmented reality
+				Command line interface
+				Graphical user interface
+				Virtual reality
+				Web-based interaction
+				Natural language interface
+				Collaborative interaction
+			Interaction devices
+				Graphics input devices
+				Displays and imagers
+				Sound-based input / output
+				Keyboards
+				Pointing devices
+				Touch screens
+				Haptic devices
+			HCI theory, concepts and model
+			Interaction techniques
+				Auditory feedback
+				Text input
+				Pointing
+				Gestural input
+			Interactive system and tools
+				User interface management system
+				User interface programming
+				User interface toolkits
+			Empirical studies in HCI
+		Interaction design
+			Interaction design process and methods
+				User interface design
+				User centered design
+				Activity centered design
+				Scenario-based design
+				Participatory design
+				Contextual design
+				Interface design prototyping
+			Interaction design theory, concepts and paradigms
+			Empirical studies in interaction design
+			System and tools for interaction design
+				Wireframes
+		Collaborative and social computing
+			Collaborative and social computing theory, concepts and paradigms
+				Social content sharing
+				Collaborative content creation
+				Collaborative filtering
+				Social recommendation
+				Social networks
+				Social tagging
+				Computer supported cooperative work
+				Social engineering (social sciences)
+				Social navigation
+				Social media
+			Collaborative and social computing design and evaluation methods
+				Social network analysis
+				Ethnographic studies
+			Collaborative and social computing system and tools
+				Blogs
+				Wikis
+				Reputation system
+				Open source software
+				Social networking sites
+				Social tagging system
+				Synchronous editors
+				Asynchronous editors
+			Empirical studies in collaborative and social computing
+			Collaborative and social computing devices
+		Ubiquitous and mobile computing
+			Ubiquitous and mobile computing theory, concepts and paradigms
+				Ubiquitous computing
+				Mobile computing
+				Ambient intelligence
+			Ubiquitous and mobile computing system and tools
+			Ubiquitous and mobile devices
+				Smartphones
+				Interactive whiteboards
+				Mobile phones
+				Mobile devices
+				Portable media players
+				Personal digital assistants
+				Handheld game consoles
+				E-book readers
+				Tablet computers
+			Ubiquitous and mobile computing design and evaluation methods
+			Empirical studies in ubiquitous and mobile computing
+		Visualization
+			Visualization techniques
+				Treemaps
+				Hyperbolic trees
+				Heat maps
+				Graph drawings
+				Dendrograms
+				Cladograms
+			Visualization application domains
+				Scientific visualization
+				Visual analytics
+				Geographic visualization
+				Information visualization
+			Visualization system and tools
+				Visualization toolkits
+			Visualization theory, concepts and paradigms
+			Empirical studies in visualization
+			Visualization design and evaluation methods
+		Accessibility
+			Accessibility theory, concepts and paradigms
+			Empirical studies in accessibility
+			Accessibility design and evaluation methods
+			Accessibility technologies
+			Accessibility system and tools
+	Computing methodologies
+		Symbolic and algebraic manipulation
+			Symbolic and algebraic algorithm
+				Combinatorial algorithm
+				Algebraic algorithm
+				Nonalgebraic algorithm
+				Symbolic calculus algorithm
+				Exact arithmetic algorithm
+				Hybrid symbolic-numeric methods
+				Discrete calculus algorithm
+				Number theory algorithm
+				Equation and inequality solving algorithm
+				Linear algebra algorithm
+				Theorem proving algorithm
+				Boolean algebra algorithm
+				Optimization algorithm
+			Computer algebra system
+				Special-purpose algebraic system
+			Representation of mathematical objects
+				Representation of exact numbers
+				Representation of mathematical functions
+				Representation of Boolean functions
+				Representation of polynomials
+		Parallel computing methodologies
+			Parallel algorithm
+				MapReduce algorithm
+				Self-organization
+				Shared memory algorithm
+				Vector / streaming algorithm
+				Massively parallel algorithm
+			Parallel programming language
+		Artificial intelligence
+			 AI
+			Natural language processing
+				Information extraction
+				Machine translation
+				Discourse
+				dialogue
+				pragmatic
+				Natural language generation
+				Speech recognition
+				Lexical semantic
+				Phonology / morphology
+				Language resources
+			Knowledge representation
+				Description logics
+				Semantic networks
+				Nonmonotonic reasoning
+				default reasoning
+				belief revision
+				Probabilistic reasoning
+				Vagueness and fuzzy logic
+				Causal reasoning
+				causal diagnostics
+				Temporal reasoning
+				Cognitive robotics
+				Ontology engineering
+				Logic programming
+				answer set programming
+				Spatial reasoning
+				physical reasoning
+				Reasoning about belief and knowledge
+			Planning and scheduling
+				Planning for deterministic actions
+				Planning under uncertainty
+				Multi-agent planning
+				Planning with abstraction and generalization
+				Robotic planning
+					Evolutionary robotics
+			Search methodologies
+				Heuristic function construction
+				Discrete space search
+				Continuous space search
+				Randomized search
+				Game tree search
+				Abstraction and micro-operators
+				Search with partial observations
+			Control methods
+				Robotic planning
+					Evolutionary robotics
+				Computational control theory
+				Motion path planning
+			Philosophical foundations of artificial intelligence
+			theoretical foundations of artificial intelligence
+				Cognitive science
+				Theory of mind
+			Distributed artificial intelligence
+				Multi-agent system
+				Intelligent agent
+				Mobile agent
+				Cooperation and coordination
+			Computer vision
+				Computer vision tasks
+					Biometrics
+					Scene understanding
+					Activity recognition and understanding
+					Video summarization
+					Visual content-based indexing and retrieval
+					Visual inspection
+					Vision for robotics
+					Scene anomaly detection
+				Image and video acquisition
+					Camera calibration
+					Epipolar geometry
+					Computational photography
+					Hyperspectral imaging
+					Motion capture
+					3D imaging
+					Active vision
+				Computer vision representation
+					Image representation
+					Shape representation
+					Appearance and texture representation
+					Hierarchical representation
+				Computer vision problems
+					Interest point and salient region detection
+					Image segmentation
+					Video segmentation
+					Shape inference
+					Object detection
+					Object recognition
+					Object identification
+					Tracking
+					Reconstruction
+					Matching
+		Machine learning
+			Learning paradigms
+				Supervised learning
+					Ranking
+					Learning to rank
+					classification
+					regression
+					Structured output
+					Cost-sensitive learning
+				Unsupervised learning
+					Cluster analysis
+					Anomaly detection
+					Mixture modeling
+					Topic modeling
+					Source separation
+					Motif discovery
+					Dimensionality reduction
+					manifold learning
+				Reinforcement learning
+					Sequential decision making
+					Inverse reinforcement learning
+					Apprenticeship learning
+					Multi-agent reinforcement learning
+					Adversarial learning
+				Multi-task learning
+					Transfer learning
+					Lifelong machine learning
+					Learning under covariate shift
+			Learning settings
+				Batch learning
+				Online learning settings
+				Learning from demonstrations
+				Learning from critiques
+				Learning from implicit feedback
+				Active learning settings
+				Semi-supervised learning settings
+			Machine learning approaches
+				Classification and regression trees
+				Kernel methods
+					Support vector machines
+					Gaussian processes
+				Neural networks
+					Deep Learning
+					Deep Neural Network
+				Logical and relational learning
+					Inductive logic learning
+					Statistical relational learning
+				Learning in probabilistic graphical model
+					Maximum likelihood modeling
+					Maximum entropy modeling
+					Maximum a posteriori modeling
+					Mixture model
+					Latent variable model
+					Bayesian network model
+				Learning linear model
+					Perceptron algorithm
+				Factorization methods
+					Non-negative matrix factorization
+					Factor analysis
+					Principal component analysis
+					Canonical correlation analysis
+					Latent Dirichlet allocation
+				Rule learning
+				Instance-based learning
+				Markov decision processes
+				Partially-observable Markov decision processes
+				Stochastic games
+				Learning latent representation
+					Deep belief networks
+				Bio-inspired approaches
+					Artificial life
+					Evolvable hardware
+					Genetic algorithm
+					Genetic programming
+					Evolutionary robotics
+					Generative and developmental approaches
+			Machine learning algorithm
+				Dynamic programming for Markov decision processes
+					Value iteration
+					Q-learning
+					Policy iteration
+					Temporal difference learning
+					Approximate dynamic programming methods
+				Ensemble methods
+					Boosting
+					Bagging
+				Spectral methods
+				Feature selection
+				Regularization
+			Cross-validation
+		Modeling and simulation
+			Model development and analysis
+				Modeling methodologies
+				Model verification and validation
+				Uncertainty quantification
+			Simulation theory
+				System theory
+				Network science
+			Simulation types and techniques
+				Uncertainty quantification
+				Quantum mechanic simulation
+				Molecular simulation
+				Rare-event simulation
+				Discrete-event simulation
+				Agent / discrete model
+				Distributed simulation
+				Continuous simulation
+				Continuous model
+				Real-time simulation
+				Interactive simulation
+				Multiscale system
+				Massively parallel and high-performance simulations
+				Data assimilation
+				Scientific visualization
+				Visual analytics
+				Simulation by animation
+				Artificial life
+			Simulation support system
+				Simulation environment
+				Simulation language
+				Simulation tools
+			Simulation evaluation
+		Computer graphics
+			Animation
+				Motion capture
+				Procedural animation
+				Physical simulation
+				Motion processing
+				Collision detection
+			Rendering
+				Rasterization
+				Ray tracing
+				Non-photorealistic rendering
+				Reflectance modeling
+				Visibility
+			Image manipulation
+				Computational photography
+				Image processing
+				Texturing
+				Image-based rendering
+				Antialiasing
+			Graphics system and interface
+				Graphics processors
+				Graphics input devices
+				Mixed / augmented reality
+				Perception
+				Graphics file formats
+				Virtual reality
+			Image compression
+			Shape modeling
+				Mesh model
+				Mesh geometry model
+				Parametric curve and surface model
+				Point-based model
+				Volumetric model
+				Shape analysis
+		Distributed computing methodologies
+			Distributed algorithm
+				MapReduce algorithm
+				Self-organization
+			Distributed programming language
+		Concurrent computing methodologies
+			Concurrent programming language
+			Concurrent algorithm

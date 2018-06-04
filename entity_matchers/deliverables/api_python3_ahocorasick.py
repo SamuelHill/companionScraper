@@ -3,7 +3,9 @@ import json
 import codecs
 import os.path
 import ahocorasick
-import api_python3_interests_and_related
+import api_python3_interests_and_related as iar
+
+data_directory='data/'
 
 def getAutomation(path):
 	A = ahocorasick.Automaton()
@@ -22,7 +24,6 @@ def findTheNeedles(A, haystack):
 	output = set()
 	for end_index, (insert_order, original_value) in A.iter(haystack):
 		start_index = end_index - len(original_value) + 1
-		# print((start_index, end_index, (insert_order, original_value)))
 		assert haystack[start_index:start_index + len(original_value)] == original_value
 		output.add(original_value)
 	return list(output)
@@ -37,18 +38,19 @@ def reconstructConceptList(output_file_path, input_file_path):
 		o.write(output)
 
 def createAutomations(is_reconstructing):
-	if is_reconstructing or not os.path.isfile('inputs/concept_list_cs.txt'):
-		reconstructConceptList('inputs/concept_list_cs.txt', 'inputs/concept_hierarchy_cs.txt')
-		reconstructConceptList('inputs/concept_list_ce.txt', 'inputs/concept_hierarchy_ce.txt')
-		reconstructConceptList('inputs/concept_list_ee.txt', 'inputs/concept_hierarchy_ee.txt')
-		reconstructConceptList('inputs/concept_list_math.txt', 'inputs/concept_hierarchy_math.txt')
-		reconstructConceptList('inputs/concept_list_other.txt', 'inputs/concept_hierarchy_other.txt')
-		# reconstructConceptList('inputs/concept_list_additional.txt', 'inputs/concept_hierarchy_additional.txt')
+	if is_reconstructing or not os.path.isfile(data_directory+'concept_list_cs.txt'):
+		reconstructConceptList(data_directory+'concept_list_cs.txt', data_directory+'concept_hierarchy_cs.txt')
+		reconstructConceptList(data_directory+'concept_list_ce.txt', data_directory+'concept_hierarchy_ce.txt')
+		reconstructConceptList(data_directory+'concept_list_ee.txt', data_directory+'concept_hierarchy_ee.txt')
+		reconstructConceptList(data_directory+'concept_list_math.txt', data_directory+'concept_hierarchy_math.txt')
+		reconstructConceptList(data_directory+'concept_list_other.txt', data_directory+'concept_hierarchy_other.txt')
+		if os.path.isfile(data_directory+'concept_list_additional.txt'):
+			reconstructConceptList(data_directory+'concept_list_additional.txt', data_directory+'concept_hierarchy_additional.txt')
 	output = {}
-	output['CS'] = getAutomation('inputs/concept_list_cs.txt')
-	output['CE'] = getAutomation('inputs/concept_list_ce.txt')
-	output['EE'] = getAutomation('inputs/concept_list_ee.txt')
-	output['Math'] = getAutomation('inputs/concept_list_math.txt')
+	output['CS'] = getAutomation(data_directory+'concept_list_cs.txt')
+	output['CE'] = getAutomation(data_directory+'concept_list_ce.txt')
+	output['EE'] = getAutomation(data_directory+'concept_list_ee.txt')
+	output['Math'] = getAutomation(data_directory+'concept_list_math.txt')
 	return output
 
 def matchFacultyInterests(automatons, name, interests):
@@ -113,13 +115,16 @@ def get_possible_relevant_topics_from_host_interests(faculty_name, event_title, 
 #################################################
 ### Setup
 
-def get_meld_string(rebuildKeywords, faculty_name, event_name, event_desc):
+def setup_automations(rebuildKeywords):
 	# fixed setup
 	if rebuildKeywords:
-		trial_interests_and_related.reloadKeyWords(rebuildKeywords)
-	automations = createAutomations(rebuildKeywords)
-	matchedFacultyInterests = getCuratedFacultyInterestList(automations, 'inputs/curated_faculty_interests.jl')
+		iar.reloadKeyWords()
+	return createAutomations(rebuildKeywords)
 
+def setup_faculty_interests(automations):
+	return getCuratedFacultyInterestList(automations, data_directory+'curated_faculty_interests.jl')
+
+def get_meld_string(automations, matchedFacultyInterests, rebuildKeywords, faculty_name, event_name, event_desc):
 	# processing
 	event_title = re.sub('[ \t/]+', '', event_name.title())+'-event'
 	output_txt = '(in-microtheory NuEventMt)\n'

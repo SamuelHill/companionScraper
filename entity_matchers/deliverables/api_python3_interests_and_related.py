@@ -1,17 +1,9 @@
 import json
 import codecs
 import sys
-# sys.path.append('..')
-import api_python3_writers
+import api_python3_writers as Writers
 
-
-# data = []
-# with codecs.open('inputs/curated_faculty_interests.jl', mode='r', encoding='ascii') as f:
-#	 for line in f:
-#	 i = json.loads(line)
-#	 # print i
-#	 print i["name"], i["interests"]
-
+data_directory='data/'
 
 def processDoc(output, relative_file_path):
 	with codecs.open(relative_file_path, mode='r', encoding='ascii') as f:
@@ -72,8 +64,11 @@ def loadTermsMappingFromFile(relative_file_path):
 	return output
 
 def reloadKeyWords():
-	inputs = ['inputs/concept_hierarchy_cs.txt', 'inputs/concept_hierarchy_ce.txt', 'inputs/concept_hierarchy_ee.txt', 'inputs/concept_hierarchy_math.txt']
-	appendTermsMappingToFile('inputs/interest_keyword_dump.txt', inputs)
+	inputs = [data_directory+'concept_hierarchy_cs.txt', 
+			  data_directory+'concept_hierarchy_ce.txt', 
+			  data_directory+'concept_hierarchy_ee.txt', 
+			  data_directory+'concept_hierarchy_math.txt']
+	appendTermsMappingToFile(data_directory+'interest_keyword_dump.txt', inputs)
 
 def main():
 	reloadKeyWords()
@@ -81,4 +76,4 @@ def main():
 if __name__ == "__main__":
 	main()
 
-# print loadTermsMappingFromFile('inputs/interest_keyword_dump.txt')
+# print loadTermsMappingFromFile('data/interest_keyword_dump.txt')
