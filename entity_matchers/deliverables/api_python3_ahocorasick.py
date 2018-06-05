@@ -124,7 +124,7 @@ def setup_automations(rebuildKeywords):
 def setup_faculty_interests(automations):
 	return getCuratedFacultyInterestList(automations, data_directory+'curated_faculty_interests.jl')
 
-automations = setup_automations(True)
+automations = setup_automations(False)
 matchedFacultyInterests = setup_faculty_interests(automations)
 
 def reload():
@@ -138,8 +138,11 @@ def get_meld_string(automations, matchedFacultyInterests, rebuildKeywords, facul
 	# processing
 	event_title = re.sub('[ \t/]+', '', event_name.title())+'-event'
 	output_txt = '(in-microtheory NuEventMt)\n'
-	output_txt += get_possible_relevant_topics_from_host_interests(faculty_name, event_title, matchedFacultyInterests)
-	output_txt += matchSeminarTopics(automations, event_title, event_desc)
+	try:
+		output_txt += get_possible_relevant_topics_from_host_interests(faculty_name, event_title, matchedFacultyInterests)
+		output_txt += matchSeminarTopics(automations, event_title, event_desc)
+	except Exception:
+		pass
 	return output_txt
 
 def process_json_request(json_in_text):
@@ -149,6 +152,9 @@ def process_json_request(json_in_text):
     desc = json_coll['description']
     response_txt = get_meld_string(automations, matchedFacultyInterests, False, faculty, title, desc)
     return response_txt
+
+#################################################
+### Testing
 
 def main():
 	print(get_meld_string(False, 'Ken Forbus', 'Machines As Thought Partners', 'AI systems should not only propose solutions or answers but also explain why they make sense. Statistical machine learning is a powerful tool for discovering patterns in data, but, Dr. Ferrucci asks, can it produce understanding or enable humans to justify and take reasoned responsibility for individual outcomes? Dr. Ferrucci will also include an overview of Elemental Cognition, his company that is focused on creating AI systems that autonomously learn from human language and interaction to become powerful and fluent thought partners that facilitate complex decision making. Specifically, Elemental Cognition investigates a future in which AI is a powerful amplifier of human creativity-a system that leverages statistical machine learning but focuses primarily on a type of learning that enables humans and machines to share an understanding and collaborate on exploring the question, "Why?"'))
