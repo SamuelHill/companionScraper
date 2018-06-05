@@ -5,39 +5,56 @@ curl -X POST -d "<Faculty Name|||Event Title|||Event Description> localhost:8081
 
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import api_python3_ahocorasick as aho
+import json
+ 
+class HTTP_Handler(BaseHTTPRequestHandler):
 
-class pythonHTTPServer_RequestHandler(BaseHTTPRequestHandler):
+  helpMessage = "Usage: \n $ curl -d '{\"faculty\":\"<faculty_name>\",\"title\":\"<title>\",\"description\":\"<abstract>\"}' localhost:<port>/event_interests\n $ curl localhost:<port>/reload\nDefault port: 8081\n"
 
-  automations = aho.setup_automations(True)
-  matchedFacultyInterests = aho.setup_faculty_interests(automations)
-
-  def _set_response(self):
+  def _set_default_response(self):
     self.send_response(200)
     self.send_header('Content-type', 'text/html')
     self.end_headers()
 
-  def _create_response_message(self):
-    content_length = 0
-    if self.headers['Content-Length']:
-      content_length = int(self.headers['Content-Length'])
-
-    array = self.rfile.read(content_length).decode('utf-8').split('|||')
+  def _interest_handling(self):
     response_txt = ''
-    if len(array) == 3:
-      response_txt = aho.get_meld_string(self.automations, self.matchedFacultyInterests, False, array[0], array[1], array[2])
+    try:
+        content_length = int(self.headers['Content-Length'])
+        content = self.rfile.read(content_length).decode('utf-8')
+        response_txt = aho.process_json_request(content)
+    except Exception as e:
+        self.send_response(400)
+        return response_txt
     return response_txt
 
+  def _reload_request(self):
+    try:
+        aho.reload()
+        return "Done.\n"
+    except Exception as e:
+        return str(e) + "\nReload failed."
+
+  def _route_request_handling(self):
+    self._set_default_response()
+    response = None
+    if self.path == '/event_interests':
+        response = self._interest_handling()
+    elif self.path == '/reload':
+        response = self._reload_request()
+    else:
+        response = HTTP_Handler.helpMessage
+    self.wfile.write(bytes(response, "utf-8"))
+    return
+
   def do_GET(self):
-    self._set_response()
-    self.wfile.write(bytes(self._create_response_message(), "utf-8"))
+    self._route_request_handling()
     return
 
   def do_POST(self):
-    self._set_response()
-    self.wfile.write(bytes(self._create_response_message(), "utf-8"))
+    self._route_request_handling()
     return
 
-def run(server_class=HTTPServer, handler_class=pythonHTTPServer_RequestHandler, port=8081):
+def run(server_class=HTTPServer, handler_class=HTTP_Handler, port=8081):
     server_address = ('', port)
     httpd = server_class(server_address, handler_class)
     print('Starting python-side server at %d...' % (port))
