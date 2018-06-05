@@ -1,15 +1,11 @@
-'''
-Querying: 
-curl -X POST -d "<Faculty Name|||Event Title|||Event Description> localhost:8081"
-'''
-
 from http.server import BaseHTTPRequestHandler, HTTPServer
 import api_python3_ahocorasick as aho
+import traceback
 import json
  
 class HTTP_Handler(BaseHTTPRequestHandler):
 
-  helpMessage = "Usage: \n $ curl -d '{\"faculty\":\"<faculty_name>\",\"title\":\"<title>\",\"description\":\"<abstract>\"}' localhost:<port>/event_interests\n $ curl localhost:<port>/reload\nDefault port: 8081\n"
+  helpMessage = "Usage: \n $ curl localhost:<port>/event_interests -d '{\"faculty\":\"<name>\",\"title\":\"<title>\",\"desc\":\"<abstract>\"[,\"save_path\":\"<path/name>\"]}'\n $ curl localhost:<port>/reload\nDefault port: 8081\n"
 
   def _set_default_response(self):
     self.send_response(200)
@@ -24,7 +20,8 @@ class HTTP_Handler(BaseHTTPRequestHandler):
         response_txt = aho.process_json_request(content)
     except Exception as e:
         self.send_response(400)
-        return response_txt
+        traceback.print_exc()
+        return str(e) + '\n'
     return response_txt
 
   def _reload_request(self):

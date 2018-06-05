@@ -140,18 +140,30 @@ def get_meld_string(automations, matchedFacultyInterests, rebuildKeywords, facul
 	output_txt = '(in-microtheory NuEventMt)\n'
 	try:
 		output_txt += get_possible_relevant_topics_from_host_interests(faculty_name, event_title, matchedFacultyInterests)
+	except Exception as e:
+		pass
+	try:
 		output_txt += matchSeminarTopics(automations, event_title, event_desc)
-	except Exception:
+	except Exception as e:
 		pass
 	return output_txt
 
 def process_json_request(json_in_text):
-    json_coll = json.loads(json_in_text)
-    faculty = json_coll['faculty']
-    title = json_coll['title']
-    desc = json_coll['description']
-    response_txt = get_meld_string(automations, matchedFacultyInterests, False, faculty, title, desc)
-    return response_txt
+	# '{"faculty":"<name>","title":"<title>","desc":"<abstract>"[,"save_path":"<path/name>"]}'
+	json_coll = json.loads(json_in_text)
+	faculty = json_coll['faculty'] if 'faculty' in json_coll else None
+	title = json_coll['title'] if 'title' in json_coll else None
+	desc = json_coll['desc'] if 'desc' in json_coll else None
+	save_loc_name = json_coll['save_path'] if 'save_path' in json_coll else None
+	response_txt = None
+	if save_loc_name is not None:
+		meld = get_meld_string(automations, matchedFacultyInterests, False, faculty, title, desc)
+		with open(save_loc_name, 'w') as out_file:
+			out_file.write(meld)
+		response_txt = 'Meld output saved to: ' + save_loc_name + '\n'
+	else:
+		response_txt = get_meld_string(automations, matchedFacultyInterests, False, faculty, title, desc)
+	return response_txt
 
 #################################################
 ### Testing
