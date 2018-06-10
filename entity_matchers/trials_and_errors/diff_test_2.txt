@@ -1,0 +1,5 @@
+(in-microtheroy diff_test)
+(isa something-event BigEvent)
+(isa something-else-event SmallEvent)
+(isa something-event yoyoyo)
+(isa something-else-event BYOBEvent)

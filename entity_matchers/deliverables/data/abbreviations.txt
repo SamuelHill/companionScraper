@@ -1,0 +1,9 @@
+cs	computer science
+ce	computer engineering
+ee	electrical engineering
+ ai	artificial intelligence
+ ml	machine learning
+ hci	human-computer interaction
+ hpc	high-performance computing
+ ic	integrated circuit
+owl	Web Ontology Language

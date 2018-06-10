@@ -832,7 +832,7 @@ Computer Science
 					Resource Description Framework
 						RDF
 					Web Ontology Language
-						OWL
+						 OWL
 				Markup language
 					Extensible Markup Language
 						XML
