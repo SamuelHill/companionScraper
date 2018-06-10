@@ -20,6 +20,9 @@ class Writer(metaclass=ABCMeta):
 	def clear(self):
 		print('Cleared')
 
+'''
+A simple JSON object creator. 
+'''
 class JSONWriter(Writer):
 	def __init__(self):
 		self.outputStr = ''

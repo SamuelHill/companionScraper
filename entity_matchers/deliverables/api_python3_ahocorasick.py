@@ -10,6 +10,11 @@ data_directory='data/'
 #################################################
 ### Utility Functions
 
+'''
+Load a keyword file and create an Aho-Corasick keyword matching automation.
+The keywords are expected to be in the same line and are separated by tabs.
+Returns the newly created automation
+'''
 def createSingleAutomation(file_name):
 	A = ahocorasick.Automaton()
 
@@ -23,6 +28,9 @@ def createSingleAutomation(file_name):
 	A.make_automaton()
 	return A
 
+'''
+Return a list of distinct keyword matches
+'''
 def matchKeywordsWithAutomation(A, string):
 	output = set()
 	for end_index, (insert_order, original_value) in A.iter(string):
@@ -31,6 +39,12 @@ def matchKeywordsWithAutomation(A, string):
 		output.add(original_value)
 	return list(output)
 
+'''
+Take a keyword taxonomy file and turn it into the appropriate tab-separated inputs required by function 'createSingleAutomation'. 
+The levels of specialization for the keywords are denoted by the number of tabs precede the keyword. 
+Short terms like 'ai' are preceded with a single space character, i.e. ' ai'
+See README for more detail
+'''
 def reconstructConceptList(input_file_name):
 	output = ''
 	with codecs.open(data_directory+input_file_name, mode='r', encoding='utf-8') as f:
@@ -40,6 +54,9 @@ def reconstructConceptList(input_file_name):
 	with open(data_directory+'list_form_'+input_file_name, 'w') as o:
 		o.write(output)
 
+'''
+Construct all automations needed for matching interests and return a dictionary that contain each one, marked by the category of the automation. 
+'''
 def createAutomationsForInterests(is_reconstructing):
 	if is_reconstructing or not os.path.isfile(data_directory+'list_form_concept_hierarchy_cs.txt'):
 		reconstructConceptList('concept_hierarchy_cs.txt')
@@ -57,13 +74,9 @@ def createAutomationsForInterests(is_reconstructing):
 		output['EECS_additional'] = createSingleAutomation('list_form_concept_hierarchy_additional.txt')
 	return output
 
-def matchFacultyInterests(automatons, name, interests):
-	string = str(interests)
-	output = []
-	for k in automatons:
-		output.extend(matchKeywordsWithAutomation(automatons[k], string))
-	return output
-
+'''
+Resolve abbreviations. Will turn ' ai' into 'artificial intelligence'
+'''
 def toFullTerms(domain, text):
 	if domain not in abbreviationResolver:
 		return text
@@ -71,14 +84,25 @@ def toFullTerms(domain, text):
 		return text
 	return abbreviationResolver[domain][text]
 
+'''
+Load curated list of interests for EECS faculties, match their interests entries for keywords, and return the result faculty-interests dictionary
+'''
 def getCuratedFacultyInterestList(automations, name_of_the_jl_file):
 	output = {}
 	with codecs.open(data_directory+name_of_the_jl_file, mode='r', encoding='utf-8') as f:
 		for line in f:
 			i = json.loads(line)
-			output[str(i["name"])] = matchFacultyInterests(automations, i["name"], i["interests"])
+			interm_output = []
+			interests = str(i["interests"])
+			for k in automations:
+				interm_output.extend(matchKeywordsWithAutomation(automations[k], interests))
+			output[str(i["name"])] = interm_output
 	return output
 
+'''
+Return .meld-style statements in string that connects the event identifier symbol with known faculty interests.
+For every term contributed by the faculty, it also pulls in all generalized terms of it. For example, if the faculty member contributes the term 'network architecture', then 'networks' and 'computer science' will also be included. The terms from this example is drawn from the taxonomy file 'concept_hierarchy_cs.txt'.
+'''
 def get_possible_relevant_topics_from_host_interests(faculty_name, title, facultyInterestDict, expander):
 	output_txt = ''
 	if faculty_name is not None:
@@ -95,6 +119,10 @@ def get_possible_relevant_topics_from_host_interests(faculty_name, title, facult
 			output_txt += '(hasPossibleTopic {} {})\n'.format(title,txt) 
 	return output_txt
 
+'''
+Concatenate the event title and abstract and match keywords on the result. 
+The matched terms will pull in all generalized terms of it. For example, if the term 'network architecture' is matched, then 'networks' and 'computer science' will also be included. The terms from this example is drawn from the taxonomy file 'concept_hierarchy_cs.txt'.
+'''
 def matchEventTopics(automatons, expander, topic_type, entry_format_string, topic_sufix, title, abstract):
 	string = str((title + abstract).lower())
 	output_txt = ''
@@ -154,7 +182,11 @@ def setup_abbreviation_resolver(domain, file_name, output):
 			output[domain][terms[0]] = terms[1]
 	return output
 
+'''
+Recreate all interests parts of the interests module from scratch. Must be done after editing the taxonomy, abbreviation, or faculty interests files after the interests module is booted.
+'''
 def reload():
+	abbreviationResolver = setup_abbreviation_resolver('interests', 'abbreviations.txt',{})
 	automations = setup_automations(True)
 	matchedFacultyInterests = setup_faculty_interests(automations)
 	interestExpansion = setup_interest_topic_matching(True)
@@ -167,6 +199,10 @@ abbreviationResolver = setup_abbreviation_resolver('interests', 'abbreviations.t
 #################################################
 ### Interest Processing
 
+'''
+Creates a .meld-style string that connects all topics of interests to the event. 
+If a desirable match is not found, please update the training data files.
+'''
 def get_meld_string(faculty_name, event_name, event_desc):
 	event_title = re.sub('[ \t/]+', '', event_name.title())+'-Event'
 	output_txt = '(in-microtheory NuEventMt)\n'
@@ -183,8 +219,12 @@ def get_meld_string(faculty_name, event_name, event_desc):
 #################################################
 ### Interest Processing From JSON Query String
 
+'''
+Take a JSON string in the form of: 
+{"faculty":"<name>","title":"<title>","desc":"<abstract>"[,"save_path":"<path/name>"]}
+And calls get_meld_string with its content. If "save_path" is specified, the .meld-style string will be saved as a meld file in the location specified.
+'''
 def process_json_request(json_in_text):
-	# '{"faculty":"<name>","title":"<title>","desc":"<abstract>"[,"save_path":"<path/name>"]}'
 	json_coll = json.loads(json_in_text)
 	faculty = json_coll['faculty'] if 'faculty' in json_coll else None
 	title = json_coll['title'] if 'title' in json_coll else None
@@ -202,6 +242,10 @@ def process_json_request(json_in_text):
 
 #################################################
 ### Special Topics 
+
+'''
+Code in this section extends the interest matching capability to other keyword matching scenarios with similar output requirement. This is not part of the main deliverables but it might be useful for others in the future. The function "demo_specialty_meld_string" contains a demo of how to use it. 
+'''
 
 special_automations = {}
 special_topic_meld_head = {}
@@ -236,9 +280,16 @@ def get_specialty_meld_string(domain, event_name, event_desc):
 		print(e)
 	return output_txt
 
+def demo_specialty_meld_string():
+	add_automation('food','a_food','concept_hierarchy_food.txt')
+	add_special_topics('food','(in-microtheory NuEventMt)\n','-Event')
+	add_special_topics_expander('food', ['concept_hierarchy_food.txt'], 'food_keyword_dump.txt', True)
+	add_entry_format_and_suffix('food', '(hasFoodType {} {})\n', '-FoodTag')
+	return get_specialty_meld_string('food', 'EECS FREE Bagels & Coffee in the Ford 3rd floor Student Lounge (SW corner), Fri 6/1', 'Please join GEECS and EECS for free Panera bagels and gourmet coffee Friday, 6/1 @ 9:30 am in the Ford 3rd floor Student Lounge (SW corner). We look forward to seeing you!')
+
 
 #################################################
-### Testing
+### Demos
 
 def main():
 	reload()
@@ -246,11 +297,7 @@ def main():
 
 	print(process_json_request('{"faculty":"Ken Forbus","title":"Machines As Thought Partners","desc":"AI systems should not only propose solutions or answers but also explain why they make sense. Statistical machine learning is a powerful tool for discovering patterns in data, but, Dr. Ferrucci asks, can it produce understanding or enable humans to justify and take reasoned responsibility for individual outcomes? Dr. Ferrucci will also include an overview of Elemental Cognition, his company that is focused on creating AI systems that autonomously learn from human language and interaction to become powerful and fluent thought partners that facilitate complex decision making. Specifically, Elemental Cognition investigates a future in which AI is a powerful amplifier of human creativity-a system that leverages statistical machine learning but focuses primarily on a type of learning that enables humans and machines to share an understanding and collaborate on exploring the question, \\"Why?\\""}'))
 	
-	add_automation('food','a_food','concept_hierarchy_food.txt')
-	add_special_topics('food','(in-microtheory NuEventMt)\n','-Event')
-	add_special_topics_expander('food', ['concept_hierarchy_food.txt'], 'food_keyword_dump.txt', True)
-	add_entry_format_and_suffix('food', '(hasFoodType {} {})\n', '-FoodTag')
-	print (get_specialty_meld_string('food', 'EECS FREE Bagels & Coffee in the Ford 3rd floor Student Lounge (SW corner), Fri 6/1', 'Please join GEECS and EECS for free Panera bagels and gourmet coffee Friday, 6/1 @ 9:30 am in the Ford 3rd floor Student Lounge (SW corner). We look forward to seeing you!'))
+	print(demo_specialty_meld_string())
 
 if __name__ == "__main__":
 	main()

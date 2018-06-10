@@ -5,6 +5,9 @@ import api_python3_writers as Writers
 
 data_directory='data/'
 
+'''
+Process a single taxonomy file and put the result in 'output'
+'''
 def processDoc(output, relative_file_path):
 	with codecs.open(relative_file_path, mode='r', encoding='utf-8') as f:
 		previous_level = 0
@@ -28,14 +31,16 @@ def processDoc(output, relative_file_path):
 			last = ls
 			previous_level = current_level
 
-def appendTermsMappingToFile(relative_output_file_name, relative_input_file_name):
+'''
+Recreate the interest-generalization mapping from the taxonomy files.
+'inputs' must be a list of file names stored in 'data_directory'
+'dump_name' is the desired file name of the output
+'''
+def reloadKeyWords(inputs, dump_name):
 	output = {}
 
-	for rel in relative_input_file_name:
+	for rel in inputs:
 		processDoc(output, data_directory+rel)
-
-	# for k in output:
-	# 	print output[k]
 
 	writer = Writers.JSONWriter()
 
@@ -52,9 +57,13 @@ def appendTermsMappingToFile(relative_output_file_name, relative_input_file_name
 		output2 += writer.output() + '\n'
 		writer.clear()
 
-	with open(data_directory+relative_output_file_name, 'w') as outfile:
+	with open(data_directory+dump_name, 'w') as outfile:
 		outfile.write(output2)
 
+'''
+Load the constructed file into a dictionary. 
+Mainly for debugging purpose.
+'''
 def loadTermsMappingFromFile(relative_file_path):
 	output = {}
 	with codecs.open(relative_file_path, mode='r', encoding='ascii') as f:
@@ -63,9 +72,6 @@ def loadTermsMappingFromFile(relative_file_path):
 			output[str(i["entry"])] = [str(x) for x in i["related"]]
 	return output
 
-def reloadKeyWords(inputs, dump_name):
-	appendTermsMappingToFile(dump_name, inputs)
-
 def main():
 	inputs = ['concept_hierarchy_cs.txt', 
 			  'concept_hierarchy_ce.txt', 
@@ -73,8 +79,7 @@ def main():
 			  'concept_hierarchy_math.txt',
 			  'concept_hierarchy_other.txt']
 	reloadKeyWords(inputs, 'interest_keyword_dump.txt')
+	# print loadTermsMappingFromFile('data/interest_keyword_dump.txt')
 
 if __name__ == "__main__":
 	main()
-
-# print loadTermsMappingFromFile('data/interest_keyword_dump.txt')
