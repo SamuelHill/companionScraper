@@ -1,0 +1,115 @@
+Brenna Argall --- robot autonomy and low level motion control, machine learning 
+
+Koray Aydin --- plasmonics, optical metamaterials, and semiconductor nanophotonics 
+
+Randall A. Berry --- Wireless communication, data networking, and information theory 
+
+Larry Birnbaum --- Systems, artificial intelligence, human-computer interaction, natural language processing, semantics 
+
+Fabian Bustamante --- Experimental systems, with a focus on operating systems, distributed and parallel computing 
+
+Arthur R. Butz --- Digital signal processing, median and related filtering 
+
+Yan Chen --- Computer networking and large-scale distributed systems, network measurement, diagnosis, and security, overlay and peer-to-peer systems 
+
+Alok Choudhary --- High-performance computing and storage, compiler and runtime systems for HPC and embedded power-aware systems, parallel data mining and databases 
+
+Oliver Cossairt --- Optics, computer vision and computer graphics. 
+
+Peter Dinda --- Distributed systems, distributed interactive applications, networking, resource demand and availability prediction, performance analysis, statistical analysis and prediction 
+
+Douglas Downey --- Natural language processing, machine learning, and artificial intelligence, using the Web to support the automatic construction of large and useful knowledge bases. 
+
+Robby Findler --- Formal methods of software design, and in particular contracts, or dynamically enforced interface specifications. 
+
+Kenneth Forbus --- Qualitative physics, analogical reasoning and learning, cognitive simulation, sketching as an interface modality, AI-based articulate virtual laboratories and modeling environments for education, computer game design 
+
+Randy Freeman --- Nonlinear control systems, robust control, adaptive control, optimal control, game theory 
+
+Matthew Grayson --- Spintronics with GaAs holes, manipulation of the valley index in AlAs nanodevices, and one-dimensional transport in novel quantum wires 
+
+Dongning Guo --- Wireless communications, information theory, communication networks, signal processing 
+
+Abraham H. Haddad --- Stochastic systems, modeling, estimation, detection, nonlinear filtering, singular perturbation, applications to communications and control 
+
+Kristian Hammond --- Science of case-based reasoning - understanding the role of examples and experience in reasoning; how encapsulated experience, or cases, can be used to inform planning, problem solving, and the control of action; how examples can be used in information retrieval and in communicating preferences to a machine 
+
+Nikos Hardavellas --- Multicore and multiprocessor architecture, memory systems, database systems, data-intensive high-performance computing 
+
+Jason D. Hartline --- Algorithmic mechanism design, algorithmic game theory, distributed algorithms, randomized algorithms, competitive analysis, data structures, machine learning theory, auction theory, microeconomics, economic theory 
+
+Lawrence J. Henschen --- Wireless sensor networks and programming; human-computer interaction (HCI) and universal access; document format systems and interoperability 
+
+Seng-Tiong Ho --- Photonic device integration, DWDM chip technology, IV-V device modeling, nanoscale photonic device technology, micro-optics technology, organics and inorganics electro-optic modulators, quantum and non-linear optics 
+
+Michael Honig --- Digital communications, wireless communications, networks, signal processing 
+
+Michael Horn --- Human-computer interaction and education and innovative uses of emerging technologies in learning settings 
+
+Ian Horswill --- Autonomous agents, robotics and computer vision, cognitive architecture and situated agency and biological modeling 
+
+Russ Joseph --- Computer architecture and power-aware computer systems including techniques for monitoring, characterizing, and optimizing performance and power consumption 
+
+Ming-Yang Kao --- Design, analysis, applications and implementation of algorithms, specific application areas include: computational biology, computational finance, and e-commerce. Specific algorithm areas include: combinatorial optimization, online computing, and parallel computing 
+
+Aggelos K. Katsaggelos --- Image and video recovery and compression, multimedia signal processing, computational vision, image and video restoration 
+
+Prem Kumar --- Quantum and nonlinear optics, laser and atomic physics, fiber-optic communications, networks 
+
+Aleksandar Kuzmanovic --- High-speed networks, network security, multimedia communication, resource management and control in large-scale networks, network measurement and analysis 
+
+Chung-Chieh Lee --- Digital communications, communication network performance modeling and analysis, distributed multi-sensor detection and estimation 
+
+Wei-Chung Lin --- Computer vision, pattern recognition, neural networks, and computer graphics 
+
+Chang Liu --- Sensors and sensing technology, micro and nanofabrication 
+
+Gokhan Memik --- Computer Architecture, embedded systems, compilers, design automation 
+
+Seda Ogrenci Memik --- Computer-aided design for VLSI, reconfigurable 
+
+computing, synthesis for programmable systems 
+
+Hooman Mohseni --- Low-dimensional devices, quantum dots, nano-photonics, novel opto-electronic devices, novel integration methods for photonic integration circuits (PIC), advanced optical modulators 
+
+Thrasyvoulos Pappas --- Image processing, multi-dimensional signal processing 
+
+Bryan Pardo --- Application of machine learning, probabilistic natural language processing, computer music, and search techniques to auditory user interfaces for HCI 
+
+Morteza Rahimi --- fiber-optic networks 
+
+Manijeh Razeghi --- Compound semiconductor science and technology; theory, epitaxy, characterization, modeling and fabrication of quantum structures and devices operating from ultraviolet (200 nm) up to terahertz (100 micron) 
+
+Christopher Riesbeck --- Educational change through the development of tools for authoring and delivering interactive learning scenarios, and tools for asynchronous efficient high-quality mentoring 
+
+Alan V. Sahakian --- Instrumentation, signal and image processing for medical and aerospace applications, automatic detection and treatment of atrial cardiac arrhythmias by implanted devices 
+
+Kemi Jona --- Online learning, virtual schools, technologies to support online learning and collaboration, online laboratory science course design, corporate e-learning strategy and design 
+
+Wei-Keng Liao --- High-performance computing systems, parallel input/output system design, implementation and evaluation of radar signal processing applications on HPC systems 
+
+Ryan McClintock --- Wide Band-Gap III-Nitride Semiconductors, Solar-Blind Photodetectors and UV Avalanche Photodiodes, Focal Plane Array Imaging Technology, Deep UV LEDs and UV Lasers 
+
+Steven Slivken --- Growth and fabrication of III-V semiconductors for use in optoelectronic devices, including quantum cascade lasers, QWIPs, type-II InAs/GaSb lasers/detectors, and quantum dot lasers/detectors 
+
+Peter Scheuermann --- Physical database design, pictorial databases, parallel I/O systems, parallel algorithms for data-intensive applications, distributed database systems 
+
+Selim M. Shahriar --- Applications of optically induced spin transitions, nanolithography, optical data storage, and optical phase conjugation 
+
+Allen Taflove --- Theory and applications of computational electrodynamics, especially finite-difference time-domain (FDTD) solutions of Maxwell’s equations 
+
+Goce Trajcevski --- Mobile Data Management and Moving Objects Databases (MOD), Data Management in Sensor Networks, and Reactive Behavior in Dynamic and Distributed Environments 
+
+Jack Tumblin --- Human visual perception of intensity, movement, form and color; computer graphics; visual appearance; surface modeling; computational geometry; image-based rendering; image processing; and computer vision 
+
+Uri Wilensky --- Multi-agent modeling, modeling and simulation, networked simulation environments, parallel algorithms 
+
+Chi-haur Wu --- Robotics, CAD/CAM, industrial control applications, automated manufacturing, neural networks, computer graphics and images, automated medical instrumentations, surgical robot systems 
+
+Ying Wu --- Computer vision and graphics, image and video processing, vision-based human-computer interaction, machine learning and pattern recognition, multimedia, multimodal human-computer interactions, virtual environments, robotics 
+
+Horace P. Yuen --- Optical communication, theoretical quantum optics, measurement theory, physical cryptography 
+
+Haoqi Zhang --- Advancing our ability to design and study social and economic systems on the Web to promote desired participant behaviors and outcomes 
+
+Hai Zhou --- VLSI design automation including physical design, logic synthesis, and formal verification 

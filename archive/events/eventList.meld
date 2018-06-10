@@ -1,0 +1,317 @@
+(isa Phase2IntrotoPhase2TuesdayMay12018Allday  NUEvent)
+(eventName Phase2IntrotoPhase2TuesdayMay12018Allday  "Phase 2: Intro to Phase 2")
+(dateOfEvent Phase2IntrotoPhase2TuesdayMay12018Allday  "Tuesday, May 1, 2018 All day  ")
+
+(isa Phase3IntrotoPhase3TuesdayMay12018Allday  NUEvent)
+(eventName Phase3IntrotoPhase3TuesdayMay12018Allday  "Phase 3: Intro to Phase 3")
+(dateOfEvent Phase3IntrotoPhase3TuesdayMay12018Allday  "Tuesday, May 1, 2018 All day  ")
+
+(isa TheyDemandedCourageouslyThe1968NorthwesternBursar’sOfficeTakeoverTuesdayMay12018Allday  NUEvent)
+(eventName TheyDemandedCourageouslyThe1968NorthwesternBursar’sOfficeTakeoverTuesdayMay12018Allday  "They Demanded Courageously: The 1968 Northwestern Bursar’s Office Takeover")
+(eventLocale TheyDemandedCourageouslyThe1968NorthwesternBursar’sOfficeTakeoverTuesdayMay12018Allday  "Deering Library, 1937 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent TheyDemandedCourageouslyThe1968NorthwesternBursar’sOfficeTakeoverTuesdayMay12018Allday  "Tuesday, May 1, 2018 All day  ")
+
+(isa TheyDemandedCourageouslyThe1968NorthwesternBursar’sOfficeTakeoverTuesdayMay12018Allday  NUEvent)
+(eventName TheyDemandedCourageouslyThe1968NorthwesternBursar’sOfficeTakeoverTuesdayMay12018Allday  "They Demanded Courageously: The 1968 Northwestern Bursar’s Office Takeover")
+(eventLocale TheyDemandedCourageouslyThe1968NorthwesternBursar’sOfficeTakeoverTuesdayMay12018Allday  "Deering Library, 1937 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent TheyDemandedCourageouslyThe1968NorthwesternBursar’sOfficeTakeoverTuesdayMay12018Allday  "Tuesday, May 1, 2018 All day  ")
+
+(isa CycleExpress610amTuesdayMay12018600AM645AM  NUEvent)
+(eventName CycleExpress610amTuesdayMay12018600AM645AM  "Cycle Express 6:10am")
+(eventLocale CycleExpress610amTuesdayMay12018600AM645AM  "Henry Crown Sports Pavilion, Cycle Studio, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent CycleExpress610amTuesdayMay12018600AM645AM  "Tuesday, May 1, 2018 6:00 AM - 6:45 AM  ")
+
+(isa SunriseYogaTuesdayMay12018700AM800AM  NUEvent)
+(eventName SunriseYogaTuesdayMay12018700AM800AM  "Sunrise Yoga")
+(eventLocale SunriseYogaTuesdayMay12018700AM800AM  "Henry Crown Sports Pavilion, Studio 2, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent SunriseYogaTuesdayMay12018700AM800AM  "Tuesday, May 1, 2018 7:00 AM - 8:00 AM  ")
+
+(isa MedicalGrandRoundsTuesdayMay12018730AM830AM  NUEvent)
+(eventName MedicalGrandRoundsTuesdayMay12018730AM830AM  "Medical Grand Rounds")
+(eventLocale MedicalGrandRoundsTuesdayMay12018730AM830AM  "Northwestern Memorial Hospital Feinberg Pavilion, 3rd Floor Conference Room A, 251 E. Huron, Chicago, IL 60611")
+(dateOfEvent MedicalGrandRoundsTuesdayMay12018730AM830AM  "Tuesday, May 1, 2018 7:30 AM - 8:30 AM  ")
+
+(isa PediatricFirmRoundsTuesdayMay12018800AM900AM  NUEvent)
+(eventName PediatricFirmRoundsTuesdayMay12018800AM900AM  "Pediatric Firm Rounds")
+(dateOfEvent PediatricFirmRoundsTuesdayMay12018800AM900AM  "Tuesday, May 1, 2018 8:00 AM - 9:00 AM  ")
+
+(isa ZumbaGoldTuesdayMay12018830AM900AM  NUEvent)
+(eventName ZumbaGoldTuesdayMay12018830AM900AM  "Zumba Gold")
+(eventLocale ZumbaGoldTuesdayMay12018830AM900AM  "Henry Crown Sports Pavilion, Studio 1AB, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent ZumbaGoldTuesdayMay12018830AM900AM  "Tuesday, May 1, 2018 8:30 AM - 9:00 AM  ")
+
+(isa ApplicationWorkshopforFulbrightStudyResearchTuesdayMay12018900AM1000AM  NUEvent)
+(eventName ApplicationWorkshopforFulbrightStudyResearchTuesdayMay12018900AM1000AM  "Application Workshop for Fulbright Study/Research")
+(eventLocale ApplicationWorkshopforFulbrightStudyResearchTuesdayMay12018900AM1000AM  "1940 Sheridan Road, Conference Room, Evanston, IL 60208")
+(dateOfEvent ApplicationWorkshopforFulbrightStudyResearchTuesdayMay12018900AM1000AM  "Tuesday, May 1, 2018 9:00 AM - 10:00 AM  ")
+
+(isa FromtheEfficientExplorationoftheHighEntropyAlloySpacetoPathPlanninginFunctionallyGradedMaterialsAlloyDesignasaConstraintSatisfactionProblemTuesdayMay12018930AM1030AM  NUEvent)
+(eventName FromtheEfficientExplorationoftheHighEntropyAlloySpacetoPathPlanninginFunctionallyGradedMaterialsAlloyDesignasaConstraintSatisfactionProblemTuesdayMay12018930AM1030AM  "From the Efficient Exploration of the High Entropy Alloy Space to Path Planning in Functionally Graded Materials: Alloy Design as a Constraint Satisfaction Problem")
+(eventLocale FromtheEfficientExplorationoftheHighEntropyAlloySpacetoPathPlanninginFunctionallyGradedMaterialsAlloyDesignasaConstraintSatisfactionProblemTuesdayMay12018930AM1030AM  "O. T. Hogan Biological Sciences Building, CHiMaD Headquarters, Hogan Building, Suite 1160, 2205 Tech Drive, Evanston, IL 60208")
+(dateOfEvent FromtheEfficientExplorationoftheHighEntropyAlloySpacetoPathPlanninginFunctionallyGradedMaterialsAlloyDesignasaConstraintSatisfactionProblemTuesdayMay12018930AM1030AM  "Tuesday, May 1, 2018 9:30 AM - 10:30 AM  ")
+
+(isa ExperimentsinFormSamGilliamAlanShieldsFrankStellaTuesdayMay120181000AM500PM  NUEvent)
+(eventName ExperimentsinFormSamGilliamAlanShieldsFrankStellaTuesdayMay120181000AM500PM  "Experiments in Form: Sam Gilliam, Alan Shields, Frank Stella")
+(eventLocale ExperimentsinFormSamGilliamAlanShieldsFrankStellaTuesdayMay120181000AM500PM  "Block Museum of Art, Mary and Leigh, 40 Arts Circle Drive, Evanston, IL 60208")
+(dateOfEvent ExperimentsinFormSamGilliamAlanShieldsFrankStellaTuesdayMay120181000AM500PM  "Tuesday, May 1, 2018 10:00 AM - 5:00 PM  ")
+
+(isa HankWillisThomasUnbrandedTuesdayMay120181000AM500PM  NUEvent)
+(eventName HankWillisThomasUnbrandedTuesdayMay120181000AM500PM  "Hank Willis Thomas: Unbranded")
+(eventLocale HankWillisThomasUnbrandedTuesdayMay120181000AM500PM  "Block Museum of Art, Mary and Leigh, 40 Arts Circle Drive, Evanston, IL 60208")
+(dateOfEvent HankWillisThomasUnbrandedTuesdayMay120181000AM500PM  "Tuesday, May 1, 2018 10:00 AM - 5:00 PM  ")
+
+(isa REDCapOfficeHoursTuesdayMay120181000AM1200PM  NUEvent)
+(eventName REDCapOfficeHoursTuesdayMay120181000AM1200PM  "REDCap Office Hours")
+(eventLocale REDCapOfficeHoursTuesdayMay120181000AM1200PM  "Ward Building, Galter Health Sciences Library, Rm. 01-407, 303 E. Chicago Avenue, Chicago, IL 60611")
+(dateOfEvent REDCapOfficeHoursTuesdayMay120181000AM1200PM  "Tuesday, May 1, 2018 10:00 AM - 12:00 PM  ")
+
+(isa IEMSSeminarNonsmoothNonconvexOptimizationAlgorithmsandExamplesTuesdayMay120181100AM1200PM  NUEvent)
+(eventName IEMSSeminarNonsmoothNonconvexOptimizationAlgorithmsandExamplesTuesdayMay120181100AM1200PM  "IEMS Seminar: Nonsmooth, Nonconvex Optimization: Algorithms and Examples")
+(eventLocale IEMSSeminarNonsmoothNonconvexOptimizationAlgorithmsandExamplesTuesdayMay120181100AM1200PM  "Technological Institute, M228, 2145 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent IEMSSeminarNonsmoothNonconvexOptimizationAlgorithmsandExamplesTuesdayMay120181100AM1200PM  "Tuesday, May 1, 2018 11:00 AM - 12:00 PM  ")
+
+(isa BIDSSeminarLazaroNelsonSanchezPintoFacultyResearchDatadrivenPhenotypingofPediatricMultipleOrganDysfunctionSyndromeTuesdayMay120181200PM100PM  NUEvent)
+(eventName BIDSSeminarLazaroNelsonSanchezPintoFacultyResearchDatadrivenPhenotypingofPediatricMultipleOrganDysfunctionSyndromeTuesdayMay120181200PM100PM  "BIDS Seminar: Lazaro (Nelson) Sanchez-Pinto - Faculty Research (Data-driven Phenotyping of Pediatric Multiple Organ Dysfunction Syndrome)")
+(eventLocale BIDSSeminarLazaroNelsonSanchezPintoFacultyResearchDatadrivenPhenotypingofPediatricMultipleOrganDysfunctionSyndromeTuesdayMay120181200PM100PM  "Arthur Rubloff Building, Lakeview Conference Room (11th Floor), 750 N Lake Shore Dr, Chicago, IL 60611")
+(dateOfEvent BIDSSeminarLazaroNelsonSanchezPintoFacultyResearchDatadrivenPhenotypingofPediatricMultipleOrganDysfunctionSyndromeTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa CycleExpress1210pmTuesdayMay120181200PM1245PM  NUEvent)
+(eventName CycleExpress1210pmTuesdayMay120181200PM1245PM  "Cycle Express 12:10pm")
+(eventLocale CycleExpress1210pmTuesdayMay120181200PM1245PM  "Henry Crown Sports Pavilion, Cycle Studio, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent CycleExpress1210pmTuesdayMay120181200PM1245PM  "Tuesday, May 1, 2018 12:00 PM - 12:45 PM  ")
+
+(isa ENERGYMeetingTuesdayMay120181200PM100PM  NUEvent)
+(eventName ENERGYMeetingTuesdayMay120181200PM100PM  "ENERGY Meeting")
+(eventLocale ENERGYMeetingTuesdayMay120181200PM100PM  "McGaw Pavilion, Room 2-321, 240 E. Huron, Chicago, IL 60611")
+(dateOfEvent ENERGYMeetingTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa FacultyLunchSeminarEmilyWeissTuesdayMay120181200PM100PM  NUEvent)
+(eventName FacultyLunchSeminarEmilyWeissTuesdayMay120181200PM100PM  "Faculty Lunch Seminar: Emily Weiss")
+(eventLocale FacultyLunchSeminarEmilyWeissTuesdayMay120181200PM100PM  "Technological Institute, K140, 2145 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent FacultyLunchSeminarEmilyWeissTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa FulbrightETAInformationSessionTuesdayMay120181200PM100PM  NUEvent)
+(eventName FulbrightETAInformationSessionTuesdayMay120181200PM100PM  "Fulbright ETA Information Session")
+(eventLocale FulbrightETAInformationSessionTuesdayMay120181200PM100PM  "1940 Sheridan Road, Conference Room, Evanston, IL 60208")
+(dateOfEvent FulbrightETAInformationSessionTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa HathaYogaTuesdayMay120181200PM100PM  NUEvent)
+(eventName HathaYogaTuesdayMay120181200PM100PM  "Hatha Yoga")
+(eventLocale HathaYogaTuesdayMay120181200PM100PM  "Henry Crown Sports Pavilion, Studio 2, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent HathaYogaTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa MicrobiologyImmunologyDepartmentBeatrizMAFontouraPhDTuesdayMay120181200PM100PM  NUEvent)
+(eventName MicrobiologyImmunologyDepartmentBeatrizMAFontouraPhDTuesdayMay120181200PM100PM  "Microbiology-Immunology Department: Beatriz M. A.  Fontoura, PhD")
+(eventLocale MicrobiologyImmunologyDepartmentBeatrizMAFontouraPhDTuesdayMay120181200PM100PM  "Robert H Lurie Medical Research Center, Baldwin Auditorium, 303 E. Superior, Chicago, IL 60611")
+(dateOfEvent MicrobiologyImmunologyDepartmentBeatrizMAFontouraPhDTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa NMHMedicalEthicsGrandRoundsNursingEthicsEthicsofCareorMoralDistressMoralRelilienceTuesdayMay120181200PM100PM  NUEvent)
+(eventName NMHMedicalEthicsGrandRoundsNursingEthicsEthicsofCareorMoralDistressMoralRelilienceTuesdayMay120181200PM100PM  "NMH Medical Ethics Grand Rounds - Nursing Ethics (Ethics of Care or Moral Distress/Moral Relilience)")
+(eventLocale NMHMedicalEthicsGrandRoundsNursingEthicsEthicsofCareorMoralDistressMoralRelilienceTuesdayMay120181200PM100PM  "Northwestern Memorial Hospital Feinberg Pavilion, 3rd floor, Pritzker Auditorium, 251 E. Huron, Chicago, IL 60611")
+(dateOfEvent NMHMedicalEthicsGrandRoundsNursingEthicsEthicsofCareorMoralDistressMoralRelilienceTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa PulmonaryCriticalCareMedicineFellowsCoreConferenceTuesdayMay120181200PM100PM  NUEvent)
+(eventName PulmonaryCriticalCareMedicineFellowsCoreConferenceTuesdayMay120181200PM100PM  "Pulmonary & Critical Care Medicine - Fellows' Core Conference")
+(eventLocale PulmonaryCriticalCareMedicineFellowsCoreConferenceTuesdayMay120181200PM100PM  "McGaw Pavilion, Mezzanine Level, M201 North Conference Room, 240 E. Huron, Chicago, IL 60611")
+(dateOfEvent PulmonaryCriticalCareMedicineFellowsCoreConferenceTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa RheumatologyGrandRoundsTuesdayMay120181200PM100PM  NUEvent)
+(eventName RheumatologyGrandRoundsTuesdayMay120181200PM100PM  "Rheumatology Grand Rounds")
+(eventLocale RheumatologyGrandRoundsTuesdayMay120181200PM100PM  "259 E. Erie, Patient Education Room located at Lavin Family Pavilion, 13th Floor, Room 13-104, Chicago, IL 60611")
+(dateOfEvent RheumatologyGrandRoundsTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa TheImperativeofProprietySyrians’BurialCrisisinLebanonandtheMobilizingPowerofDeathTuesdayMay120181200PM100PM  NUEvent)
+(eventName TheImperativeofProprietySyrians’BurialCrisisinLebanonandtheMobilizingPowerofDeathTuesdayMay120181200PM100PM  "The Imperative of Propriety: Syrians’ Burial Crisis in Lebanon and the Mobilizing Power of Death")
+(eventLocale TheImperativeofProprietySyrians’BurialCrisisinLebanonandtheMobilizingPowerofDeathTuesdayMay120181200PM100PM  "1902 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent TheImperativeofProprietySyrians’BurialCrisisinLebanonandtheMobilizingPowerofDeathTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa ThePreventionScienceMethodologyGroupPSMGVirtualGrandRoundsImplementationMethodsSeriesByronJPowellPhDTuesdayMay120181200PM130PM  NUEvent)
+(eventName ThePreventionScienceMethodologyGroupPSMGVirtualGrandRoundsImplementationMethodsSeriesByronJPowellPhDTuesdayMay120181200PM130PM  "The Prevention Science & Methodology Group (PSMG) Virtual Grand Rounds - Implementation Methods Series: Byron J. Powell, PhD")
+(eventLocale ThePreventionScienceMethodologyGroupPSMGVirtualGrandRoundsImplementationMethodsSeriesByronJPowellPhDTuesdayMay120181200PM130PM  "Online")
+(dateOfEvent ThePreventionScienceMethodologyGroupPSMGVirtualGrandRoundsImplementationMethodsSeriesByronJPowellPhDTuesdayMay120181200PM130PM  "Tuesday, May 1, 2018 12:00 PM - 1:30 PM  ")
+
+(isa TuesdayIDLectureEgonOzerMDCNSInfectionsTuesdayMay120181200PM100PM  NUEvent)
+(eventName TuesdayIDLectureEgonOzerMDCNSInfectionsTuesdayMay120181200PM100PM  "Tuesday ID Lecture- Egon Ozer, MD: CNS Infections")
+(eventLocale TuesdayIDLectureEgonOzerMDCNSInfectionsTuesdayMay120181200PM100PM  "645 N. Michigan Avenue, Suite 900, Large Conference Room, Chicago, IL 60611")
+(dateOfEvent TuesdayIDLectureEgonOzerMDCNSInfectionsTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa WERQTuesdayMay120181200PM100PM  NUEvent)
+(eventName WERQTuesdayMay120181200PM100PM  "WERQ!")
+(eventLocale WERQTuesdayMay120181200PM100PM  "Henry Crown Sports Pavilion, Studio 1AB, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent WERQTuesdayMay120181200PM100PM  "Tuesday, May 1, 2018 12:00 PM - 1:00 PM  ")
+
+(isa PrasenjitDUARAlectureonChinaandIndiaCCHSTuesdayMay120181215PM200PM  NUEvent)
+(eventName PrasenjitDUARAlectureonChinaandIndiaCCHSTuesdayMay120181215PM200PM  "Prasenjit DUARA lecture on China and India (CCHS)")
+(eventLocale PrasenjitDUARAlectureonChinaandIndiaCCHSTuesdayMay120181215PM200PM  "Harris Hall, 108 (Leopold Room), 1881 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent PrasenjitDUARAlectureonChinaandIndiaCCHSTuesdayMay120181215PM200PM  "Tuesday, May 1, 2018 12:15 PM - 2:00 PM  ")
+
+(isa LunchLearnMeghanAnzelcChiefAnalyticsOfficerAXISCapitalTuesdayMay120181230PM130PM  NUEvent)
+(eventName LunchLearnMeghanAnzelcChiefAnalyticsOfficerAXISCapitalTuesdayMay120181230PM130PM  "Lunch & Learn: Meghan Anzelc (Chief Analytics Officer, AXIS Capital)")
+(eventLocale LunchLearnMeghanAnzelcChiefAnalyticsOfficerAXISCapitalTuesdayMay120181230PM130PM  "2010 Sheridan Road, 101, Evanston, IL 60208")
+(dateOfEvent LunchLearnMeghanAnzelcChiefAnalyticsOfficerAXISCapitalTuesdayMay120181230PM130PM  "Tuesday, May 1, 2018 12:30 PM - 1:30 PM  ")
+
+(isa MothersDayCraftsTuesdayMay120181230PM1000PM  NUEvent)
+(eventName MothersDayCraftsTuesdayMay120181230PM1000PM  "Mother's Day Crafts")
+(eventLocale MothersDayCraftsTuesdayMay120181230PM1000PM  "Norris University Center, ARTica Studios, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent MothersDayCraftsTuesdayMay120181230PM1000PM  "Tuesday, May 1, 2018 12:30 PM - 10:00 PM  ")
+
+(isa RhetoricalConstructionofSolidarityinMahāyānaSūtraLiteratureorYoureSoVainYouProbablyThinkThisSūtraIsAboutYouTuesdayMay120181230PM200PM  NUEvent)
+(eventName RhetoricalConstructionofSolidarityinMahāyānaSūtraLiteratureorYoureSoVainYouProbablyThinkThisSūtraIsAboutYouTuesdayMay120181230PM200PM  "Rhetorical Construction of Solidarity in Mahāyāna Sūtra Literature, or: You're So Vain, You Probably Think This Sūtra Is About You:")
+(eventLocale RhetoricalConstructionofSolidarityinMahāyānaSūtraLiteratureorYoureSoVainYouProbablyThinkThisSūtraIsAboutYouTuesdayMay120181230PM200PM  "Kresge Hall, Trienen Forum 1515, 1880 Campus Drive, Evanston, IL 60208")
+(dateOfEvent RhetoricalConstructionofSolidarityinMahāyānaSūtraLiteratureorYoureSoVainYouProbablyThinkThisSūtraIsAboutYouTuesdayMay120181230PM200PM  "Tuesday, May 1, 2018 12:30 PM - 2:00 PM  ")
+
+(isa NeurobiologySeminarSeriesStevenASiegelbaumColumbiaUniversityTuesdayMay120181245PM145PM  NUEvent)
+(eventName NeurobiologySeminarSeriesStevenASiegelbaumColumbiaUniversityTuesdayMay120181245PM145PM  "Neurobiology Seminar Series | Steven A. Siegelbaum (Columbia University)")
+(eventLocale NeurobiologySeminarSeriesStevenASiegelbaumColumbiaUniversityTuesdayMay120181245PM145PM  "Pancoe-NSUHS Life Sciences Pavilion, Pancoe Auditorium, 2200 Campus Drive, Evanston, IL 60208")
+(dateOfEvent NeurobiologySeminarSeriesStevenASiegelbaumColumbiaUniversityTuesdayMay120181245PM145PM  "Tuesday, May 1, 2018 12:45 PM - 1:45 PM  ")
+
+(isa MindfulnessMeditationArtisticMeditationTuesdayMay12018130PM200PM  NUEvent)
+(eventName MindfulnessMeditationArtisticMeditationTuesdayMay12018130PM200PM  "Mindfulness Meditation: Artistic Meditation")
+(eventLocale MindfulnessMeditationArtisticMeditationTuesdayMay12018130PM200PM  "Abbott Hall, Suite 1400, 710 N. Lake Shore Drive, Chicago, IL 60611")
+(dateOfEvent MindfulnessMeditationArtisticMeditationTuesdayMay12018130PM200PM  "Tuesday, May 1, 2018 1:30 PM - 2:00 PM  ")
+
+(isa SpringQuarterExpressAdvisingTuesdayMay12018200PM400PM  NUEvent)
+(eventName SpringQuarterExpressAdvisingTuesdayMay12018200PM400PM  "Spring Quarter Express Advising")
+(eventLocale SpringQuarterExpressAdvisingTuesdayMay12018200PM400PM  "University Library, 1970 Campus Drive, Evanston, IL 60208")
+(dateOfEvent SpringQuarterExpressAdvisingTuesdayMay12018200PM400PM  "Tuesday, May 1, 2018 2:00 PM - 4:00 PM  ")
+
+(isa GraduateLearningandTeachingSymposiumTuesdayMay12018300PM500PM  NUEvent)
+(eventName GraduateLearningandTeachingSymposiumTuesdayMay12018300PM500PM  "Graduate Learning and Teaching Symposium")
+(eventLocale GraduateLearningandTeachingSymposiumTuesdayMay12018300PM500PM  "John Evans Center, 1800 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent GraduateLearningandTeachingSymposiumTuesdayMay12018300PM500PM  "Tuesday, May 1, 2018 3:00 PM - 5:00 PM  ")
+
+(isa LecturesinLifeSciencesLLSDouglasGreenTuesdayMay12018330PM430PM  NUEvent)
+(eventName LecturesinLifeSciencesLLSDouglasGreenTuesdayMay12018330PM430PM  "Lectures in Life Sciences (LLS)  Douglas Green")
+(eventLocale LecturesinLifeSciencesLLSDouglasGreenTuesdayMay12018330PM430PM  "Wieboldt Hall North Entrance, Wieboldt 147, 339 E Chicago Ave, Chicago, IL 60611")
+(dateOfEvent LecturesinLifeSciencesLLSDouglasGreenTuesdayMay12018330PM430PM  "Tuesday, May 1, 2018 3:30 PM - 4:30 PM  ")
+
+(isa MensBaseballvsChicagoStateTuesdayMay12018330PM630PM  NUEvent)
+(eventName MensBaseballvsChicagoStateTuesdayMay12018330PM630PM  "Men's Baseball vs Chicago State")
+(eventLocale MensBaseballvsChicagoStateTuesdayMay12018330PM630PM  "Rocky and Berenice Miller Park, 2751 Ashland Avenue, Evanston, IL 60208")
+(dateOfEvent MensBaseballvsChicagoStateTuesdayMay12018330PM630PM  "Tuesday, May 1, 2018 3:30 PM - 6:30 PM  ")
+
+(isa TheoryBagLunchTuesdayMay12018330PM500PM  NUEvent)
+(eventName TheoryBagLunchTuesdayMay12018330PM500PM  "Theory Bag Lunch")
+(eventLocale TheoryBagLunchTuesdayMay12018330PM500PM  "Kellogg Global Hub, 5101, 2211 Campus Drive, Evanston, IL 60208")
+(dateOfEvent TheoryBagLunchTuesdayMay12018330PM500PM  "Tuesday, May 1, 2018 3:30 PM - 5:00 PM  ")
+
+(isa ForumLanguageTablesArabicChineseHebrewHindiUrduItalianKoreanPersianTuesdayMay12018400PM500PM  NUEvent)
+(eventName ForumLanguageTablesArabicChineseHebrewHindiUrduItalianKoreanPersianTuesdayMay12018400PM500PM  "Forum Language Tables: Arabic, Chinese, Hebrew, Hindi-Urdu, Italian, Korean & Persian")
+(eventLocale ForumLanguageTablesArabicChineseHebrewHindiUrduItalianKoreanPersianTuesdayMay12018400PM500PM  "Allison Residential Community, Dining Hall, 1820 Chicago Avenue, Evanston, IL 60208")
+(dateOfEvent ForumLanguageTablesArabicChineseHebrewHindiUrduItalianKoreanPersianTuesdayMay12018400PM500PM  "Tuesday, May 1, 2018 4:00 PM - 5:00 PM  ")
+
+(isa IntermediateCeramicsSectionATuesdayMay12018400PM600PM  NUEvent)
+(eventName IntermediateCeramicsSectionATuesdayMay12018400PM600PM  "Intermediate Ceramics Section A")
+(eventLocale IntermediateCeramicsSectionATuesdayMay12018400PM600PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent IntermediateCeramicsSectionATuesdayMay12018400PM600PM  "Tuesday, May 1, 2018 4:00 PM - 6:00 PM  ")
+
+(isa JamesPennebakerTuesdayMay12018400PM530PM  NUEvent)
+(eventName JamesPennebakerTuesdayMay12018400PM530PM  "James Pennebaker")
+(eventLocale JamesPennebakerTuesdayMay12018400PM530PM  "Swift Hall, 107, 2029 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent JamesPennebakerTuesdayMay12018400PM530PM  "Tuesday, May 1, 2018 4:00 PM - 5:30 PM  ")
+
+(isa MSEColloquiumSeriesProfHaroldHwangStanfordUniversityTuesdayMay12018400PM500PM  NUEvent)
+(eventName MSEColloquiumSeriesProfHaroldHwangStanfordUniversityTuesdayMay12018400PM500PM  "MSE Colloquium Series: Prof. Harold Hwang - Stanford University")
+(eventLocale MSEColloquiumSeriesProfHaroldHwangStanfordUniversityTuesdayMay12018400PM500PM  "Technological Institute, L361, 2145 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent MSEColloquiumSeriesProfHaroldHwangStanfordUniversityTuesdayMay12018400PM500PM  "Tuesday, May 1, 2018 4:00 PM - 5:00 PM  ")
+
+(isa RachelSomervilleMomentumdrivenwindsfromradiativelyefficientblackholeaccretionandtheirimpactongalaxypropertiesTuesdayMay12018400PM500PM  NUEvent)
+(eventName RachelSomervilleMomentumdrivenwindsfromradiativelyefficientblackholeaccretionandtheirimpactongalaxypropertiesTuesdayMay12018400PM500PM  "Rachel Somerville: Momentum-driven winds from radiatively efficient black hole accretion and their impact on galaxy properties")
+(eventLocale RachelSomervilleMomentumdrivenwindsfromradiativelyefficientblackholeaccretionandtheirimpactongalaxypropertiesTuesdayMay12018400PM500PM  "Technological Institute, F160, 2145 Sheridan Road, Evanston, IL 60208")
+(dateOfEvent RachelSomervilleMomentumdrivenwindsfromradiativelyefficientblackholeaccretionandtheirimpactongalaxypropertiesTuesdayMay12018400PM500PM  "Tuesday, May 1, 2018 4:00 PM - 5:00 PM  ")
+
+(isa MarquetteUniversitySchoolofDentistryTuesdayMay12018500PM600PM  NUEvent)
+(eventName MarquetteUniversitySchoolofDentistryTuesdayMay12018500PM600PM  "Marquette University School of Dentistry")
+(eventLocale MarquetteUniversitySchoolofDentistryTuesdayMay12018500PM600PM  "1940 Sheridan Road, 1st Floor Conference Room, Evanston, IL 60208")
+(dateOfEvent MarquetteUniversitySchoolofDentistryTuesdayMay12018500PM600PM  "Tuesday, May 1, 2018 5:00 PM - 6:00 PM  ")
+
+(isa AshtangaYogaTuesdayMay12018530PM630PM  NUEvent)
+(eventName AshtangaYogaTuesdayMay12018530PM630PM  "Ashtanga Yoga")
+(eventLocale AshtangaYogaTuesdayMay12018530PM630PM  "Henry Crown Sports Pavilion, Studio 2, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent AshtangaYogaTuesdayMay12018530PM630PM  "Tuesday, May 1, 2018 5:30 PM - 6:30 PM  ")
+
+(isa BodyPumpTuesdayMay12018530PM630PM  NUEvent)
+(eventName BodyPumpTuesdayMay12018530PM630PM  "BodyPump")
+(eventLocale BodyPumpTuesdayMay12018530PM630PM  "Henry Crown Sports Pavilion, Studio 1AB, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent BodyPumpTuesdayMay12018530PM630PM  "Tuesday, May 1, 2018 5:30 PM - 6:30 PM  ")
+
+(isa BilliardsforBeginnersPoolSchoolTuesdayMay12018600PM800PM  NUEvent)
+(eventName BilliardsforBeginnersPoolSchoolTuesdayMay12018600PM800PM  "Billiards for Beginners: Pool School")
+(eventLocale BilliardsforBeginnersPoolSchoolTuesdayMay12018600PM800PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent BilliardsforBeginnersPoolSchoolTuesdayMay12018600PM800PM  "Tuesday, May 1, 2018 6:00 PM - 8:00 PM  ")
+
+(isa ImFirstKeynoteSpeakerDrSekileNzingaJohnsonTuesdayMay12018600PM800PM  NUEvent)
+(eventName ImFirstKeynoteSpeakerDrSekileNzingaJohnsonTuesdayMay12018600PM800PM  "I'm First Keynote Speaker - Dr. Sekile Nzinga-Johnson")
+(eventLocale ImFirstKeynoteSpeakerDrSekileNzingaJohnsonTuesdayMay12018600PM800PM  "Segal Visitors Center, 1841 Sheridan Rd, Evanston, IL 60208")
+(dateOfEvent ImFirstKeynoteSpeakerDrSekileNzingaJohnsonTuesdayMay12018600PM800PM  "Tuesday, May 1, 2018 6:00 PM - 8:00 PM  ")
+
+(isa IntroductiontoCartoonStorytellingTuesdayMay12018600PM730PM  NUEvent)
+(eventName IntroductiontoCartoonStorytellingTuesdayMay12018600PM730PM  "Introduction to Cartoon Storytelling")
+(eventLocale IntroductiontoCartoonStorytellingTuesdayMay12018600PM730PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent IntroductiontoCartoonStorytellingTuesdayMay12018600PM730PM  "Tuesday, May 1, 2018 6:00 PM - 7:30 PM  ")
+
+(isa SketchbookIGraphiteandCharcoalDrawingTuesdayMay12018600PM800PM  NUEvent)
+(eventName SketchbookIGraphiteandCharcoalDrawingTuesdayMay12018600PM800PM  "Sketchbook I: Graphite and Charcoal Drawing")
+(eventLocale SketchbookIGraphiteandCharcoalDrawingTuesdayMay12018600PM800PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent SketchbookIGraphiteandCharcoalDrawingTuesdayMay12018600PM800PM  "Tuesday, May 1, 2018 6:00 PM - 8:00 PM  ")
+
+(isa HipHopDanceTuesdayMay12018630PM830PM  NUEvent)
+(eventName HipHopDanceTuesdayMay12018630PM830PM  "Hip Hop Dance")
+(eventLocale HipHopDanceTuesdayMay12018630PM830PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent HipHopDanceTuesdayMay12018630PM830PM  "Tuesday, May 1, 2018 6:30 PM - 8:30 PM  ")
+
+(isa IntrotoGraphicDesignTuesdayMay12018630PM730PM  NUEvent)
+(eventName IntrotoGraphicDesignTuesdayMay12018630PM730PM  "Intro to Graphic Design")
+(eventLocale IntrotoGraphicDesignTuesdayMay12018630PM730PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent IntrotoGraphicDesignTuesdayMay12018630PM730PM  "Tuesday, May 1, 2018 6:30 PM - 7:30 PM  ")
+
+(isa BeginningCeramicsSectionBTuesdayMay12018700PM900PM  NUEvent)
+(eventName BeginningCeramicsSectionBTuesdayMay12018700PM900PM  "Beginning Ceramics Section B")
+(eventLocale BeginningCeramicsSectionBTuesdayMay12018700PM900PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent BeginningCeramicsSectionBTuesdayMay12018700PM900PM  "Tuesday, May 1, 2018 7:00 PM - 9:00 PM  ")
+
+(isa MindfulMeditationTuesdayMay12018700PM800PM  NUEvent)
+(eventName MindfulMeditationTuesdayMay12018700PM800PM  "Mindful Meditation")
+(eventLocale MindfulMeditationTuesdayMay12018700PM800PM  "Henry Crown Sports Pavilion, Studio 2, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent MindfulMeditationTuesdayMay12018700PM800PM  "Tuesday, May 1, 2018 7:00 PM - 8:00 PM  ")
+
+(isa WERQTuesdayMay12018700PM800PM  NUEvent)
+(eventName WERQTuesdayMay12018700PM800PM  "WERQ")
+(eventLocale WERQTuesdayMay12018700PM800PM  "Henry Crown Sports Pavilion, Studio 1AB, 2311 Campus Drive, Evanston, IL 60208")
+(dateOfEvent WERQTuesdayMay12018700PM800PM  "Tuesday, May 1, 2018 7:00 PM - 8:00 PM  ")
+
+(isa BeginningKnittingKnitaStripedScarfTuesdayMay12018730PM900PM  NUEvent)
+(eventName BeginningKnittingKnitaStripedScarfTuesdayMay12018730PM900PM  "Beginning Knitting: Knit a Striped Scarf")
+(eventLocale BeginningKnittingKnitaStripedScarfTuesdayMay12018730PM900PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent BeginningKnittingKnitaStripedScarfTuesdayMay12018730PM900PM  "Tuesday, May 1, 2018 7:30 PM - 9:00 PM  ")
+
+(isa WineAppreciationSectionATuesdayMay12018730PM900PM  NUEvent)
+(eventName WineAppreciationSectionATuesdayMay12018730PM900PM  "Wine Appreciation Section A")
+(eventLocale WineAppreciationSectionATuesdayMay12018730PM900PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent WineAppreciationSectionATuesdayMay12018730PM900PM  "Tuesday, May 1, 2018 7:30 PM - 9:00 PM  ")
+
+(isa SketchbookIIMixedMediaTuesdayMay12018800PM1000PM  NUEvent)
+(eventName SketchbookIIMixedMediaTuesdayMay12018800PM1000PM  "Sketchbook II: Mixed Media")
+(eventLocale SketchbookIIMixedMediaTuesdayMay12018800PM1000PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent SketchbookIIMixedMediaTuesdayMay12018800PM1000PM  "Tuesday, May 1, 2018 8:00 PM - 10:00 PM  ")
+
+(isa AneeshKumartenortromboneTuesdayMay12018830PM1000PM  NUEvent)
+(eventName AneeshKumartenortromboneTuesdayMay12018830PM1000PM  "Aneesh Kumar, tenor trombone")
+(eventLocale AneeshKumartenortromboneTuesdayMay12018830PM1000PM  "Patrick G. and Shirley W. Ryan Center for the Musical Arts, Galvin Recital Hall, 70 Arts Circle, Evanston, IL 60208")
+(dateOfEvent AneeshKumartenortromboneTuesdayMay12018830PM1000PM  "Tuesday, May 1, 2018 8:30 PM - 10:00 PM  ")
+
+(isa IntermediateHipHopDanceTuesdayMay12018830PM1030PM  NUEvent)
+(eventName IntermediateHipHopDanceTuesdayMay12018830PM1030PM  "Intermediate Hip Hop Dance")
+(eventLocale IntermediateHipHopDanceTuesdayMay12018830PM1030PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent IntermediateHipHopDanceTuesdayMay12018830PM1030PM  "Tuesday, May 1, 2018 8:30 PM - 10:30 PM  ")
+
+(isa MichaellaCiprianisopranoTuesdayMay12018830PM1000PM  NUEvent)
+(eventName MichaellaCiprianisopranoTuesdayMay12018830PM1000PM  "Michaella Cipriani, soprano")
+(eventLocale MichaellaCiprianisopranoTuesdayMay12018830PM1000PM  "Regenstein Hall of Music, Regenstein Master Class Room, 60 Arts Circle Drive, Evanston, IL 60208")
+(dateOfEvent MichaellaCiprianisopranoTuesdayMay12018830PM1000PM  "Tuesday, May 1, 2018 8:30 PM - 10:00 PM  ")
+
+(isa MixologyTuesdayMay12018915PM1015PM  NUEvent)
+(eventName MixologyTuesdayMay12018915PM1015PM  "Mixology")
+(eventLocale MixologyTuesdayMay12018915PM1015PM  "Norris University Center, 1999 Campus Drive, Evanston, IL 60208")
+(dateOfEvent MixologyTuesdayMay12018915PM1015PM  "Tuesday, May 1, 2018 9:15 PM - 10:15 PM  ")
+

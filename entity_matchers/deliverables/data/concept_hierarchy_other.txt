@@ -1,0 +1,321 @@
+Others
+	General and reference
+		Document types
+			Surveys and overviews
+			Reference works
+			General conference proceedings
+			Biographies
+			General literature
+			Computing standards, RFCs and guidelines
+		Cross-computing tools and techniques
+			Reliability
+			Empirical studies
+			Measurement
+			Metrics
+			Evaluation
+			Experimentation
+			Estimation
+			Design
+			Performance
+			Validation
+			Verification
+	Applied computing
+		Electronic commerce
+			Digital cash
+			E-commerce infrastructure
+			Electronic data interchange
+			Electronic funds transfer
+			Online shopping
+			Online banking
+			Secure online transactions
+			Online auctions
+		Enterprise computing
+			Enterprise information systems
+				Intranets
+				Extranets
+				Enterprise resource planning
+				Enterprise applications
+				Data centers
+			Business process management
+				Business process modeling
+				Business process management systems
+				Business process monitoring
+				Cross-organizational business processes
+				Business intelligence
+			Enterprise architectures
+				Enterprise architecture management
+				Enterprise architecture frameworks
+				Enterprise architecture modeling
+			Service-oriented architectures
+			Event-driven architectures
+			Business rules
+			Enterprise modeling
+			Enterprise ontologies, taxonomies and vocabularies
+			Enterprise data management
+			Reference models
+			Business-IT alignment
+			IT architectures
+			IT governance
+			Enterprise computing infrastructures
+			Enterprise interoperability
+				Enterprise application integration
+				Information integration and interoperability
+		Physical sciences and engineering
+			Aerospace
+				Avionics
+			Archaeology
+			Astronomy
+			Chemistry
+			Earth and atmospheric sciences
+				Environmental sciences
+			Engineering
+				Computer-aided design
+			Physics
+			Mathematics and statistics
+			Electronics
+				Avionics
+			Telecommunications
+				Internet telephony
+		Life and medical sciences
+			Computational biology
+				Molecular sequence analysis
+				Recognition of genes and regulatory elements
+				Molecular evolution
+				Computational transcriptomics
+				Biological networks
+				Sequencing and genotyping technologies
+				Imaging
+				Computational proteomics
+				Molecular structural biology
+				Computational genomics
+			Genomics
+				Computational genomics
+			Systems biology
+			Consumer health
+			Health care information systems
+			Health informatics
+			Bioinformatics
+			Metabolomics / metabonomics
+			Genetics
+				Population genetics
+				Proteomics
+					Computational proteomics
+				Transcriptomics
+		Law, social and behavioral sciences
+			Anthropology
+				Ethnography
+			Law
+			Psychology
+			Economics
+			Sociology
+		Computer forensics
+			Surveillance mechanisms
+			Investigation techniques
+			Evidence collection, storage and analysis
+			Network forensics
+			System forensics
+			Data recovery
+		Arts and humanities
+			Fine arts
+			Performing arts
+			Architecture (buildings)
+				Computer-aided design
+			Language translation
+			Media arts
+			Sound and music computing
+		Computers in other domains
+			Digital libraries and archives
+			Publishing
+			Military
+				Cyberwarfare
+			Cartography
+			Agriculture
+			Computing in government
+				Voting / election technologies
+				E-government
+			Personal computers and PC applications
+				Word processors
+				Spreadsheets
+				Computer games
+				Microcomputers
+		Operations research
+			Consumer products
+			Industry and manufacturing
+				Supply chain management
+				Command and control
+			Computer-aided manufacturing
+			Decision analysis
+				Multi-criterion optimization and decision-making
+			Transportation
+			Forecasting
+			Marketing
+		Education
+			Digital libraries and archives
+			Computer-assisted instruction
+			Interactive learning environments
+			Collaborative learning
+			Learning management systems
+			Distance learning
+			E-learning
+			Computer-managed instruction
+		Document management and text processing
+			Document searching
+			Document management
+				Text editing
+				Version control
+				Document metadata
+			Document capture
+				Document analysis
+				Document scanning
+				Graphics recognition and interpretation
+				Optical character recognition
+				Online handwriting recognition
+			Document preparation
+				Markup languages
+					Extensible Markup Language (XML)
+					Hypertext languages
+				Annotation
+				Format and notation
+				Multi / mixed media creation
+				Image composition
+				Hypertext / hypermedia creation
+				Document scripting languages
+	Social and professional topics
+		Professional topics
+			Computing industry
+				Industry statistics
+				Computer manufacturing
+				Sustainability
+			Management of computing and information systems
+				Project and people management
+					Project management techniques
+					Project staffing
+					Systems planning
+					Systems analysis and design
+					Systems development
+					Computer and information systems training
+				Implementation management
+					Hardware selection
+					Computing equipment management
+					Pricing and resource allocation
+				Software management
+					Software maintenance
+					Software selection and adaptation
+				System management
+					Centralization / decentralization
+					Technology audits
+					Quality assurance
+				Network operations
+				File systems management
+				Information system economics
+			History of computing
+				Historical people
+				History of hardware
+				History of software
+				History of programming languages
+				History of computing theory
+			Computing education
+				Computational thinking
+				Accreditation
+				Model curricula
+				Computing education programs
+					Information systems education
+					Computer science education
+						CS1
+					Computer engineering education
+					Information technology education
+					Information science education
+					Computational science and engineering education
+					Software engineering education
+				Informal education
+				Computing literacy
+				Student assessment
+				K-12 education
+				Adult education
+			Computing and business
+				Employment issues
+				Automation
+				Computer supported cooperative work
+				Economic impact
+				Offshoring
+				Reengineering
+				Socio-technical systems
+			Computing profession
+				Codes of ethics
+				Employment issues
+				Funding
+				Computing occupations
+				Computing organizations
+				Testing, certification and licensing
+				Assistive technologies
+		Computing / technology policy
+			Intellectual property
+				Digital rights management
+				Copyrights
+				Software reverse engineering
+				Patents
+				Trademarks
+				Internet governance / domain names
+				Licensing
+				Treaties
+				Database protection laws
+				Secondary liability
+				Soft intellectual property
+				Hardware reverse engineering
+			Privacy policies
+			Censorship
+				Pornography
+				Hate speech
+				Political speech
+				Technology and censorship
+				Censoring filters
+			Surveillance
+				Governmental surveillance
+				Corporate surveillance
+			Commerce policy
+				Taxation
+				Transborder data flow
+				Antitrust and competition
+				Governmental regulations
+				Online auctions policy
+				Consumer products policy
+			Network access control
+				Censoring filters
+				Broadband access
+				Net neutrality
+				Network access restrictions
+					Age-based restrictions
+					Acceptable use policy restrictions
+				Universal access
+			Computer crime
+				Social engineering attacks
+					Spoofing attacks
+					Phishing
+				Identity theft
+				Financial crime
+				Malware / spyware crime
+			Government technology policy
+				Governmental regulations
+				Import / export controls
+			Medical information policy
+				Medical records
+				Personal health records
+				Genetic information
+				Patient privacy
+				Health information exchanges
+				Medical technologies
+					Remote medicine
+		User characteristics
+			Race and ethnicity
+			Religious orientation
+			Gender
+				Men
+				Women
+			Sexual orientation
+			People with disabilities
+			Geographic characteristics
+			Cultural characteristics
+			Age
+				Children
+				Seniors
+				Adolescents
