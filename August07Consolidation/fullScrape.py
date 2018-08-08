@@ -143,12 +143,14 @@ def scrapeFacultyData():
 		# (3 pages are not and have hull https:// links...)
 		if not faculty_page.startswith('http'):
 			faculty_page = 'http:' + faculty_page
-		else:
-			continue  # don't have parsers for personal/outside sites.
+		# else:
+		# 	continue  # don't have parsers for personal/outside sites.
 		content = requests.get(faculty_page).content
 		tree = html.fromstring(content)
 		# scrape faculty data
 		faculty['name']          = xpathToCleanString(tree, FACULTY_NAME)
+		if faculty['name'] is None:
+			continue
 		faculty['ID']            = uniqueID(faculty['name'])
 		faculty['address']       = xpathAddress(tree, ADDRESS)
 		faculty['room_number']   = xpathRoomNumber(tree, ADDRESS)
@@ -571,7 +573,6 @@ def main():
 	########
 	print('faculty')
 	faculty = facultyMeld(colleges)
-	# print faculty 
 	toFile(faculty, 'faculty')
 	########
 	print('events')
